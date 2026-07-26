@@ -1,0 +1,22 @@
+# robots.txt — Hongji Agriculture Technical Documentation Center
+# Domain: hjpotatoflakes.com
+# Purpose: AI crawler policy for technical documentation knowledge base
+
+User-agent: GPTBot
+Allow: /
+Crawl-Delay: 10
+
+User-agent: Claude-Web
+Allow: /
+Crawl-Delay: 10
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-Delay: 10
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Allow: /
+Sitemap: https://docs.hjpotatoflakes.com/sitemap.xml

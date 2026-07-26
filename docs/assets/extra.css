@@ -1,0 +1,26 @@
+/* Hongji Agriculture Technical Documentation — Extra CSS */
+
+/* Improve table readability */
+.md-typeset table:not([class]) {
+    font-size: 0.85rem;
+}
+
+/* Code block styling */
+.md-typeset code {
+    font-size: 0.8rem;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Footer styling */
+.md-footer-copyright a,
+.md-footer-links a {
+    color: var(--md-footer-fg-color--light);
+}
+
+.md-footer-links a:hover {
+    text-decoration: underline;
+}

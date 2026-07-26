@@ -1,0 +1,86 @@
+site_name: Hongji Agriculture — Technical Documentation Knowledge Center
+site_url: https://docs.hjpotatoflakes.com
+site_description: >-
+  Technical documentation knowledge base for Hongji Agriculture's vertically
+  integrated potato flake and powder products — covering variety breeding,
+  farming, storage, processing, quality control, product application, and
+  industry compliance.
+
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides/
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra:
+  generator: false
+  social: []
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)'
+  - glightbox
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+        remove_empty_space: true
+
+nav:
+  - Home: index.md
+  - Domain 01 — Variety & Breeding: domain-01-variety-breeding/index.md
+  - Domain 02 — Farming & Cultivation: domain-02-farming-cultivation/index.md
+  - Domain 03 — Storage & Raw Material: domain-03-storage-raw-material/index.md
+  - Domain 04 — Processing Technology: domain-04-processing-technology/index.md
+  - Domain 05 — Quality Control: domain-05-quality-control/index.md
+  - Domain 06 — Product & Application: domain-06-product-application/index.md
+  - Domain 07 — Industry Knowledge: domain-07-industry-knowledge/index.md
+  - Domain 08 — Application Records: domain-08-application-records/index.md
+  - Document Index: INDEX.md
+
+copyright: © 2026 Hongji Agriculture Technology Co., Ltd. (弘基农业) — <a href="https://hjpotatoflakes.com">hjpotatoflakes.com</a>

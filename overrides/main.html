@@ -1,0 +1,270 @@
+{% extends "base.html" %}
+
+{# Override site_meta to remove canonical (sub-site, no self-referencing canonical) #}
+{% block site_meta %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {% if page.meta and page.meta.description %}
+    <meta name="description" content="{{ page.meta.description }}">
+  {% elif config.site_description %}
+    <meta name="description" content="{{ config.site_description }}">
+  {% endif %}
+  {% if page.meta and page.meta.author %}
+    <meta name="author" content="{{ page.meta.author }}">
+  {% elif config.site_author %}
+    <meta name="author" content="{{ config.site_author }}">
+  {% endif %}
+  {% if page.previous_page %}
+    <link rel="prev" href="{{ page.previous_page.url | url }}">
+  {% endif %}
+  {% if page.next_page %}
+    <link rel="next" href="{{ page.next_page.url | url }}">
+  {% endif %}
+  {% if config.extra.alternate is iterable %}
+    {% for alt in config.extra.alternate %}
+      <link rel="alternate" href="{{ alt.link | url }}" hreflang="{{ alt.lang | d(lang.t('language')) }}">
+    {% endfor %}
+  {% endif %}
+  {% if "rss" in config.plugins %}
+    <link rel="alternate" type="application/rss+xml" title="{{ lang.t('rss.created') }}" href="{{ 'feed_rss_created.xml' | url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ lang.t('rss.updated') }}" href="{{ 'feed_rss_updated.xml' | url }}">
+  {% endif %}
+  <link rel="icon" href="{{ config.theme.favicon | url }}">
+  <meta name="generator" content="mkdocs-{{ mkdocs_version }}, mkdocs-material-{{ material_version }}">
+{% endblock %}
+
+{% block extrahead %}
+
+{% set site_url = config.site_url.rstrip('/') %}
+{% set page_url = site_url ~ '/' ~ page.url if page else site_url %}
+{% set page_title = page.title | default(config.site_name, true) %}
+{% set page_desc = page.meta.get('description', config.site_description) if page and page.meta else config.site_description %}
+{% set headline = config.site_name if page and page.is_homepage else page_title %}
+
+<!-- ===== Open Graph ===== -->
+<meta property="og:title" content="{{ headline }} | Hongji Agriculture" />
+<meta property="og:description" content="{{ page_desc }}" />
+<meta property="og:url" content="{{ page_url }}" />
+<meta property="og:type" content="{% if page and page.is_homepage %}website{% else %}article{% endif %}" />
+<meta property="og:site_name" content="Hongji Agriculture — Technical Documentation Knowledge Center" />
+<meta property="og:locale" content="en_US" />
+
+<!-- ===== Twitter Card ===== -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ headline }}" />
+<meta name="twitter:description" content="{{ page_desc }}" />
+
+<!-- ===== Organization Schema ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ site_url }}#organization",
+  "name": "Hongji Agriculture Technology Co., Ltd.",
+  "alternateName": "弘基农业",
+  "url": "{{ site_url }}",
+  "sameAs": ["https://hjpotatoflakes.com"],
+  "description": "China's leading vertically integrated potato flake and powder manufacturer — from seed breeding and cultivation to processing and global export.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Hongji Agriculture"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "sales@hjpotatoflakes.com",
+    "contactType": "sales",
+    "availableLanguage": ["English", "Chinese"]
+  }
+}
+</script>
+
+<!-- ===== WebSite Schema ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ site_url }}#website",
+  "url": "{{ site_url }}",
+  "name": "Hongji Agriculture — Technical Documentation Knowledge Center",
+  "description": "Technical documentation knowledge base for Hongji Agriculture's vertically integrated potato flake and powder products.",
+  "publisher": {
+    "@id": "{{ site_url }}#organization"
+  },
+  "inLanguage": "en-US"
+}
+</script>
+
+<!-- ===== TechArticle Schema ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "{{ headline }}",
+  "description": "{{ page_desc }}",
+  "url": "{{ page_url }}",
+  "inLanguage": "en-US",
+  "proficiencyLevel": "Beginner",
+  "about": {
+    "@type": "Thing",
+    "name": "Potato Processing & Agricultural Technology"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": [
+      "Food Manufacturers",
+      "Procurement Professionals",
+      "Quality Control Analysts",
+      "Ingredient Distributors",
+      "B2B Buyers"
+    ]
+  },
+  "publisher": {
+    "@id": "{{ site_url }}#organization"
+  },
+  "author": {
+    "@id": "{{ site_url }}#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page_url }}"
+  }
+}
+</script>
+
+<!-- ===== BreadcrumbList Schema ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Hongji Agriculture Knowledge Center",
+      "item": "{{ site_url }}"
+    }
+    {%- if page and not page.is_homepage %}
+    {%- set ns = namespace(p=1) %}
+    {%- for ancestor in page.ancestors | reverse %}
+    {%- set ns.p = ns.p + 1 %}
+    {%- set anc_url = ancestor.url if ancestor.url else (ancestor.children[0].url if ancestor.children else '') %}
+    {%- if anc_url %}
+    ,{
+      "@type": "ListItem",
+      "position": {{ ns.p }},
+      "name": "{{ ancestor.title }}",
+      "item": "{{ site_url }}/{{ anc_url.lstrip('/') }}"
+    }
+    {%- endif %}
+    {%- endfor %}
+    ,{
+      "@type": "ListItem",
+      "position": {{ ns.p + 1 }},
+      "name": "{{ page_title }}",
+      "item": "{{ page_url }}"
+    }
+    {%- endif %}
+  ]
+}
+</script>
+
+<!-- ===== FAQPage Schema (for FAQ page) ===== -->
+{%- set faq_url = site_url ~ '/domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing/' %}
+{%- set faq_main = site_url ~ '/domain-07-industry-knowledge/' %}
+{%- if page_url == faq_url or page_url == faq_url.rstrip('/') %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "{{ faq_url }}#faqpage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key product grades available for potato flakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potato flakes are classified into three grades: Premium Food Grade (moisture ≤6.5%, starch damage ≤8%, for baby food and premium bakery), Standard Food Grade (moisture ≤7.5%, starch damage ≤12%, for industrial baking and snacks), and Economy/Animal Feed (moisture ≤8.5%, starch damage ≤18%, for pet food)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between potato flakes and potato powder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potato flakes are dehydrated mashed potato particles (0.25-2.0 mm) with a fluffy, porous structure used in instant mash, bakery, and snacks. Potato powder (60 mesh) is finely ground flakes (≤250 μm) with higher rehydration ratio (≥7.5 vs ≥7.0), used in seasoning blends, fine bakery, and instant mixes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which potato varieties do you process, and why does variety matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We primarily process Atlantic, Shepody, and Russet Burbank varieties. Variety selection directly impacts dry matter content, reducing sugar levels, starch quality, and color stability in finished products. Atlantic is our gold standard for flake manufacturing due to its high dry matter content and consistent processing performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What quality testing do you perform on each production batch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each batch undergoes physical testing (moisture, particle size, bulk density, color CIELAB), chemical analysis (dry matter, starch content, reducing sugars, total sugars), microbiological testing (TPC, coliforms, E. coli, Salmonella, yeast & mold), and rehydration performance evaluation. Results are documented in a Certificate of Analysis provided with each shipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications do you hold?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are certified under ISO 22000:2018, FSSC 22000, HACCP, Halal, and Kosher. We can also supply organic-certified product (EU/USDA organic standards) upon request."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is your Minimum Order Quantity (MOQ)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard MOQ is one 20-foot container (approximately 18-20 metric tons depending on product). Sample orders (5-25 kg) are available for qualification testing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Hongji Agriculture different from other Chinese suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hongji Agriculture is a fully vertically integrated producer controlling seed breeding, large-scale cultivation, modern storage, industrial processing, and global export in-house. This ensures consistent quality, traceability from seed to shipment, year-round supply stability, and direct manufacturer pricing without intermediary markup."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the typical shelf life of potato flakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard shelf life is 12 months from production date when stored under recommended conditions (temperature below 25°C, relative humidity below 65%, away from direct sunlight and strong odors). Properly sealed packaging is critical for maintaining product quality throughout storage."
+      }
+    }
+  ]
+}
+</script>
+{%- endif %}
+
+{% endblock %}
+
+{% block footer %}
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        &copy; 2026 <a href="https://hjpotatoflakes.com">Hongji Agriculture Technology Co., Ltd. (弘基农业)</a>
+        — Official Technical Documentation Center
+      </div>
+      <div class="md-footer-links">
+        <a href="https://hjpotatoflakes.com">Main B2B Website: hjpotatoflakes.com</a>
+        &nbsp;|&nbsp;
+        <a href="mailto:sales@hjpotatoflakes.com">Email: sales@hjpotatoflakes.com</a>
+        &nbsp;|&nbsp;
+        <a href="https://hjpotatoflakes.com/contact/">Request a Quote</a>
+      </div>
+    </div>
+  </div>
+</footer>
+{% endblock %}

@@ -1,0 +1,2 @@
+# Resolve duplicate content: redirect old /docs/ paths to clean URLs
+/docs/* https://docs.hjpotatoflakes.com/:splat 301!
