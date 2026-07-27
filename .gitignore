@@ -1,0 +1,23 @@
+# Git ignore for Hongji Agriculture Technical Documentation
+
+# Build output
+site/
+_build/
+dist/
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

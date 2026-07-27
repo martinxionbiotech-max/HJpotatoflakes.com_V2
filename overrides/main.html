@@ -1,6 +1,5 @@
 {% extends "base.html" %}
 
-{# Override site_meta to remove canonical (sub-site, no self-referencing canonical) #}
 {% block site_meta %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -29,6 +28,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ lang.t('rss.created') }}" href="{{ 'feed_rss_created.xml' | url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ lang.t('rss.updated') }}" href="{{ 'feed_rss_updated.xml' | url }}">
   {% endif %}
+  <link rel="canonical" href="{{ site_url }}/{{ page.url if page else '' }}">
   <link rel="icon" href="{{ config.theme.favicon | url }}">
   <meta name="generator" content="mkdocs-{{ mkdocs_version }}, mkdocs-material-{{ material_version }}">
 {% endblock %}
@@ -54,15 +54,17 @@
 <meta name="twitter:title" content="{{ headline }}" />
 <meta name="twitter:description" content="{{ page_desc }}" />
 
+{% set main_url = "https://hjpotatoflakes.com" %}
+
 <!-- ===== Organization Schema ===== -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "{{ site_url }}#organization",
+  "@id": "{{ main_url }}#organization",
   "name": "Hongji Agriculture Technology Co., Ltd.",
   "alternateName": "弘基农业",
-  "url": "{{ site_url }}",
+  "url": "{{ main_url }}",
   "sameAs": ["https://hjpotatoflakes.com"],
   "description": "China's leading vertically integrated potato flake and powder manufacturer — from seed breeding and cultivation to processing and global export.",
   "brand": {
@@ -88,7 +90,7 @@
   "name": "Hongji Agriculture — Technical Documentation Knowledge Center",
   "description": "Technical documentation knowledge base for Hongji Agriculture's vertically integrated potato flake and powder products.",
   "publisher": {
-    "@id": "{{ site_url }}#organization"
+    "@id": "{{ main_url }}#organization"
   },
   "inLanguage": "en-US"
 }
@@ -119,10 +121,10 @@
     ]
   },
   "publisher": {
-    "@id": "{{ site_url }}#organization"
+    "@id": "{{ main_url }}#organization"
   },
   "author": {
-    "@id": "{{ site_url }}#organization"
+    "@id": "{{ main_url }}#organization"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
