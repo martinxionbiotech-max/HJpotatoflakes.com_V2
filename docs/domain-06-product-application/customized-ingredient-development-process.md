@@ -376,7 +376,7 @@ To initiate a customized ingredient development project:
 
 *Document version: 1.0 | Last updated: July 2026 | Prepared by: Hongji Agriculture — Customized Ingredient Development Division*
 
-*For inquiries: tech@hjpotatoflakes.com | Phone: +86-313-XXXXXXX*
+*For inquiries: tech@hjpotatoflakes.com | Phone: +86 400-633-0616*
 
 *Hongji Agriculture Co., Ltd. | Zhangjiakou, Hebei, China | hjpotatoflakes.com*
 

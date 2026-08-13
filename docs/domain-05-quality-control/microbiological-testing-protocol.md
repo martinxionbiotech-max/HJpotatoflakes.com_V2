@@ -26,8 +26,8 @@ The microbiological quality program is designed to meet the requirements of ISO 
 | Classification | ISO Class 7 (Grade C) clean room for sample preparation |
 | Biosafety Level | BSL-2 (for pathogen testing: Salmonella, S. aureus) |
 | Key Equipment | Autoclave (vertical, 120 L), laminar flow hood (Class II), incubators (various temps), stomacher, colony counter, real-time PCR (Bio-Rad CFX96) |
-| Staff | 1 Lead Microbiologist (PhD in Food Microbiology), 3 Microbiological Analysts |
-| Accreditation | CNAS (China National Accreditation Service) pending for selected parameters |
+| Staff | Dedicated microbiologist and trained analysts |
+| Accreditation | Testing methods follow GB 4789 national standards; third-party verification by accredited laboratories |
 
 ---
 

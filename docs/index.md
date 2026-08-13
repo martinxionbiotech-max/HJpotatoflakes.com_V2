@@ -5,7 +5,7 @@ description: "> **Knowledge Center v1.0** | July 2026 | [hjpotatoflakes.com](htt
 # Hongji Agriculture Technical Documentation — INDEX
 
 > **Knowledge Center v1.0** | July 2026 | [hjpotatoflakes.com](https://hjpotatoflakes.com)  
-> 48 documents across 8 knowledge domains | AI-ready Markdown format
+> 55 documents across 9 knowledge domains | AI-ready Markdown format
 
 ---
 
@@ -192,6 +192,24 @@ Each document is prefixed with a domain code for AI indexing:
 | 48 | [Pet Food — Palatability Customization](domain-08-application-records/app-dev-pet-food-palatable-formula.md) | US premium pet food brand: cat vs dog-specific formulas, palatability preference test, in-vitro digestibility comparison | pet food, palatability, digestibility, cat food, dog food |
 
 **Total: 8 documents** | *Domain prefix: HJ-TD-AR*
-*Index generated: July 2026 | Total: 48 documents | 8 knowledge domains*  
+
+---
+
+## Domain 09 — Production Entity Archive
+
+*Domain prefix: HJ-TD-PE*
+
+| # | File | Description | Keywords |
+|:-:|:-----|:------------|:---------|
+| 49 | [Quality & Food Safety Management Manual](domain-09-production-entity/quality-food-safety-management-manual.md) | Meishile company profile, quality & food safety policy and objectives, ISO 9001/22000/FSSC 22000 framework, contact information | QMS manual, quality policy, FSSC 22000, ISO 9001, Meishile |
+| 50 | [Food Fraud Vulnerability Assessment](domain-09-production-entity/food-fraud-vulnerability-assessment.md) | Adulteration and substitution risk analysis, supplier control levels, RPN risk matrix, control measures plan | food fraud, vulnerability, adulteration, supplier control |
+| 51 | [Food Fraud Assessment Record (RPN Matrix)](domain-09-production-entity/food-fraud-assessment-record.md) | RPN risk matrix for raw materials, additives, and packaging suppliers with detectability and risk levels | RPN, risk matrix, detectability, food fraud record |
+| 52 | [Identification & Traceability Control Procedure](domain-09-production-entity/identification-traceability-control-procedure.md) | Inspection status categories, product identification, equipment identification, 3-year traceability record retention | traceability, identification, inspection status, batch number |
+| 53 | [Allergen Management Policy](domain-09-production-entity/allergen-management-policy.md) | China's 8 major food allergen categories per GB 23779-2009/GB 7718-2011, control measures | allergen, GB 23779, GB 7718, cross-contamination |
+| 54 | [Potato Flakes Product Specification](domain-09-production-entity/potato-flakes-product-specification.md) | Sensory, physicochemical, contaminant, microbiological specs per SB/T 10752-2012 and GB standards | product spec, moisture, reducing sugar, blue value, GB 5009 |
+| 55 | [Critical Control Points in Production](domain-09-production-entity/critical-control-points-production.md) | Process flow, magnetic separation + metal detection CCPs, monitoring and corrective actions | CCP, HACCP, metal detection, magnetic separation |
+
+**Total: 7 documents** | *Domain prefix: HJ-TD-PE*
+*Index generated: July 2026 | Total: 55 documents | 9 knowledge domains*  
 *Hongji Agriculture Technology Co., Ltd. (弘基农业)*  
 *Visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official online portal of Hongji Agriculture Technology Co., Ltd. (弘基农业)*

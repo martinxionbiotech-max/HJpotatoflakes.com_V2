@@ -129,6 +129,16 @@ nav:
       - Baby Food Particle Size Refinement: domain-08-application-records/app-dev-baby-food-particle-refinement.md
       - Pet Food Palatability Customization: domain-08-application-records/app-dev-pet-food-palatable-formula.md
 
+  - "Domain 09 · Production Entity Archive":
+      - domain-09-production-entity/index.md
+      - Quality & Food Safety Manual: domain-09-production-entity/quality-food-safety-management-manual.md
+      - Food Fraud Vulnerability Assessment: domain-09-production-entity/food-fraud-vulnerability-assessment.md
+      - Food Fraud Assessment Record (RPN): domain-09-production-entity/food-fraud-assessment-record.md
+      - Identification & Traceability Control: domain-09-production-entity/identification-traceability-control-procedure.md
+      - Allergen Management Policy: domain-09-production-entity/allergen-management-policy.md
+      - Product Specification: domain-09-production-entity/potato-flakes-product-specification.md
+      - Critical Control Points: domain-09-production-entity/critical-control-points-production.md
+
 # ---------- 插件 ----------
 plugins:
   - search

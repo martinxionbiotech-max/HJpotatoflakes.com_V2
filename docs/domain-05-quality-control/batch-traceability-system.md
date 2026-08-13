@@ -112,34 +112,21 @@ The following fields must be accurately linked across stages for full traceabili
 
 ## 4. Information System Architecture
 
-### 4.1 System Integration
+Hongji's traceability system is supported by integrated information platforms covering:
 
-Hongji's traceability system is supported by three integrated information platforms:
+| System Function | Traceability Role |
+|-----------------|-------------------|
+| **ERP (Enterprise Resource Planning)** | Financial, purchase order, shipment, and inventory records |
+| **Manufacturing / Factory records** | CCP monitoring, line data, downtime logging |
+| **Warehouse Management** | Bin tracking, FIFO control, pallet labels |
+| **Laboratory Information** | QC results, COA generation, stability data |
 
-```
-                     ┌─────────────────┐
-                     │  ERP (SAP B1)   │
-                     │  Financial, PO, │
-                     │  Shipment, Inv  │
-                     └────────┬────────┘
-                              │
-         ┌────────────────────┼────────────────────┐
-         │                    │                    │
-         ▼                    ▼                    ▼
-┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
-│  MES (Factory)  │  │  WMS (Warehse)  │  │  LIMS (Lab)     │
-│  CCP monitoring │  │  Bin tracking   │  │  QC results     │
-│  Line data      │  │  FIFO control   │  │  COA generation │
-│  Downtime/SCADA │  │  Pallet labels  │  │  Stability data │
-└─────────────────┘  └─────────────────┘  └─────────────────┘
-```
+### 4.1 Manufacturing Records — Detail
 
-### 4.2 MES (Manufacturing Execution System) — Detail
+Production records capture the core traceability data for each batch:
 
-The MES is the core operational system for processing traceability:
-
-| MES Function | Traceability Data Generated |
-|--------------|----------------------------|
+| Record Function | Traceability Data Generated |
+|----------------|-----------------------------|
 | **Recipe Management** | Ingredient/batch recipe used for each production run |
 | **CCP Data Logging** | Blanch temp/time, drum steam pressure, metal detector events |
 | **Material Consumption** | Linking raw material IN-numbers to output WIP-numbers |
@@ -147,7 +134,7 @@ The MES is the core operational system for processing traceability:
 | **Machine Parameters** | Line speed, drum RPM, residence time, drying air temperature |
 | **Operator Tracking** | Personnel ID per shift per station |
 
-### 4.3 Barcode Labeling System
+### 4.2 Barcode Labeling System
 
 | Level | Label Type | Barcode Standard | Information Encoded |
 |-------|------------|------------------|---------------------|
@@ -156,15 +143,16 @@ The MES is the core operational system for processing traceability:
 | Big Bag | GS1-128 | Code 128 | Lot number, net weight, best-before date |
 | Shipping Container | SSCC-18 | GS1-128 | Serial Shipping Container Code (linked to lot numbers within) |
 
-### 4.4 Data Retention and Backup
+### 4.3 Data Retention and Backup
 
-| Data Type | Retention Period | Backup Frequency | Format |
-|-----------|------------------|------------------|--------|
-| ERP transactional data | 5 years | Daily | Full database backup |
-| MES batch records | 5 years | Daily | SQL database + PDF archive |
-| LIMS test results | 5 years | Daily | Database + PDF signature archive |
-| CCP SCADA logs | 3 years | Weekly rolling | Compressed CSV + system log |
-| CCTV footage (production area) | 90 days | Rolling | MP4 on NVR |
+| Data Type | Retention Period | Backup Frequency |
+|-----------|------------------|------------------|
+| ERP transactional data | 5 years | Daily |
+| Manufacturing batch records | 5 years | Daily |
+| Laboratory test results | 5 years | Daily |
+| CCP monitoring logs | 3 years | Weekly rolling |
+| Traceability records | At least 3 years | As generated |
+| CCTV footage (production area) | 90 days | Rolling |
 
 ---
 
@@ -172,14 +160,14 @@ The MES is the core operational system for processing traceability:
 
 ### 5.1 Key Performance Indicators
 
-| KPI | Definition | Target | Actual (2025) |
-|-----|------------|--------|----------------|
-| **T1 — Backward Trace Time** | Time to trace from finished product to raw material source (field level) | ≤4 hours | 3.2 hours avg |
-| **T2 — Forward Trace Time** | Time to trace from finished product to all customer delivery points | ≤8 hours | 5.5 hours avg |
-| **Trace Success Rate (1 step)** | % of trace exercises achieving one-step traceability (finished product → production batch OR raw material → processing line) | 100% | 100% |
-| **Trace Success Rate (Full chain)** | % of trace exercises achieving full end-to-end traceability (finished product → seed lot and finished product → all customers) | ≥95% | 98% |
-| **Data Completeness** | % of required data fields populated for a given lot | 100% | 99.6% |
-| **Label Accuracy** | % of barcode scans matching database records | ≥99.9% | 99.94% |
+| KPI | Definition | Target |
+|-----|------------|--------|
+| **T1 — Backward Trace Time** | Time to trace from finished product to raw material source (field level) | ≤4 hours |
+| **T2 — Forward Trace Time** | Time to trace from finished product to all customer delivery points | ≤8 hours |
+| **Trace Success Rate (1 step)** | % of trace exercises achieving one-step traceability (finished product → production batch OR raw material → processing line) | 100% |
+| **Trace Success Rate (Full chain)** | % of trace exercises achieving full end-to-end traceability (finished product → seed lot and finished product → all customers) | ≥95% |
+| **Data Completeness** | % of required data fields populated for a given lot | 100% |
+| **Label Accuracy** | % of barcode scans matching database records | ≥99.9% |
 
 ### 5.2 Measurement Methodology
 
@@ -216,11 +204,7 @@ Step 8 — Report (submitted within 5 working days to COO and certification body
 
 ### 6.2 Mock Recall Scenario Examples
 
-| Exercise | Date | Scenario | Result |
-|----------|------|----------|--------|
-| Recall-2025-01 | 2025-03-15 | Customer complaint: elevated SO₂ in Standard Flakes lot HJ-RB-K1-250310-02-B | 100% backward trace in 3.8 h; 100% forward trace in 6.1 h; 3 customer destinations identified |
-| Recall-2025-02 | 2025-09-20 | Regulatory audit request: Salmonella trace investigation for Fine Powder lot HJ-SH-S4-250915-02-A | 100% backward trace in 2.9 h; forward trace in 5.0 h; 2 customers impacted |
-| Recall-2026-01 | 2026-05-10 | Unknown contaminant scenario (simulated wheat gluten cross-contact in Line 01) | 100% backward trace in 3.5 h; forward trace in 5.8 h; 4 lot numbers affected; effectiveness rating: 96% |
+Hongji conducts mock recalls covering typical scenarios such as customer complaints on quality parameters, regulatory traceability investigations, and contaminant cross-contact simulations. Each exercise validates backward trace (finished product → raw material) and forward trace (finished product → all customer shipments). Results are documented and used for continuous improvement.
 
 ### 6.3 Mock Recall Scoring
 

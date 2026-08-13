@@ -38,14 +38,7 @@ Hongji's QA function is independent of production operations and reports directl
 
 ### 2.2 Staffing Allocation
 
-The QA department comprises 38 full-time personnel, distributed as follows:
-
-- **Quality Management Center (Management & Systems):** 5
-- **Raw Material QA Team:** 8 (including 2 field inspectors)
-- **In-Process QC Team (3 shifts):** 12
-- **Finished Product & Laboratory Team:** 8
-- **Traceability & Compliance Team:** 3
-- **Document Control & Training:** 2
+The QA department comprises dedicated full-time personnel distributed across the Quality Management Center, raw material QA, in-process QC (covering all shifts), finished-product and laboratory testing, traceability and compliance, and document control and training.
 
 ---
 
@@ -85,14 +78,15 @@ Hongji maintains a suite of internationally recognized food safety and quality m
 
 ### 4.1 Current Certifications
 
-| Certification | Standard | Accrediting Body | Scope | Certificate No. | Valid Until |
-|---------------|----------|------------------|-------|-----------------|-------------|
-| **ISO 9001:2015** | Quality Management Systems | SGS | Design, production, and distribution of potato flakes and potato powder | QM-2024-01234 | 2027-06-30 |
-| **ISO 22000:2018** | Food Safety Management Systems | SGS | All processing operations and supply chain | FS-2024-05678 | 2027-06-30 |
-| **HACCP** | Codex Alimentarius CAC/RCP 1-1969 | China CNCA | Processing line CCP management | H-2024-09012 | 2027-06-30 |
-| **FSSC 22000** | FSSC 22000 Version 6.0 | SGS | Full food safety system integration | FSSC-2024-03456 | 2027-09-15 |
-| **Kosher** | Orthodox Union | OU | Production line dedicated for kosher runs | K-2025-110 | 2027-03-31 |
-| **Halal** | Halal Quality Control | HQCM | All products | HQC-2025-220 | 2027-12-31 |
+| Certification | Standard | Scope |
+|---------------|----------|-------|
+| **ISO 9001:2015** | Quality Management Systems | Design, production, and distribution of potato flakes and potato powder |
+| **ISO 22000:2018** | Food Safety Management Systems | All processing operations and supply chain |
+| **HACCP** | Codex Alimentarius CAC/RCP 1-1969 | Processing line CCP management |
+| **FSSC 22000** | FSSC 22000 Version 6.0 | Full food safety system integration |
+| **Halal / Kosher** | Per certification body requirements | Production line dedicated runs (subject to availability) |
+
+> Certification is maintained through accredited certification bodies and renewed on schedule. Current certificates are available upon request.
 
 ### 4.2 Certification Maintenance Schedule
 
@@ -128,7 +122,7 @@ Hongji hosts an average of 12–18 external audits per year, comprising:
 - **Regulatory Audits (1–2/year):** China SAMR (State Administration for Market Regulation) and local health authorities.
 - **Import Country Audits:** As required by destination regulatory authorities (FDA, EU competent authorities, etc.).
 
-Customer audit scores over the past 24 months average **92.4/100**, with no major non-conformances recorded.
+Audit results are logged in the CAPA (Corrective and Preventive Action) system for tracking and continuous improvement.
 
 ### 5.3 Non-Conformance and CAPA
 
@@ -151,18 +145,18 @@ Hongji establishes annual quality KPIs at the beginning of each fiscal year. The
 
 ### 6.1 Key Performance Indicators
 
-| KPI ID | Indicator | Definition | 2026 Target | 2025 Actual |
-|--------|-----------|------------|-------------|-------------|
-| KPI-01 | First-Pass Yield (FPY) | % of product passing final QC on first attempt | ≥97.0% | 96.4% |
-| KPI-02 | Customer Complaint Rate | Complaints (weighted by severity) per 1,000 MT shipped | ≤0.8 | 1.1 |
-| KPI-03 | On-Time In-Full (OTIF) | Orders shipped complete and on time | ≥98.5% | 97.8% |
-| KPI-04 | Lot Release Cycle Time | Average hours from production completion to COA issuance | ≤24 h | 26 h |
-| KPI-05 | Non-Conforming Product Rate | % of total production rejected or downgraded to 2nd grade | ≤1.5% | 1.8% |
-| KPI-06 | Internal Audit Finding Closure Rate | % of findings closed within target period | ≥95% | 93% |
-| KPI-07 | Supplier Non-Conformance Rate | % of incoming raw material lots with rejection | ≤3.0% | 3.4% |
-| KPI-08 | Mock Recall Completion Time | Hours to achieve 100% traceability in recall simulation | ≤4 h | 3.5 h |
-| KPI-09 | Laboratory Inter-Laboratory Z-Score | Proficiency test results | \|Z\| ≤ 2.0 | \|Z\| = 1.3 avg |
-| KPI-10 | Employee Food Safety Training Completion | % of food handlers completing annual refresher | 100% | 98.5% |
+| KPI ID | Indicator | Definition | 2026 Target |
+|--------|-----------|------------|-------------|
+| KPI-01 | First-Pass Yield (FPY) | % of product passing final QC on first attempt | ≥97.0% |
+| KPI-02 | Customer Complaint Rate | Complaints (weighted by severity) per 1,000 MT shipped | ≤0.8 |
+| KPI-03 | On-Time In-Full (OTIF) | Orders shipped complete and on time | ≥98.5% |
+| KPI-04 | Lot Release Cycle Time | Average hours from production completion to COA issuance | ≤24 h |
+| KPI-05 | Non-Conforming Product Rate | % of total production rejected or downgraded to 2nd grade | ≤1.5% |
+| KPI-06 | Internal Audit Finding Closure Rate | % of findings closed within target period | ≥95% |
+| KPI-07 | Supplier Non-Conformance Rate | % of incoming raw material lots with rejection | ≤3.0% |
+| KPI-08 | Mock Recall Completion Time | Hours to achieve 100% traceability in recall simulation | ≤4 h |
+| KPI-09 | Laboratory Inter-Laboratory Z-Score | Proficiency test results | \|Z\| ≤ 2.0 |
+| KPI-10 | Employee Food Safety Training Completion | % of food handlers completing annual refresher | 100% |
 
 ### 6.2 KPI Review Mechanism
 
@@ -210,7 +204,7 @@ For inquiries regarding Hongji's quality system, certification documentation, or
 Hongji Agriculture Co., Ltd.  
 Zhangjiakou, Hebei, China  
 Email: quality@hjpotatoflakes.com  
-Tel: +86-313-XXXXXXX
+Tel: +86 400-633-0616
 
 ---
 

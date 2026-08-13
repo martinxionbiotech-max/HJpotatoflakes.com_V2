@@ -27,7 +27,7 @@ From **seed to finished ingredient**, every stage of the supply chain is managed
 
 ---
 
-## Document Structure (8 Knowledge Domains)
+## Document Structure (9 Knowledge Domains)
 
 ```
 hj-potato-docs/
@@ -39,6 +39,7 @@ hj-potato-docs/
 ├── domain-06-product-application/   # Product specs, application guides & custom development
 ├── domain-07-industry-knowledge/    # Market reports, regulations, trade & compliance
 ├── domain-08-application-records/   # Real-world application development case studies
+├── domain-09-production-entity/     # Meishile production entity food safety system archive
 ├── llms.txt                         # AI context map — lightweight
 ├── llms-full.txt                    # AI context map — full content
 ├── README.md                        # This file
@@ -72,6 +73,9 @@ Global market intelligence, Chinese potato processing industry analysis, interna
 
 ### Domain 08 — Application Development Records (8 documents)
 Real-world application development case studies covering instant mashed potato rehydration optimization, gluten-free bread formulation, extruded snack density control, cream soup viscosity/stability, meat binder water-holding capacity, seasoned snack powder flavor carriers, baby food particle refinement, and pet food palatability enhancement.
+
+### Domain 09 — Production Entity Archive (7 documents)
+First-hand food safety system documentation from the potato flake production entity, Inner Mongolia Meishile Agricultural Technology Co., Ltd. (内蒙古美事乐农业科技有限公司). Includes the Quality & Food Safety Management Manual (MSL-01-B-2024), Food Fraud Vulnerability Assessment, RPN risk matrix, identification & traceability control, allergen management policy, product specification, and critical control points (CCPs).
 
 ---
 
@@ -108,7 +112,7 @@ Each document is structured to rank for specific B2B keyword clusters:
 
 ---
 
-## File Manifest (48 documents, 8 domains)
+## File Manifest (55 documents, 9 domains)
 
 | Domain | Documents | Total Files |
 |:-------|:----------|:-----------:|
@@ -120,7 +124,8 @@ Each document is structured to rank for specific B2B keyword clusters:
 | 06 Product & Application | flakes-datasheet, powder-datasheet, grade-matrix, bakery, snacks, mash, soups, custom-development, blended | 9 |
 | 07 Industry Knowledge | market-overview, china-report, standards-comparison, export-guide, glossary, faq, logistics, compliance | 8 |
 | 08 Application Development | rehydration, gf-bread, extrusion, soup, meat-binder, seasoning, baby-food, pet-food | 8 |
-| | **Total** | **48** |
+| 09 Production Entity Archive | qfs-manual, food-fraud, rpn-record, traceability-control, allergen-policy, product-spec, ccp | 7 |
+| | **Total** | **55** |
 
 ---
 
