@@ -1,147 +1,190 @@
-site_name: Hongji Agriculture — Technical Documentation Knowledge Center
-site_url: https://docs.hjpotatoflakes.com
+# ============================================================
+# mkdocs.yml — Hongji Agriculture Technical Documentation Center
+# Site:  https://docs.hjpotatoflakes.com
+# Stack: MkDocs 1.6.1 + Material
+# ============================================================
+
+# ---------- 站点基本信息（修复 meta description 泄漏 + canonical）----------
+site_name: Hongji Agriculture Technical Documentation
 site_description: >-
-  Technical documentation knowledge base for Hongji Agriculture's vertically
-  integrated potato flake and powder products — covering variety breeding,
-  farming, storage, processing, quality control, product application, and
-  industry compliance.
+  Technical documentation for HONGJI Agriculture — potato flakes and potato
+  powder specifications, processing technology, quality control, and application
+  guides for B2B food manufacturers and importers.
+site_url: https://docs.hjpotatoflakes.com/
+site_author: Hongji Agriculture Technology Co., Ltd.
+copyright: © 2026 Hongji Agriculture Technology Co., Ltd. (弘基农业)
 
+# ---------- 仓库（CI 部署时启用，可选）----------
+# repo_url: https://github.com/<org>/docs.hjpotatoflakes.com
+# edit_uri: edit/main/docs/
 
+# ---------- 主题 ----------
 theme:
   name: material
+  custom_dir: overrides            # 用于注入 JSON-LD（见 overrides/main.html）
   language: en
-  custom_dir: overrides/
+  icon:
+    logo: material/sprout
+    repo: fontawesome/brands/github
   features:
-    - navigation.sections
-    - navigation.expand
-    - navigation.path
-    - navigation.top
-    - navigation.indexes
+    - navigation.tabs             # 顶部标签
+    - navigation.sections         # 侧边栏分区
+    - navigation.indexes          # domain 目录 index 页作为分区入口
+    - navigation.top              # 返回顶部
+    - navigation.footer           # 上一篇/下一篇
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
-    - toc.follow
+    - content.tabs.link
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: amber
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: amber
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-4
         name: Switch to light mode
 
-extra:
-  generator: false
-  social: []
+# ---------- 导航结构（8 个知识域 · 47 篇文档）----------
+nav:
+  - Home: index.md
 
+  - "Domain 01 · Variety & Breeding Science":
+      - domain-01-variety-breeding/index.md
+      - Potato Varieties for Industrial Processing: domain-01-variety-breeding/potato-varieties-for-industrial-processing.md
+      - Seed Breeding & Cultivar Selection Guide: domain-01-variety-breeding/seed-breeding-cultivar-selection-guide.md
+      - Atlantic Potato — Gold Standard for Flakes: domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes.md
+      - Variety Comparison Processing Matrix: domain-01-variety-breeding/variety-comparison-processing-matrix.md
+
+  - "Domain 02 · Farming & Cultivation":
+      - domain-02-farming-cultivation/index.md
+      - Standardized Cultivation Protocol: domain-02-farming-cultivation/standardized-cultivation-protocol.md
+      - Sustainable Farming Practices: domain-02-farming-cultivation/sustainable-farming-practices.md
+      - Harvest Timing & Quality Correlation: domain-02-farming-cultivation/harvest-timing-quality-correlation.md
+      - Raw Material Quality Grading System: domain-02-farming-cultivation/raw-material-quality-grading-system.md
+
+  - "Domain 03 · Storage & Raw Material Management":
+      - domain-03-storage-raw-material/index.md
+      - Potato Storage Technology Guide: domain-03-storage-raw-material/potato-storage-technology-guide.md
+      - Year-Round Supply Chain Management: domain-03-storage-raw-material/year-round-supply-chain-management.md
+      - Raw Material Quality Preservation: domain-03-storage-raw-material/raw-material-quality-preservation.md
+
+  - "Domain 04 · Processing Technology":
+      - domain-04-processing-technology/index.md
+      - Potato Flake Manufacturing Process: domain-04-processing-technology/potato-flake-manufacturing-process.md
+      - Potato Powder Milling & Classification: domain-04-processing-technology/potato-powder-milling-classification.md
+      - Drying Technology in Potato Processing: domain-04-processing-technology/drying-technology-in-potato-processing.md
+      - Moisture Control in Dehydrated Products: domain-04-processing-technology/moisture-control-dehydrated-potato-products.md
+      - Color & Browning Control in Processing: domain-04-processing-technology/color-browning-control-processing.md
+
+  - "Domain 05 · Quality Control & Testing":
+      - domain-05-quality-control/index.md
+      - Quality Assurance System Overview: domain-05-quality-control/quality-assurance-system-overview.md
+      - Physical Specifications: domain-05-quality-control/physical-specifications-particle-size-bulk-density.md
+      - Chemical Analysis Methods: domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars.md
+      - Microbiological Testing Protocol: domain-05-quality-control/microbiological-testing-protocol.md
+      - Rehydration Performance Test Method: domain-05-quality-control/rehydration-performance-test-method.md
+      - Certificate of Analysis Guide: domain-05-quality-control/certificate-of-analysis-guide.md
+      - Batch Traceability System: domain-05-quality-control/batch-traceability-system.md
+
+  - "Domain 06 · Product & Application":
+      - domain-06-product-application/index.md
+      - Potato Flakes Technical Datasheet: domain-06-product-application/potato-flakes-technical-datasheet.md
+      - Potato Powder Technical Datasheet: domain-06-product-application/potato-powder-technical-datasheet.md
+      - Product Grade Comparison Matrix: domain-06-product-application/product-grade-comparison-matrix.md
+      - "Application Guide: Bakery": domain-06-product-application/application-guide-potato-flakes-bakery.md
+      - "Application Guide: Snacks & Extrusion": domain-06-product-application/application-guide-potato-flakes-snacks-extrusion.md
+      - "Application Guide: Instant Mashed Potato": domain-06-product-application/application-guide-instant-mashed-potato.md
+      - "Application Guide: Soups, Sauces & Meals": domain-06-product-application/application-guide-soups-sauces-prepared-meals.md
+      - Customized Ingredient Development: domain-06-product-application/customized-ingredient-development-process.md
+      - Blended Potato Powder Solutions: domain-06-product-application/blended-potato-powder-solutions-guide.md
+
+  - "Domain 07 · Industry Knowledge & Compliance":
+      - domain-07-industry-knowledge/index.md
+      - Global Potato Flakes Market Overview: domain-07-industry-knowledge/global-potato-flakes-market-overview.md
+      - Chinese Potato Processing Industry Report: domain-07-industry-knowledge/chinese-potato-processing-industry-report.md
+      - China vs Global Quality Standards: domain-07-industry-knowledge/china-vs-global-quality-standards-comparison.md
+      - Export Documentation & Trade Guide: domain-07-industry-knowledge/export-documentation-international-trade-guide.md
+      - Glossary of Potato Processing Terms: domain-07-industry-knowledge/glossary-potato-processing-terms.md
+      - "FAQ: B2B Potato Ingredient Sourcing": domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing.md
+      - Packaging & Logistics Guide: domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients.md
+      - Regulatory Compliance: domain-07-industry-knowledge/regulatory-compliance-food-safety-standards.md
+
+  - "Domain 08 · Application Development Records":
+      - domain-08-application-records/index.md
+      - Instant Mashed Potato Rehydration Optimization: domain-08-application-records/app-dev-instant-mashed-potato-rehydration.md
+      - Gluten-Free Bread Flour Replacement: domain-08-application-records/app-dev-gluten-free-bread-flour-replacement.md
+      - Extruded Snack Density Control: domain-08-application-records/app-dev-extruded-snack-density-control.md
+      - Cream Soup Viscosity & Freeze-Thaw Stability: domain-08-application-records/app-dev-cream-soup-viscosity-stability.md
+      - Meat Binder Water Holding Capacity: domain-08-application-records/app-dev-meat-binder-whc.md
+      - Seasoned Snack Powder Flavor Carrier: domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier.md
+      - Baby Food Particle Size Refinement: domain-08-application-records/app-dev-baby-food-particle-refinement.md
+      - Pet Food Palatability Customization: domain-08-application-records/app-dev-pet-food-palatable-formula.md
+
+# ---------- 插件 ----------
+plugins:
+  - search
+  - meta            # 允许每页 frontmatter 覆盖 description/title
+
+# ---------- Markdown 扩展（技术文档必备）----------
 markdown_extensions:
   - admonition
-  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - footnotes
+  - def_list
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.snippets
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - tables
-  - pymdownx.arithmatex:
-      generic: true
-  - toc:
-      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  # 如需 emoji/图标，启用下面两行（MkDocs 运行时支持 !!python/name 语法）
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+# ---------- 站点扩展信息 ----------
+extra:
+  generator: false                 # 隐藏 "Made with Material for MkDocs"（可选）
+  social:
+    # 按需填写实际社交账号（主站 footer 同源）
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/hongji-agriculture/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/hongjiagriculture/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@hongjiagriculture/
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation.
+    # Material 内置 cookie 同意横幅，与主站 Cookie Policy 呼应
 
-plugins:
-  - search:
-      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)'
-  - glightbox
-  - minify:
-      minify_html: true
-      minify_js: true
-      minify_css: true
-      htmlmin_opts:
-        remove_comments: true
-        remove_empty_space: true
-
-nav:
-  - Home: index.md
-  - Domain 01 — Variety & Breeding:
-    - domain-01-variety-breeding/index.md
-    - Atlantic Potato: domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes.md
-    - Varieties for Industrial Processing: domain-01-variety-breeding/potato-varieties-for-industrial-processing.md
-    - Seed Breeding & Cultivar Selection: domain-01-variety-breeding/seed-breeding-cultivar-selection-guide.md
-    - Variety Comparison & Processing Matrix: domain-01-variety-breeding/variety-comparison-processing-matrix.md
-  - Domain 02 — Farming & Cultivation:
-    - domain-02-farming-cultivation/index.md
-    - Standardized Cultivation Protocol: domain-02-farming-cultivation/standardized-cultivation-protocol.md
-    - Sustainable Farming Practices: domain-02-farming-cultivation/sustainable-farming-practices.md
-    - Harvest Timing & Quality: domain-02-farming-cultivation/harvest-timing-quality-correlation.md
-    - Raw Material Quality Grading: domain-02-farming-cultivation/raw-material-quality-grading-system.md
-  - Domain 03 — Storage & Raw Material:
-    - domain-03-storage-raw-material/index.md
-    - Potato Storage Technology Guide: domain-03-storage-raw-material/potato-storage-technology-guide.md
-    - Raw Material Quality Preservation: domain-03-storage-raw-material/raw-material-quality-preservation.md
-    - Year-Round Supply Chain: domain-03-storage-raw-material/year-round-supply-chain-management.md
-  - Domain 04 — Processing Technology:
-    - domain-04-processing-technology/index.md
-    - Flake Manufacturing Process: domain-04-processing-technology/potato-flake-manufacturing-process.md
-    - Powder Milling & Classification: domain-04-processing-technology/potato-powder-milling-classification.md
-    - Drying Technology Comparison: domain-04-processing-technology/drying-technology-in-potato-processing.md
-    - Moisture Control: domain-04-processing-technology/moisture-control-dehydrated-potato-products.md
-    - Color & Browning Control: domain-04-processing-technology/color-browning-control-processing.md
-  - Domain 05 — Quality Control:
-    - domain-05-quality-control/index.md
-    - QA System Overview: domain-05-quality-control/quality-assurance-system-overview.md
-    - Physical Specifications: domain-05-quality-control/physical-specifications-particle-size-bulk-density.md
-    - Chemical Analysis: domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars.md
-    - Microbiological Testing: domain-05-quality-control/microbiological-testing-protocol.md
-    - Rehydration Performance: domain-05-quality-control/rehydration-performance-test-method.md
-    - Certificate of Analysis Guide: domain-05-quality-control/certificate-of-analysis-guide.md
-    - Batch Traceability: domain-05-quality-control/batch-traceability-system.md
-  - Domain 06 — Product & Application:
-    - domain-06-product-application/index.md
-    - Potato Flakes Datasheet: domain-06-product-application/potato-flakes-technical-datasheet.md
-    - Potato Powder Datasheet: domain-06-product-application/potato-powder-technical-datasheet.md
-    - Product Grade Comparison: domain-06-product-application/product-grade-comparison-matrix.md
-    - Bakery Applications: domain-06-product-application/application-guide-potato-flakes-bakery.md
-    - Snacks & Extrusion: domain-06-product-application/application-guide-potato-flakes-snacks-extrusion.md
-    - Instant Mashed Potato: domain-06-product-application/application-guide-instant-mashed-potato.md
-    - Soups, Sauces & Prepared Meals: domain-06-product-application/application-guide-soups-sauces-prepared-meals.md
-    - Blended Powder Solutions: domain-06-product-application/blended-potato-powder-solutions-guide.md
-    - Custom Ingredient Development: domain-06-product-application/customized-ingredient-development-process.md
-  - Domain 07 — Industry Knowledge:
-    - domain-07-industry-knowledge/index.md
-    - Global Market Overview: domain-07-industry-knowledge/global-potato-flakes-market-overview.md
-    - China Industry Report: domain-07-industry-knowledge/chinese-potato-processing-industry-report.md
-    - China vs. Global Standards: domain-07-industry-knowledge/china-vs-global-quality-standards-comparison.md
-    - Regulatory Compliance: domain-07-industry-knowledge/regulatory-compliance-food-safety-standards.md
-    - Export Documentation & Trade: domain-07-industry-knowledge/export-documentation-international-trade-guide.md
-    - Packaging & Logistics: domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients.md
-    - B2B Sourcing FAQ: domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing.md
-    - Glossary (中英): domain-07-industry-knowledge/glossary-potato-processing-terms.md
-  - Domain 08 — Application Records:
-    - domain-08-application-records/index.md
-    - Instant Mashed Potato Rehydration: domain-08-application-records/app-dev-instant-mashed-potato-rehydration.md
-    - Gluten-Free Bread Replacement: domain-08-application-records/app-dev-gluten-free-bread-flour-replacement.md
-    - Extruded Snack Density Control: domain-08-application-records/app-dev-extruded-snack-density-control.md
-    - Cream Soup Freeze-Thaw Stability: domain-08-application-records/app-dev-cream-soup-viscosity-stability.md
-    - Meat Binder WHC: domain-08-application-records/app-dev-meat-binder-whc.md
-    - Seasoned Snack Flavor Carrier: domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier.md
-    - Baby Food Particle Refinement: domain-08-application-records/app-dev-baby-food-particle-refinement.md
-    - Pet Food Palatability: domain-08-application-records/app-dev-pet-food-palatable-formula.md
-  - Document Index: INDEX.md
-
-copyright: © 2026 Hongji Agriculture Technology Co., Ltd. (弘基农业) — <a href="https://hjpotatoflakes.com">hjpotatoflakes.com</a>
+# ============================================================
+# 说明：
+# 1. canonical —— 设置 site_url 后 Material 自动为每页生成 <link rel="canonical">。
+# 2. JSON-LD Schema（Organization / WebSite / BreadcrumbList / TechArticle）——
+#    MkDocs 不内置，需通过 theme.custom_dir: overrides + overrides/main.html 注入。
+#    overrides/main.html 需继承 material 的 base 模板并在 head 里加入 JSON-LD 块。
+# 3. robots.txt —— 直接放 docs/robots.txt（MkDocs 会原样复制到 site/）。
+# ============================================================

@@ -1,8 +1,27 @@
 # robots.txt — Hongji Agriculture Technical Documentation Center
-# Domain: hjpotatoflakes.com
-# Purpose: AI crawler policy for technical documentation knowledge base
+# Domain: docs.hjpotatoflakes.com
+# 修复版：对齐主站策略，补全 AI 爬虫 + Content-Signal
+# 更新：2026-08-13
 
+# ---------- 全局默认规则 ----------
+User-agent: *
+Content-Signal: search=yes,ai-input=yes,ai-train=no,use=reference
+Allow: /
+
+# ---------- AI 检索爬虫：放行（Crawl-Delay 10 限速保护服务器） ----------
 User-agent: GPTBot
+Allow: /
+Crawl-Delay: 10
+
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-Delay: 10
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-Delay: 10
+
+User-agent: ClaudeBot
 Allow: /
 Crawl-Delay: 10
 
@@ -14,9 +33,35 @@ User-agent: PerplexityBot
 Allow: /
 Crawl-Delay: 10
 
+User-agent: Google-Extended
+Allow: /
+
+# 字节跳动（豆包/头条/抖音）—— 与主站对齐，务必放行
+User-agent: Bytespider
+Allow: /
+Crawl-Delay: 10
+
+# 百度（文心一言）
+User-agent: Baiduspider
+Allow: /
+Crawl-Delay: 10
+
+# ---------- 搜索引擎 ----------
 User-agent: Googlebot
 Allow: /
 
-User-agent: *
+User-agent: Bingbot
 Allow: /
+
+# ---------- 低价值爬虫：屏蔽 ----------
+User-agent: CCBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# ---------- Sitemap ----------
 Sitemap: https://docs.hjpotatoflakes.com/sitemap.xml
