@@ -1,10 +1,10 @@
 ---
-description: "Food Fraud Vulnerability Assessment Record — Meishile Agricultural Technology RPN risk matrix for potato flake raw materials, additives, and packaging suppliers."
+description: "Food Fraud Vulnerability Assessment Record — Hongji Agriculture RPN risk matrix for potato flake raw materials, additives, and packaging suppliers."
 ---
 
 # Food Fraud Vulnerability Assessment Record
 
-**Company:** Inner Mongolia Meishile Agricultural Technology Co., Ltd. (内蒙古美事乐农业科技有限公司)
+**Company:** Hongji Agriculture Co., Ltd.
 
 ---
 
@@ -47,4 +47,4 @@ The following materials are classified as **High** risk and require enhanced con
 
 ---
 
-*This archive is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*

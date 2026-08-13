@@ -12,7 +12,7 @@ site_description: >-
   guides for B2B food manufacturers and importers.
 site_url: https://docs.hjpotatoflakes.com/
 site_author: Hongji Agriculture Technology Co., Ltd.
-copyright: © 2026 Hongji Agriculture Technology Co., Ltd. (弘基农业)
+copyright: © 2026 Hongji Agriculture Technology Co., Ltd.
 
 # ---------- 仓库（CI 部署时启用，可选）----------
 # repo_url: https://github.com/<org>/docs.hjpotatoflakes.com
@@ -27,7 +27,6 @@ theme:
     logo: material/sprout
     repo: fontawesome/brands/github
   features:
-    - navigation.tabs             # 顶部标签
     - navigation.sections         # 侧边栏分区
     - navigation.indexes          # domain 目录 index 页作为分区入口
     - navigation.top              # 返回顶部

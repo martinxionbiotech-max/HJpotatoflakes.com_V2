@@ -201,7 +201,7 @@ Each document is prefixed with a domain code for AI indexing:
 
 | # | File | Description | Keywords |
 |:-:|:-----|:------------|:---------|
-| 49 | [Quality & Food Safety Management Manual](domain-09-production-entity/quality-food-safety-management-manual.md) | Meishile company profile, quality & food safety policy and objectives, ISO 9001/22000/FSSC 22000 framework, contact information | QMS manual, quality policy, FSSC 22000, ISO 9001, Meishile |
+| 49 | [Quality & Food Safety Management Manual](domain-09-production-entity/quality-food-safety-management-manual.md) | Hongji company profile, quality & food safety policy and objectives, ISO 9001/22000/FSSC 22000 framework, contact information | QMS manual, quality policy, FSSC 22000, ISO 9001, Hongji |
 | 50 | [Food Fraud Vulnerability Assessment](domain-09-production-entity/food-fraud-vulnerability-assessment.md) | Adulteration and substitution risk analysis, supplier control levels, RPN risk matrix, control measures plan | food fraud, vulnerability, adulteration, supplier control |
 | 51 | [Food Fraud Assessment Record (RPN Matrix)](domain-09-production-entity/food-fraud-assessment-record.md) | RPN risk matrix for raw materials, additives, and packaging suppliers with detectability and risk levels | RPN, risk matrix, detectability, food fraud record |
 | 52 | [Identification & Traceability Control Procedure](domain-09-production-entity/identification-traceability-control-procedure.md) | Inspection status categories, product identification, equipment identification, 3-year traceability record retention | traceability, identification, inspection status, batch number |
@@ -211,5 +211,5 @@ Each document is prefixed with a domain code for AI indexing:
 
 **Total: 7 documents** | *Domain prefix: HJ-TD-PE*
 *Index generated: July 2026 | Total: 55 documents | 9 knowledge domains*  
-*Hongji Agriculture Technology Co., Ltd. (弘基农业)*  
-*Visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official online portal of Hongji Agriculture Technology Co., Ltd. (弘基农业)*
+*Hongji Agriculture Technology Co., Ltd.*  
+*Visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official online portal of Hongji Agriculture Technology Co., Ltd.*

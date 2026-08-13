@@ -2,7 +2,7 @@
 
 **Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
 
-**Company:** Hongji Agriculture Technology Co., Ltd. (弘基农业)  
+**Company:** Hongji Agriculture Technology Co., Ltd.  
 **Headquarters:** Zhangjiakou, Hebei Province, China  
 **Founded:** Integrated agricultural enterprise — Seed breeding, large-scale cultivation, modern storage, industrial processing, and global export of premium potato ingredients.
 
@@ -39,7 +39,7 @@ hj-potato-docs/
 ├── domain-06-product-application/   # Product specs, application guides & custom development
 ├── domain-07-industry-knowledge/    # Market reports, regulations, trade & compliance
 ├── domain-08-application-records/   # Real-world application development case studies
-├── domain-09-production-entity/     # Meishile production entity food safety system archive
+├── domain-09-production-entity/     # Hongji production entity food safety system archive
 ├── llms.txt                         # AI context map — lightweight
 ├── llms-full.txt                    # AI context map — full content
 ├── README.md                        # This file
@@ -75,7 +75,7 @@ Global market intelligence, Chinese potato processing industry analysis, interna
 Real-world application development case studies covering instant mashed potato rehydration optimization, gluten-free bread formulation, extruded snack density control, cream soup viscosity/stability, meat binder water-holding capacity, seasoned snack powder flavor carriers, baby food particle refinement, and pet food palatability enhancement.
 
 ### Domain 09 — Production Entity Archive (7 documents)
-First-hand food safety system documentation from the potato flake production entity, Inner Mongolia Meishile Agricultural Technology Co., Ltd. (内蒙古美事乐农业科技有限公司). Includes the Quality & Food Safety Management Manual (MSL-01-B-2024), Food Fraud Vulnerability Assessment, RPN risk matrix, identification & traceability control, allergen management policy, product specification, and critical control points (CCPs).
+First-hand food safety system documentation from the potato flake production entity, Hongji Agriculture Co., Ltd.. Includes the Quality & Food Safety Management Manual (HJ-TD-PE-01-B-2024), Food Fraud Vulnerability Assessment, RPN risk matrix, identification & traceability control, allergen management policy, product specification, and critical control points (CCPs).
 
 ---
 
@@ -141,4 +141,4 @@ Each document is structured to rank for specific B2B keyword clusters:
 
 ---
 
-*© Hongji Agriculture Technology Co., Ltd. (弘基农业) — All rights reserved. Document series v1.0, July 2026.*
+*© Hongji Agriculture Technology Co., Ltd. — All rights reserved. Document series v1.0, July 2026.*

@@ -1,10 +1,10 @@
 ---
-description: "Critical Control Points in Potato Flakes Production — Meishile Agricultural Technology. Full process description with magnetic separation and metal detection CCPs, verified every 4 hours."
+description: "Critical Control Points in Potato Flakes Production — Hongji Agriculture. Full process description with magnetic separation and metal detection CCPs, verified every 4 hours."
 ---
 
 # Critical Control Points in Potato Flakes Production
 
-**Company:** Inner Mongolia Meishile Agricultural Technology Co., Ltd. (内蒙古美事乐农业科技有限公司)
+**Company:** Hongji Agriculture Co., Ltd.
 
 ---
 
@@ -114,4 +114,4 @@ Storage and Dispatch
 
 ---
 
-*This archive is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*

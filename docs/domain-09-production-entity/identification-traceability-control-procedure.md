@@ -1,14 +1,14 @@
 ---
-description: "Identification and Traceability Control Procedure — Meishile Agricultural Technology potato flake production. Inspection status categories, product identification, and 3-year traceability record retention."
+description: "Identification and Traceability Control Procedure — Hongji Agriculture potato flake production. Inspection status categories, product identification, and 3-year traceability record retention."
 ---
 
 # Identification & Traceability Control Procedure
 
-**Document No.:** MSL-02-SD07-A-2022  
+**Document No.:** HJ-TD-PE-02-SD07-A-2022  
 **Date of Issue:** February 28, 2022  
 **Date of Implementation:** February 28, 2022  
 **Supervising Department:** Production and Power Department  
-**Company:** Inner Mongolia Meishile Agricultural Technology Co., Ltd. (内蒙古美事乐农业科技有限公司)
+**Company:** Hongji Agriculture Co., Ltd.
 
 ---
 
@@ -99,4 +99,4 @@ The production workshop uses tags, labels, and records to indicate the inspectio
 
 ---
 
-*This archive is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*

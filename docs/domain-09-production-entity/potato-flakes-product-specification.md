@@ -1,15 +1,15 @@
 ---
-description: "Potato Flakes Product Specification — Meishile Agricultural Technology production entity. Full sensory, physicochemical, contaminant, and microbiological specifications per SB/T 10752-2012 and GB national standards."
+description: "Potato Flakes Product Specification — Hongji Agriculture production entity. Full sensory, physicochemical, contaminant, and microbiological specifications per SB/T 10752-2012 and GB national standards."
 ---
 
 # Potato Flakes Product Specification
 
-**Code:** MSL-03-PK/1-01-D-2025  
+**Code:** HJ-TD-PE-03-PK/1-01-D-2025  
 **Prepared by:** Li Fangfang  
 **Reviewed by:** Li Fangfang  
 **Department in Charge:** Quality Control Department  
 **Date:** 2025.01.01  
-**Company:** Inner Mongolia Meishile Agricultural Technology Co., Ltd. (内蒙古美事乐农业科技有限公司)
+**Company:** Hongji Agriculture Co., Ltd.
 
 ---
 
@@ -17,7 +17,7 @@ description: "Potato Flakes Product Specification — Meishile Agricultural Tech
 
 | Item | Detail |
 |------|--------|
-| **Product Name** | Potato Flakes (马铃薯雪花全粉) |
+| **Product Name** | Potato Flakes |
 | **Varieties** | Atlantic / Shepody / McCain |
 | **Reference Standard** | SB/T 10752-2012 Potato Flakes and customer requirements |
 
@@ -138,4 +138,4 @@ description: "Potato Flakes Product Specification — Meishile Agricultural Tech
 
 ---
 
-*This archive is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
