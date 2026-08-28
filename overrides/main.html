@@ -13,6 +13,9 @@
   {% elif config.site_author %}
     <meta name="author" content="{{ config.site_author }}">
   {% endif %}
+  {% if page.canonical_url %}
+    <link rel="canonical" href="{{ page.canonical_url }}">
+  {% endif %}
   {% if page.previous_page %}
     <link rel="prev" href="{{ page.previous_page.url | url }}">
   {% endif %}
@@ -37,8 +40,16 @@
 {% set site_url = config.site_url.rstrip('/') %}
 {% set page_url = site_url ~ '/' ~ page.url if page else site_url %}
 {% set page_title = page.title | default(config.site_name, true) %}
+{% set page_title_plain = page_title | striptags | replace('&amp;', '&') | replace('&lt;', '<') | replace('&gt;', '>') | replace('&quot;', '"') | replace('&#39;', "'") %}
 {% set page_desc = page.meta.get('description', config.site_description) if page and page.meta else config.site_description %}
-{% set headline = config.site_name if page and page.is_homepage else page_title %}
+{% set headline = config.site_name if page and page.is_homepage else page_title_plain %}
+{% set main_url = "https://hjpotatoflakes.com" %}
+{% set default_image = "https://hjpotatoflakes.com/wp-content/uploads/2026/07/cropped-LOGO-1.png" %}
+{% set page_image = page.meta.get('image', default_image) if page and page.meta and page.meta.get('image') else default_image %}
+{% set page_date = page.meta.get('date') if page and page.meta and page.meta.get('date') else none %}
+{% set page_modified = page.meta.get('dateModified') if page and page.meta and page.meta.get('dateModified') else none %}
+{% set page_section = page.meta.get('articleSection') if page and page.meta and page.meta.get('articleSection') else none %}
+{% set page_keywords = page.meta.get('keywords') if page and page.meta and page.meta.get('keywords') else none %}
 
 <!-- ===== Open Graph ===== -->
 <meta property="og:title" content="{{ headline }} | Hongji Agriculture" />
@@ -47,13 +58,16 @@
 <meta property="og:type" content="{% if page and page.is_homepage %}website{% else %}article{% endif %}" />
 <meta property="og:site_name" content="Hongji Agriculture — Technical Documentation Knowledge Center" />
 <meta property="og:locale" content="en_US" />
+<meta property="og:image" content="{{ page_image }}" />
+<meta property="og:image:alt" content="{{ headline }}" />
 
 <!-- ===== Twitter Card ===== -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ headline }}" />
 <meta name="twitter:description" content="{{ page_desc }}" />
-
-{% set main_url = "https://hjpotatoflakes.com" %}
+<meta name="twitter:url" content="{{ page_url }}" />
+<meta name="twitter:image" content="{{ page_image }}" />
+<meta name="twitter:image:alt" content="{{ headline }}" />
 
 <!-- ===== Organization Schema ===== -->
 <script type="application/ld+json">
@@ -64,7 +78,11 @@
   "name": "Hongji Agriculture Technology Co., Ltd.",
   "alternateName": "Hongji Agriculture",
   "url": "{{ main_url }}",
-  "sameAs": ["https://hjpotatoflakes.com"],
+  "logo": "https://hjpotatoflakes.com/wp-content/uploads/2026/07/cropped-LOGO-1.png",
+  "sameAs": [
+    "https://hjpotatoflakes.com",
+    "https://github.com/martinxionbiotech-max"
+  ],
   "description": "China's leading vertically integrated potato flake and powder manufacturer — from seed breeding and cultivation to processing and global export.",
   "brand": {
     "@type": "Brand",
@@ -76,6 +94,21 @@
     "contactType": "sales",
     "availableLanguage": ["English", "Chinese"]
   }
+}
+</script>
+
+<!-- ===== Author Person Schema ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ main_url }}#author",
+  "name": "Hongji Agriculture Technical Documentation Team",
+  "url": "{{ main_url }}",
+  "worksFor": {
+    "@id": "{{ main_url }}#organization"
+  },
+  "jobTitle": "Technical Documentation Team"
 }
 </script>
 
@@ -100,10 +133,25 @@
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "{{ headline }}",
-  "description": "{{ page_desc }}",
-  "url": "{{ page_url }}",
+  "headline": {{ headline | tojson }},
+  "description": {{ page_desc | tojson }},
+  "url": {{ page_url | tojson }},
   "inLanguage": "en-US",
+  {%- if page_date %}
+  "datePublished": "{{ page_date }}",
+  {%- endif %}
+  {%- if page_modified %}
+  "dateModified": "{{ page_modified }}",
+  {%- endif %}
+  {%- if page_image %}
+  "image": {{ page_image | tojson }},
+  {%- endif %}
+  {%- if page_section %}
+  "articleSection": {{ page_section | tojson }},
+  {%- endif %}
+  {%- if page_keywords %}
+  "keywords": {{ page_keywords | tojson }},
+  {%- endif %}
   "proficiencyLevel": "Beginner",
   "about": {
     "@type": "Thing",
@@ -142,27 +190,33 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Hongji Agriculture Knowledge Center",
-      "item": "{{ site_url }}"
+      "item": {{ site_url | tojson }}
     }
     {%- if page and not page.is_homepage %}
     {%- set ns = namespace(p=1) %}
     {%- for ancestor in page.ancestors | reverse %}
+    {%- set anc_url = none %}
+    {%- if ancestor.is_page %}
+    {%- set anc_url = ancestor.url %}
+    {%- elif ancestor.is_section and ancestor.children %}
+    {%- set anc_url = ancestor.children[0].url %}
+    {%- endif %}
+    {%- if anc_url and anc_url.rstrip('/') != page.url.rstrip('/') %}
     {%- set ns.p = ns.p + 1 %}
-    {%- set anc_url = ancestor.url if ancestor.url else (ancestor.children[0].url if ancestor.children else '') %}
-    {%- if anc_url %}
     ,{
       "@type": "ListItem",
       "position": {{ ns.p }},
-      "name": "{{ ancestor.title }}",
-      "item": "{{ site_url }}/{{ anc_url.lstrip('/') }}"
+      "name": {{ ancestor.title | tojson }},
+      "item": {{ (site_url ~ '/' ~ anc_url.rstrip('/')) | tojson }}
     }
     {%- endif %}
     {%- endfor %}
+    {%- set ns.p = ns.p + 1 %}
     ,{
       "@type": "ListItem",
-      "position": {{ ns.p + 1 }},
-      "name": "{{ page_title }}",
-      "item": "{{ page_url }}"
+      "position": {{ ns.p }},
+      "name": {{ page_title_plain | tojson }},
+      "item": {{ page_url | tojson }}
     }
     {%- endif %}
   ]
@@ -171,7 +225,6 @@
 
 <!-- ===== FAQPage Schema (for FAQ page) ===== -->
 {%- set faq_url = site_url ~ '/domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing/' %}
-{%- set faq_main = site_url ~ '/domain-07-industry-knowledge/' %}
 {%- if page_url == faq_url or page_url == faq_url.rstrip('/') %}
 <script type="application/ld+json">
 {

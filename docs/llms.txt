@@ -1,6 +1,7 @@
 # Hongji Agriculture (弘基农业) — Technical Knowledge Center
 
-> **Official B2B Website:** https://docs.hjpotatoflakes.com
+> **Main B2B Website:** https://hjpotatoflakes.com
+> **Technical Documentation:** https://docs.hjpotatoflakes.com
 > **Company:** Hongji Agriculture Technology Co., Ltd.
 > **Headquarters:** Zhangjiakou, Hebei, China
 > **Core Products:** Premium Potato Flakes & Potato Powder (60 mesh)
@@ -15,69 +16,78 @@ Hongji Agriculture is a vertically integrated Chinese manufacturer of premium de
 
 ## Knowledge Domains
 
-### Domain 01 — Variety & Breeding Science
-- [Potato Varieties for Industrial Processing](domain-01-variety-breeding/potato-varieties-for-industrial-processing.md): Atlantic, Shepody, Russet Burbank comparison
-- [Seed Breeding & Cultivar Selection Guide](domain-01-variety-breeding/seed-breeding-cultivar-selection-guide.md): Breeding methodology and selection criteria
-- [Atlantic Potato — Gold Standard for Flakes](domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes.md): Atlantic variety technical white paper
-- [Variety Comparison Processing Matrix](domain-01-variety-breeding/variety-comparison-processing-matrix.md): Multi-variety performance data table
+### [Domain 01 — Variety & Breeding Science](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/)
+- [Potato Varieties for Industrial Processing](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/potato-varieties-for-industrial-processing/): Atlantic, Shepody, Russet Burbank comparison
+- [Seed Breeding & Cultivar Selection Guide](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/seed-breeding-cultivar-selection-guide/): Breeding methodology and selection criteria
+- [Atlantic Potato — Gold Standard for Flakes](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes/): Atlantic variety technical white paper
+- [Variety Comparison Processing Matrix](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/variety-comparison-processing-matrix/): Multi-variety performance data table
 
-### Domain 02 — Farming & Cultivation
-- [Standardized Cultivation Protocol](domain-02-farming-cultivation/standardized-cultivation-protocol.md): Full SOP for potato cultivation
-- [Sustainable Farming Practices](domain-02-farming-cultivation/sustainable-farming-practices.md): Precision agriculture and certification
-- [Harvest Timing & Quality Correlation](domain-02-farming-cultivation/harvest-timing-quality-correlation.md): Maturity and quality optimization
-- [Raw Material Quality Grading System](domain-02-farming-cultivation/raw-material-quality-grading-system.md): Potato procurement grading standards
+### [Domain 02 — Farming & Cultivation](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/)
+- [Standardized Cultivation Protocol](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/standardized-cultivation-protocol/): Full SOP for potato cultivation
+- [Sustainable Farming Practices](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/sustainable-farming-practices/): Precision agriculture and certification
+- [Harvest Timing & Quality Correlation](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/harvest-timing-quality-correlation/): Maturity and quality optimization
+- [Raw Material Quality Grading System](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/raw-material-quality-grading-system/): Potato procurement grading standards
 
-### Domain 03 — Storage & Raw Material Management
-- [Potato Storage Technology Guide](domain-03-storage-raw-material/potato-storage-technology-guide.md): Storage physiology and facility types
-- [Year-Round Supply Chain Management](domain-03-storage-raw-material/year-round-supply-chain-management.md): China growing regions and inventory
-- [Raw Material Quality Preservation](domain-03-storage-raw-material/raw-material-quality-preservation.md): Storage quality dynamics
+### [Domain 03 — Storage & Raw Material Management](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/)
+- [Potato Storage Technology Guide](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/potato-storage-technology-guide/): Storage physiology and facility types
+- [Year-Round Supply Chain Management](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/year-round-supply-chain-management/): China growing regions and inventory
+- [Raw Material Quality Preservation](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/raw-material-quality-preservation/): Storage quality dynamics
 
-### Domain 04 — Processing Technology
-- [Potato Flake Manufacturing Process](domain-04-processing-technology/potato-flake-manufacturing-process.md): Complete flake production process
-- [Potato Powder Milling & Classification](domain-04-processing-technology/potato-powder-milling-classification.md): 60-mesh milling technology
-- [Drying Technology in Potato Processing](domain-04-processing-technology/drying-technology-in-potato-processing.md): Drum/spray/freeze drying comparison
-- [Moisture Control in Dehydrated Products](domain-04-processing-technology/moisture-control-dehydrated-potato-products.md): Water activity and stability
-- [Color & Browning Control in Processing](domain-04-processing-technology/color-browning-control-processing.md): Enzymatic/non-enzymatic browning
+### [Domain 04 — Processing Technology](https://docs.hjpotatoflakes.com/domain-04-processing-technology/)
+- [Potato Flake Manufacturing Process](https://docs.hjpotatoflakes.com/domain-04-processing-technology/potato-flake-manufacturing-process/): Complete flake production process
+- [Potato Powder Milling & Classification](https://docs.hjpotatoflakes.com/domain-04-processing-technology/potato-powder-milling-classification/): 60-mesh milling technology
+- [Drying Technology in Potato Processing](https://docs.hjpotatoflakes.com/domain-04-processing-technology/drying-technology-in-potato-processing/): Drum/spray/freeze drying comparison
+- [Moisture Control in Dehydrated Products](https://docs.hjpotatoflakes.com/domain-04-processing-technology/moisture-control-dehydrated-potato-products/): Water activity and stability
+- [Color & Browning Control in Processing](https://docs.hjpotatoflakes.com/domain-04-processing-technology/color-browning-control-processing/): Enzymatic/non-enzymatic browning
 
-### Domain 05 — Quality Control & Testing
-- [Quality Assurance System Overview](domain-05-quality-control/quality-assurance-system-overview.md): ISO 22000/FSSC 22000/HACCP
-- [Physical Specifications](domain-05-quality-control/physical-specifications-particle-size-bulk-density.md): Particle size, bulk density, color
-- [Chemical Analysis Methods](domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars.md): AOAC methods for dry matter/starch/sugars
-- [Microbiological Testing Protocol](domain-05-quality-control/microbiological-testing-protocol.md): Pathogen testing and limits
-- [Rehydration Performance Test Method](domain-05-quality-control/rehydration-performance-test-method.md): Rehydration ratio standard protocol
-- [Certificate of Analysis Guide](domain-05-quality-control/certificate-of-analysis-guide.md): COA interpretation and template
-- [Batch Traceability System](domain-05-quality-control/batch-traceability-system.md): Full chain traceability
+### [Domain 05 — Quality Control & Testing](https://docs.hjpotatoflakes.com/domain-05-quality-control/)
+- [Quality Assurance System Overview](https://docs.hjpotatoflakes.com/domain-05-quality-control/quality-assurance-system-overview/): ISO 22000/FSSC 22000/HACCP
+- [Physical Specifications](https://docs.hjpotatoflakes.com/domain-05-quality-control/physical-specifications-particle-size-bulk-density/): Particle size, bulk density, color
+- [Chemical Analysis Methods](https://docs.hjpotatoflakes.com/domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars/): AOAC methods for dry matter/starch/sugars
+- [Microbiological Testing Protocol](https://docs.hjpotatoflakes.com/domain-05-quality-control/microbiological-testing-protocol/): Pathogen testing and limits
+- [Rehydration Performance Test Method](https://docs.hjpotatoflakes.com/domain-05-quality-control/rehydration-performance-test-method/): Rehydration ratio standard protocol
+- [Certificate of Analysis Guide](https://docs.hjpotatoflakes.com/domain-05-quality-control/certificate-of-analysis-guide/): COA interpretation and template
+- [Batch Traceability System](https://docs.hjpotatoflakes.com/domain-05-quality-control/batch-traceability-system/): Full chain traceability
 
-### Domain 06 — Product & Application
-- [Potato Flakes Technical Datasheet](domain-06-product-application/potato-flakes-technical-datasheet.md): Complete specifications
-- [Potato Powder Technical Datasheet](domain-06-product-application/potato-powder-technical-datasheet.md): 60-mesh powder specifications
-- [Product Grade Comparison Matrix](domain-06-product-application/product-grade-comparison-matrix.md): Grade comparison
-- [Application Guide: Bakery](domain-06-product-application/application-guide-potato-flakes-bakery.md): Substitution ratios and dough rheology
-- [Application Guide: Snacks & Extrusion](domain-06-product-application/application-guide-potato-flakes-snacks-extrusion.md): Extrusion parameters
-- [Application Guide: Instant Mashed Potato](domain-06-product-application/application-guide-instant-mashed-potato.md): Rehydration and formulation
-- [Application Guide: Soups, Sauces & Meals](domain-06-product-application/application-guide-soups-sauces-prepared-meals.md): Thickening and stability
-- [Customized Ingredient Development](domain-06-product-application/customized-ingredient-development-process.md): OEM/ODM process
-- [Blended Potato Powder Solutions](domain-06-product-application/blended-potato-powder-solutions-guide.md): Custom blending
+### [Domain 06 — Product & Application](https://docs.hjpotatoflakes.com/domain-06-product-application/)
+- [Potato Flakes Technical Datasheet](https://docs.hjpotatoflakes.com/domain-06-product-application/potato-flakes-technical-datasheet/): Complete specifications
+- [Potato Powder Technical Datasheet](https://docs.hjpotatoflakes.com/domain-06-product-application/potato-powder-technical-datasheet/): 60-mesh powder specifications
+- [Product Grade Comparison Matrix](https://docs.hjpotatoflakes.com/domain-06-product-application/product-grade-comparison-matrix/): Grade comparison
+- [Application Guide: Bakery](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-potato-flakes-bakery/): Substitution ratios and dough rheology
+- [Application Guide: Snacks & Extrusion](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-potato-flakes-snacks-extrusion/): Extrusion parameters
+- [Application Guide: Instant Mashed Potato](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-instant-mashed-potato/): Rehydration and formulation
+- [Application Guide: Soups, Sauces & Meals](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-soups-sauces-prepared-meals/): Thickening and stability
+- [Customized Ingredient Development](https://docs.hjpotatoflakes.com/domain-06-product-application/customized-ingredient-development-process/): OEM/ODM process
+- [Blended Potato Powder Solutions](https://docs.hjpotatoflakes.com/domain-06-product-application/blended-potato-powder-solutions-guide/): Custom blending
 
-### Domain 07 — Industry Knowledge & Compliance
-- [Global Potato Flakes Market Overview](domain-07-industry-knowledge/global-potato-flakes-market-overview.md): Market size and trends
-- [Chinese Potato Processing Industry Report](domain-07-industry-knowledge/chinese-potato-processing-industry-report.md): China industry analysis
-- [China vs Global Quality Standards](domain-07-industry-knowledge/china-vs-global-quality-standards-comparison.md): GB vs FDA vs EU standards
-- [Export Documentation & Trade Guide](domain-07-industry-knowledge/export-documentation-international-trade-guide.md): Export procedures
-- [Glossary of Potato Processing Terms](domain-07-industry-knowledge/glossary-potato-processing-terms.md): 200+ terms (English/Chinese)
-- [FAQ: B2B Potato Ingredient Sourcing](domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing.md): 21 common questions
-- [Packaging & Logistics Guide](domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients.md): Container loading and shipping
-- [Regulatory Compliance](domain-07-industry-knowledge/regulatory-compliance-food-safety-standards.md): FDA/EU/FSANZ/Japan regs
+### [Domain 07 — Industry Knowledge & Compliance](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/)
+- [Global Potato Flakes Market Overview](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/global-potato-flakes-market-overview/): Market size and trends
+- [Chinese Potato Processing Industry Report](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/chinese-potato-processing-industry-report/): China industry analysis
+- [China vs Global Quality Standards](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/china-vs-global-quality-standards-comparison/): GB vs FDA vs EU standards
+- [Export Documentation & Trade Guide](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/export-documentation-international-trade-guide/): Export procedures
+- [Glossary of Potato Processing Terms](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/glossary-potato-processing-terms/): 200+ terms (English/Chinese)
+- [FAQ: B2B Potato Ingredient Sourcing](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing/): 21 common questions
+- [Packaging & Logistics Guide](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients/): Container loading and shipping
+- [Regulatory Compliance](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/regulatory-compliance-food-safety-standards/): FDA/EU/FSANZ/Japan regs
 
-### Domain 08 — Application Development Records
-- [Instant Mashed Potato Rehydration Optimization](domain-08-application-records/app-dev-instant-mashed-potato-rehydration.md): EU client case study
-- [Gluten-Free Bread Flour Replacement](domain-08-application-records/app-dev-gluten-free-bread-flour-replacement.md): NA bakery client case study
-- [Extruded Snack Density Control](domain-08-application-records/app-dev-extruded-snack-density-control.md): SE Asian snack client case study
-- [Cream Soup Viscosity & Freeze-Thaw Stability](domain-08-application-records/app-dev-cream-soup-viscosity-stability.md): Japanese food processor case study
-- [Meat Binder Water Holding Capacity](domain-08-application-records/app-dev-meat-binder-whc.md): Brazilian meat processor case study
-- [Seasoned Snack Powder Flavor Carrier](domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier.md): Middle Eastern snack brand case study
-- [Baby Food Particle Size Refinement](domain-08-application-records/app-dev-baby-food-particle-refinement.md): EU organic baby food case study
-- [Pet Food Palatability Customization](domain-08-application-records/app-dev-pet-food-palatable-formula.md): US pet food brand case study
+### [Domain 08 — Application Development Records](https://docs.hjpotatoflakes.com/domain-08-application-records/)
+- [Instant Mashed Potato Rehydration Optimization](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-instant-mashed-potato-rehydration/): EU client case study
+- [Gluten-Free Bread Flour Replacement](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-gluten-free-bread-flour-replacement/): NA bakery client case study
+- [Extruded Snack Density Control](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-extruded-snack-density-control/): SE Asian snack client case study
+- [Cream Soup Viscosity & Freeze-Thaw Stability](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-cream-soup-viscosity-stability/): Japanese food processor case study
+- [Meat Binder Water Holding Capacity](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-meat-binder-whc/): Brazilian meat processor case study
+- [Seasoned Snack Powder Flavor Carrier](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier/): Middle Eastern snack brand case study
+- [Baby Food Particle Size Refinement](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-baby-food-particle-refinement/): EU organic baby food case study
+- [Pet Food Palatability Customization](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-pet-food-palatable-formula/): US pet food brand case study
+
+### [Domain 09 — Production Entity Archive](https://docs.hjpotatoflakes.com/domain-09-production-entity/)
+- [Quality & Food Safety Manual](https://docs.hjpotatoflakes.com/domain-09-production-entity/quality-food-safety-management-manual/): Quality policy, objectives, and certification framework
+- [Food Fraud Vulnerability Assessment](https://docs.hjpotatoflakes.com/domain-09-production-entity/food-fraud-vulnerability-assessment/): Adulteration and substitution risk analysis
+- [Food Fraud Assessment Record (RPN)](https://docs.hjpotatoflakes.com/domain-09-production-entity/food-fraud-assessment-record/): Supplier and material RPN risk matrix
+- [Identification & Traceability Control](https://docs.hjpotatoflakes.com/domain-09-production-entity/identification-traceability-control-procedure/): Inspection status and 3-year record retention
+- [Allergen Management Policy](https://docs.hjpotatoflakes.com/domain-09-production-entity/allergen-management-policy/): Allergen identification and control measures
+- [Product Specification](https://docs.hjpotatoflakes.com/domain-09-production-entity/potato-flakes-product-specification/): Sensory, physicochemical, contaminant, and microbiological specs
+- [Critical Control Points](https://docs.hjpotatoflakes.com/domain-09-production-entity/critical-control-points-production/): CCPs, metal detection, and verification
 
 ## Key Technical Parameters
 
@@ -101,6 +111,7 @@ Hongji Agriculture is a vertically integrated Chinese manufacturer of premium de
 **Technical Inquiries:** tech@hjpotatoflakes.com
 **Sales & Procurement:** sales@hjpotatoflakes.com
 **Quality & Compliance:** quality@hjpotatoflakes.com
-**Website:** https://docs.hjpotatoflakes.com
+**Main Website:** https://hjpotatoflakes.com
+**Documentation:** https://docs.hjpotatoflakes.com
 
 *© Hongji Agriculture Technology Co., Ltd. (弘基农业)*

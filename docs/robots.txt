@@ -5,7 +5,7 @@
 
 # ---------- 全局默认规则 ----------
 User-agent: *
-Content-Signal: search=yes,ai-input=yes,ai-train=no,use=reference
+Content-Signal: search=yes,ai-input=yes,ai-train=allow,use=reference
 Allow: /
 
 # ---------- AI 检索爬虫：放行（Crawl-Delay 10 限速保护服务器） ----------

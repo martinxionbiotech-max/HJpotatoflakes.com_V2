@@ -1,652 +1,116 @@
 # Hongji Agriculture (弘基农业) — FULL Technical Knowledge Base
 
-**Official B2B Website:** https://docs.hjpotatoflakes.com
-**Company:** Hongji Agriculture Technology Co., Ltd.
-**Headquarters:** Zhangjiakou, Hebei, China
-**Total Documents:** 48 | **Total Knowledge Domains:** 8
-**Generated:** July 2026
+> **Main B2B Website:** https://hjpotatoflakes.com
+> **Technical Documentation:** https://docs.hjpotatoflakes.com
+> **Company:** Hongji Agriculture Technology Co., Ltd.
+> **Coverage:** 55 technical documents across 9 knowledge domains
+> **Format:** Concatenated AI-ready Markdown for LLM context and retrieval
+> **Updated:** 2026-08-28
 
-This file contains the FULL TEXT of all 48 technical documents in the Hongji Agriculture Knowledge Center.
-Each document is separated by a clear delimiter for AI parsing.
-
----
+## Table of Contents
 
 
+### Domain 01 · Variety & Breeding Science
 
-<!--- DOCUMENT: README.md --->
+- [Potato Varieties for Industrial Processing](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/potato-varieties-for-industrial-processing/)
+- [Seed Breeding & Cultivar Selection Guide](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/seed-breeding-cultivar-selection-guide/)
+- [Atlantic Potato — Gold Standard for Flakes](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes/)
+- [Variety Comparison Processing Matrix](https://docs.hjpotatoflakes.com/domain-01-variety-breeding/variety-comparison-processing-matrix/)
 
-# Hongji Agriculture — Technical Documentation Knowledge Center
+### Domain 02 · Farming & Cultivation
 
-**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
+- [Standardized Cultivation Protocol](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/standardized-cultivation-protocol/)
+- [Sustainable Farming Practices](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/sustainable-farming-practices/)
+- [Harvest Timing & Quality Correlation](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/harvest-timing-quality-correlation/)
+- [Raw Material Quality Grading System](https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/raw-material-quality-grading-system/)
 
-**Company:** Hongji Agriculture Technology Co., Ltd. (弘基农业)  
-**Headquarters:** Zhangjiakou, Hebei Province, China  
-**Founded:** Integrated agricultural enterprise — Seed breeding, large-scale cultivation, modern storage, industrial processing, and global export of premium potato ingredients.
+### Domain 03 · Storage & Raw Material Management
 
-## About This Knowledge Center
+- [Potato Storage Technology Guide](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/potato-storage-technology-guide/)
+- [Year-Round Supply Chain Management](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/year-round-supply-chain-management/)
+- [Raw Material Quality Preservation](https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/raw-material-quality-preservation/)
 
-This repository contains the comprehensive **Technical Documentation Knowledge Center** for Hongji Agriculture — China's leading vertically integrated potato flake and powder manufacturer. The documentation is designed to serve as a high-authority, search-engine-optimized B2B knowledge base for global food manufacturers, importers, distributors, procurement specialists, and R&D professionals.
+### Domain 04 · Processing Technology
 
-### Our Vertically Integrated Model
+- [Potato Flake Manufacturing Process](https://docs.hjpotatoflakes.com/domain-04-processing-technology/potato-flake-manufacturing-process/)
+- [Potato Powder Milling & Classification](https://docs.hjpotatoflakes.com/domain-04-processing-technology/potato-powder-milling-classification/)
+- [Drying Technology in Potato Processing](https://docs.hjpotatoflakes.com/domain-04-processing-technology/drying-technology-in-potato-processing/)
+- [Moisture Control in Dehydrated Products](https://docs.hjpotatoflakes.com/domain-04-processing-technology/moisture-control-dehydrated-potato-products/)
+- [Color & Browning Control in Processing](https://docs.hjpotatoflakes.com/domain-04-processing-technology/color-browning-control-processing/)
 
-```
-Seed Breeding → Large-Scale Farming → Modern Storage → Industrial Processing → Global Export
-```
+### Domain 05 · Quality Control & Testing
 
-From **seed to finished ingredient**, every stage of the supply chain is managed, controlled, and optimized by Hongji Agriculture — ensuring consistent quality, reliable year-round supply, full traceability, and superior processing performance.
+- [Quality Assurance System Overview](https://docs.hjpotatoflakes.com/domain-05-quality-control/quality-assurance-system-overview/)
+- [Physical Specifications](https://docs.hjpotatoflakes.com/domain-05-quality-control/physical-specifications-particle-size-bulk-density/)
+- [Chemical Analysis Methods](https://docs.hjpotatoflakes.com/domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars/)
+- [Microbiological Testing Protocol](https://docs.hjpotatoflakes.com/domain-05-quality-control/microbiological-testing-protocol/)
+- [Rehydration Performance Test Method](https://docs.hjpotatoflakes.com/domain-05-quality-control/rehydration-performance-test-method/)
+- [Certificate of Analysis Guide](https://docs.hjpotatoflakes.com/domain-05-quality-control/certificate-of-analysis-guide/)
+- [Batch Traceability System](https://docs.hjpotatoflakes.com/domain-05-quality-control/batch-traceability-system/)
 
-### Core Products
+### Domain 06 · Product & Application
 
-| Product | Variety Base | Key Specifications | Primary Applications |
-|:--------|:-------------|:-------------------|:--------------------|
-| **Potato Flakes** | Atlantic, Shepody, Russet Burbank | Premium grade, high dry matter, low black spot | Instant mash, bakery, snacks, soups, ready meals |
-| **Potato Powder (60 mesh)** | Atlantic, Shepody, Russet Burbank | ≥7.5 rehydration ratio, fine 60-mesh | Chips, seasoning blends, instant mixes, bakery |
+- [Potato Flakes Technical Datasheet](https://docs.hjpotatoflakes.com/domain-06-product-application/potato-flakes-technical-datasheet/)
+- [Potato Powder Technical Datasheet](https://docs.hjpotatoflakes.com/domain-06-product-application/potato-powder-technical-datasheet/)
+- [Product Grade Comparison Matrix](https://docs.hjpotatoflakes.com/domain-06-product-application/product-grade-comparison-matrix/)
+- [Application Guide: Bakery](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-potato-flakes-bakery/)
+- [Application Guide: Snacks & Extrusion](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-potato-flakes-snacks-extrusion/)
+- [Application Guide: Instant Mashed Potato](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-instant-mashed-potato/)
+- [Application Guide: Soups, Sauces & Meals](https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-soups-sauces-prepared-meals/)
+- [Customized Ingredient Development](https://docs.hjpotatoflakes.com/domain-06-product-application/customized-ingredient-development-process/)
+- [Blended Potato Powder Solutions](https://docs.hjpotatoflakes.com/domain-06-product-application/blended-potato-powder-solutions-guide/)
 
----
+### Domain 07 · Industry Knowledge & Compliance
 
-## Document Structure (7 Knowledge Domains)
+- [Global Potato Flakes Market Overview](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/global-potato-flakes-market-overview/)
+- [Chinese Potato Processing Industry Report](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/chinese-potato-processing-industry-report/)
+- [China vs Global Quality Standards](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/china-vs-global-quality-standards-comparison/)
+- [Export Documentation & Trade Guide](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/export-documentation-international-trade-guide/)
+- [Glossary of Potato Processing Terms](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/glossary-potato-processing-terms/)
+- [FAQ: B2B Potato Ingredient Sourcing](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing/)
+- [Packaging & Logistics Guide](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients/)
+- [Regulatory Compliance](https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/regulatory-compliance-food-safety-standards/)
 
-```
-hj-potato-docs/
-├── domain-01-variety-breeding/     # Potato varieties, breeding science & cultivar selection
-├── domain-02-farming-cultivation/   # Cultivation SOPs, sustainable farming & raw material grading
-├── domain-03-storage-raw-material/  # Storage technology, supply chain & quality preservation
-├── domain-04-processing-technology/ # Manufacturing processes, drying & quality control
-├── domain-05-quality-control/       # QA system, chemical/physical/microbiological testing & COA
-├── domain-06-product-application/   # Product specs, application guides & custom development
-├── domain-07-industry-knowledge/    # Market reports, regulations, trade & compliance
-└── INDEX.md                         # Comprehensive document index with descriptions
-```
+### Domain 08 · Application Development Records
 
----
+- [Instant Mashed Potato Rehydration Optimization](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-instant-mashed-potato-rehydration/)
+- [Gluten-Free Bread Flour Replacement](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-gluten-free-bread-flour-replacement/)
+- [Extruded Snack Density Control](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-extruded-snack-density-control/)
+- [Cream Soup Viscosity & Freeze-Thaw Stability](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-cream-soup-viscosity-stability/)
+- [Meat Binder Water Holding Capacity](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-meat-binder-whc/)
+- [Seasoned Snack Powder Flavor Carrier](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier/)
+- [Baby Food Particle Size Refinement](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-baby-food-particle-refinement/)
+- [Pet Food Palatability Customization](https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-pet-food-palatable-formula/)
 
-## Domain Overview
+### Domain 09 · Production Entity Archive
 
-### Domain 01 — Potato Variety & Breeding Science (4 documents)
-Fundamental knowledge on potato varieties optimized for industrial processing. Covers the three core varieties — Atlantic, Shepody, Russet Burbank — plus comparative performance matrices and breeding methodologies.
-
-### Domain 02 — Farming & Cultivation Management (4 documents)
-Standardized cultivation protocols, sustainable farming practices, harvest timing optimization, and raw material quality grading systems. Demonstrates the agricultural expertise underpinning ingredient quality.
-
-### Domain 03 — Storage & Raw Material Management (3 documents)
-Potato storage facility design and operation, year-round supply chain management, and quality preservation during storage. Addresses the critical B2B concern of supply consistency.
-
-### Domain 04 — Processing Technology (5 documents)
-In-depth technical coverage of potato flake and powder manufacturing, drying technologies, moisture control, and color/browning management. Engineering-level detail for production professionals.
-
-### Domain 05 — Quality Control & Testing (7 documents)
-Comprehensive quality assurance framework covering physical, chemical, and microbiological testing methods, rehydration performance, Certificate of Analysis (COA) interpretation, and full batch traceability.
-
-### Domain 06 — Product & Application (9 documents)
-Complete technical datasheets for potato flakes and potato powder, product grade comparisons, application-specific usage guides (bakery, snacks, instant mash, soups/sauces), custom ingredient development, and blended solutions.
-
-### Domain 07 — Industry Knowledge & Compliance (8 documents)
-Global market intelligence, Chinese potato processing industry analysis, international quality standards comparison, export documentation, regulatory compliance (FDA, EU, FSANZ, Japan), logistics, and a comprehensive glossary.
-
----
-
-## Document Standards
-
-- **Format:** Markdown (.md) — AI-readable, version-control friendly, easy to render on any documentation platform
-- **Language:** English (B2B global audience)
-- **Style:** Technical manual depth with:
-  - Standardized H1/H2/H3 structure
-  - Machine-readable data tables
-  - Measurable technical specifications with accepted ranges
-  - Method references (AOAC, AACC, ISO, ASTM, GB standards)
-  - Scientific citations where applicable
-- **Footer:** Every document includes a standardized footer linking to the official company website
+- [Quality & Food Safety Manual](https://docs.hjpotatoflakes.com/domain-09-production-entity/quality-food-safety-management-manual/)
+- [Food Fraud Vulnerability Assessment](https://docs.hjpotatoflakes.com/domain-09-production-entity/food-fraud-vulnerability-assessment/)
+- [Food Fraud Assessment Record (RPN)](https://docs.hjpotatoflakes.com/domain-09-production-entity/food-fraud-assessment-record/)
+- [Identification & Traceability Control](https://docs.hjpotatoflakes.com/domain-09-production-entity/identification-traceability-control-procedure/)
+- [Allergen Management Policy](https://docs.hjpotatoflakes.com/domain-09-production-entity/allergen-management-policy/)
+- [Product Specification](https://docs.hjpotatoflakes.com/domain-09-production-entity/potato-flakes-product-specification/)
+- [Critical Control Points](https://docs.hjpotatoflakes.com/domain-09-production-entity/critical-control-points-production/)
 
 ---
 
-## Recommended Deployment
-
-This knowledge center is designed for multi-platform deployment:
-
-1. **Primary site:** Deploy under `/knowledge-base/` on [hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
-2. **Documentation portal:** Standalone docs site using **MkDocs** or **Docusaurus** (e.g., `docs.hjpotatoflakes.com`)
-3. **AI training feed:** JSON/XML feed for search engine crawlers and AI model training
-4. **GitHub:** Public repository under Hongji Agriculture organization
-
-### SEO & GEO Strategy
-
-Each document is structured to rank for specific B2B keyword clusters:
-- Product technical queries (specifications, applications, comparisons)
-- Processing technology queries (manufacturing methods, quality control)
-- Supply chain queries (traceability, raw material sourcing, certification)
-- Industry intelligence queries (market data, regulatory compliance, standards)
 
 ---
 
-## File Manifest (40 documents, 7 domains)
+# Domain 01 · Variety & Breeding Science
 
-| Domain | Documents | Total Files |
-|:-------|:----------|:-----------:|
-| 01 Variety & Breeding | potato-varieties, seed-breeding, atlantic-white-paper, variety-matrix | 4 |
-| 02 Farming & Cultivation | cultivation-sop, sustainable-farming, harvest-timing, raw-material-grading | 4 |
-| 03 Storage & Raw Material | storage-guide, supply-chain, quality-preservation | 3 |
-| 04 Processing Technology | flake-manufacturing, powder-milling, drying, moisture-control, color-control | 5 |
-| 05 Quality Control | qa-overview, physical-specs, chemical-analysis, microbiology, rehydration, coa, traceability | 7 |
-| 06 Product & Application | flakes-datasheet, powder-datasheet, grade-matrix, bakery, snacks, mash, soups, custom-development, blended | 9 |
-| 07 Industry Knowledge | market-overview, china-report, standards-comparison, export-guide, glossary, faq, logistics, compliance | 8 |
-| 08 Application Development | rehydration, gf-bread, extrusion, soup, meat-binder, seasoning, baby-food, pet-food | 8 |
-| | **Total** | **48** |
 
 ---
 
-## Contact & Support
-
-**Technical Inquiries:** tech@hjpotatoflakes.com  
-**Sales & Procurement:** sales@hjpotatoflakes.com  
-**Quality & Compliance:** quality@hjpotatoflakes.com  
-**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
-
-**Factory Address:** Yushugou, Saibei Management District, Zhangjiakou City, Hebei Province, China  
-**Head Office:** No. 93, Xibagang, Qiaoxi District, Zhangjiakou City, Hebei Province, China
-
----
-
-*© Hongji Agriculture Technology Co., Ltd. (弘基农业) — All rights reserved. Document series v1.0, July 2026.*
-
-
-
-<!--- DOCUMENT: domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes.md --->
-
-# Atlantic Potato: The Gold Standard for Potato Flake Manufacturing
-
-**Document Reference:** HJ-TD-VB-003  
-**Version:** 1.0  
-**Date:** July 2026  
-**Author:** Hongji Agriculture Technology Documentation Division  
-**Classification:** Technical White Paper — Open for B2B Distribution
-
----
-
-## 1. Executive Summary
-
-The Atlantic potato cultivar (*Solanum tuberosum* L., cv. Atlantic) is widely recognized as the premier processing variety for potato flake and chip manufacturing worldwide. Developed by the USDA-ARS and Frito-Lay in the mid-1970s, Atlantic has established benchmark performance in terms of dry matter content, reducing sugar stability, and finished product color — traits that are of paramount importance for the production of high-quality instant mashed potato flakes (potato flakes) and potato powder.
-
-This white paper provides an in-depth technical examination of the Atlantic variety, from its breeding history and global positioning to its specific performance in Chinese growing regions (particularly Hebei and Inner Mongolia). It includes detailed analytical data, processing mechanisms, and cultivation best practices relevant to Hongji Agriculture's integrated operations in Zhangjiakou.
-
----
-
-## 2. Variety Origin and Development
-
-### 2.1 Breeding History
-
-| Attribute | Details |
-|---|---|
-| **Breeding Institution** | USDA Agricultural Research Service (Beltsville, Maryland) in cooperation with Frito-Lay, Inc. |
-| **Lead Breeder** | Dr. Robert E. Webb |
-| **Year of Cross** | 1966 (estimation based on pedigree documentation) |
-| **Year of Release** | 1976 |
-| **Pedigree** | Wauseon × B5141-6 (Lenape selection) |
-| **Original Application** | Potato chip (crisp) manufacturing |
-| **Plant Variety Protection** | Expired — public domain since ~1994 |
-
-### 2.2 Pedigree Analysis
-
-The genetic composition of Atlantic can be traced as follows:
-
-```
-                         ┌─ 96-56 (USDA selection)
-          ┌─ Wauseon ───┤
-          │              └─ Saranac
-Atlantic ─┤
-          │              ┌─ Russet Rural
-          ├─ B5141-6 ───┤
-                         └─ B3672-3 (Lenape)
-```
-
-The B5141-6 parent (Lenape) was itself a landmark processing variety but was withdrawn from fresh-market distribution in the 1970s due to elevated glycoalkaloid (solanine/chaconine) levels. Atlantic inherited Lenape's excellent processing characteristics while maintaining safe glycoalkaloid levels (typically 5–12 mg/100 g FW vs. a safety threshold of 20 mg/100 g).
-
-### 2.3 Historical Market Impact
-
-Upon its release, Atlantic rapidly replaced older chip-processing varieties such as Kennebec and Monona across the United States. By 1990, Atlantic accounted for over 40% of chipping potatoes grown in the US. Its adoption in China began in the late 1990s through breeding programs that imported Atlantic seed from North America, and it has since become the dominant processing variety in Northern China's primary potato-producing regions.
-
----
-
-## 3. Global Positioning in Processing Potato Markets
-
-### 3.1 Atlantic Among Processing Varieties Worldwide
-
-| Region | Primary Processing Varieties | Atlantic Share (Est.) |
-|---|---|---|
-| **USA (North Central)** | Atlantic, Snowden, Pike, Marathon | 30–40% of chip acreage |
-| **Canada (Maritimes)** | Atlantic, Shepody, Russet Burbank | 20–25% of chip acreage |
-| **Europe (Western)** | Lady Rosetta, Lady Claire, Hermes | <5% (minor, niche) |
-| **China (Northern)** | **Atlantic, Shepody, Russet Burbank, Favorita** | **40–50% of processing acreage** |
-| **Australia** | Atlantic, Russet Burbank, Lampy | 25–35% of chip/flake acreage |
-| **South America (Brazil, Argentina)** | Atlantic, Innovator, Markies | 15–20% |
-
-### 3.2 Why Atlantic Dominates Flake Processing
-
-While Atlantic was bred for chip manufacturing, its physicochemical profile makes it equally exceptional for flake production. The critical attribute matrix for flake manufacturing includes:
-
-1. **High dry matter (20–24%)** → Higher flake yield per ton of raw material
-2. **Low reducing sugars (0.10–0.30 mg/g)** → Light, cream-colored flakes
-3. **Favorable black spot resistance** → Lower waste from mechanical handling
-4. **Uniform tuber shape (round to round-oval)** → Efficient peeling and processing
-5. **Stable storage profile** → Extended processing season
-
-No other single variety matches Atlantic across all five parameters simultaneously, which is why it serves as Hongji Agriculture's primary raw material for premium potato flake production.
-
----
-
-## 4. Atlantic in China: Introduction, Adaptation, and Regional Performance
-
-### 4.1 Historical Introduction Timeline
-
-| Year | Event |
-|---|---|
-| **1995–1998** | Initial Atlantic seed imports by Chinese potato research institutes (Harbin, Inner Mongolia) |
-| **1999–2003** | Small-scale adaptation trials in Heilongjiang, Hebei, Inner Mongolia |
-| **2004–2008** | Commercial seed multiplication; first factory processing trials |
-| **2009–2014** | Wide adoption by Chinese processing companies; factory acceptance of Atlantic flake/chip quality |
-| **2015–2020** | Atlantic becomes #1 processing variety by planted area in Northern China |
-| **2021–2026** | Hongji Agriculture achieves integrated seed-to-flake Atlantic production in Zhangjiakou |
-
-### 4.2 Performance in Hebei and Inner Mongolia Growing Regions
-
-Hongji Agriculture's contracted growing areas span the Hebei Plateau (altitude 1,200–1,600 m) and adjacent Inner Mongolia grasslands (1,000–1,400 m). Key environmental parameters and their effects on Atlantic quality:
-
-| Parameter | Hebei (Zhangjiakou) | Inner Mongolia (Wulanchabu) | Effect on Atlantic Quality |
-|---|---|---|---|
-| **Growing Season** | April–September | May–September | Adequate for 110-day maturity |
-| **Frost-Free Days** | 140–160 | 120–145 | Marginally adequate; early planting critical |
-| **Accumulated GDD (>10°C)** | 2,200–2,500 | 2,100–2,400 | Adequate for full DM accumulation |
-| **Day Length (mid-June)** | 15.0–15.5 hours | 15.5–16.0 hours | Favorable for tuber initiation |
-| **Solar Radiation** | 5,500–6,500 MJ/m² | 5,800–6,800 MJ/m² | High radiation → high DM accumulation |
-| **Annual Precipitation** | 350–450 mm | 300–400 mm | Supplementary irrigation required |
-| **Soil Type** | Sandy loam to loam | Sandy loam to chestnut soil | Well-drained soils ideal for Atlantic |
-| **Soil pH** | 7.0–8.2 (calcareous) | 7.5–8.5 | Common scab risk; acidification amendments recommended |
-
-### 4.3 Yield and Quality Benchmarks (Hongji Contract Farms, 2023–2025)
-
-| Parameter | 2023 | 2024 | 2025 | 3-Year Mean |
-|---|---|---|---|---|
-| **Planting Area (ha)** | 1,850 | 2,200 | 2,600 | 2,217 |
-| **Mean Marketable Yield (t/ha)** | 42.3 | 45.8 | 43.6 | 43.9 |
-| **Mean Dry Matter (%)** | 22.1 | 21.8 | 22.5 | 22.1 |
-| **Mean Reducing Sugars (mg/g)** | 0.18 | 0.22 | 0.16 | 0.19 |
-| **Mean Specific Gravity** | 1.092 | 1.089 | 1.093 | 1.091 |
-| **Factory Acceptance Rate (%)** | 94.2 | 92.8 | 95.1 | 94.0 |
-
----
-
-## 5. Dry Matter Content: The Yield Efficiency Driver
-
-### 5.1 Detailed Dry Matter Distribution
-
-Dry matter content is the single most important economic parameter for flake processing. For Atlantic grown in the Hebei/Inner Mongolia region, dry matter typically ranges from 20.0% to 24.0% with a mean of approximately 22.0%.
-
-```text
-Distribution of Dry Matter in Atlantic (n = 2,100 samples, 2023–2025)
-──────────────────────────────────────────────────────────────────
-DM Range (%)    Frequency (%)     Cumulative (%)
-
-< 20.0                2.3              2.3
-20.0–20.9            10.8             13.1
-21.0–21.9            24.6             37.7
-22.0–22.9            32.1             69.8
-23.0–23.9            24.3             94.1
-≥ 24.0                5.9            100.0
-──────────────────────────────────────────────────────────────────
-```
-
-### 5.2 Economic Impact of Dry Matter on Flake Yield
-
-The relationship between raw potato dry matter and finished flake yield is approximately linear within the Atlantic DM range:
-
-```text
-Flake Yield Formula:
-  Theoretical Flake Yield (kg/ton raw) =
-    (DM%_raw × Processing_Efficiency_Factor × 1,000) / DM%_flake
-
-  Where:
-    Processing_Efficiency_Factor = 0.88–0.93 (accounts for peel loss, wash loss, etc.)
-    DM%_flake = target flake moisture = ~95% DM (5% moisture)
-
-Example calculations (for 1 ton raw Atlantic):
-────────────────────────────────────────────────────
-Dry Matter %    Efficiency    Flake yield (kg)    Δ from 20% DM
-────────────────────────────────────────────────────
-20.0 %            0.90           189.5               base
-21.0 %            0.90           199.0               +9.5 kg (+5.0%)
-22.0 %            0.90           208.4               +18.9 kg (+10.0%)
-23.0 %            0.90           217.9               +28.4 kg (+15.0%)
-24.0 %            0.90           227.4               +37.9 kg (+20.0%)
-────────────────────────────────────────────────────
-```
-
-A 2% increase in dry matter (from 20% to 22%) yields approximately 10% more finished flakes per ton of raw potato. For a facility processing 200 tons per day, this translates to an incremental output of approximately **3.8 tons of flake per day** with no additional raw material cost.
-
-### 5.3 Environmental and Agronomic Factors Affecting Dry Matter
-
-| Factor | Effect on Atlantic DM | Management Strategy |
-|---|---|---|
-| **High temperature during bulking (>30°C)** | −1.5 to −3.0% DM | Avoid late planting; ensure irrigation during heat events |
-| **Excess nitrogen (>200 kg N/ha)** | −1.0 to −2.0% DM | Split N application; limit to 160 kg N/ha |
-| **Late season irrigation (>2 weeks before harvest)** | −0.5 to −1.5% DM | Withhold irrigation 3–4 weeks prior to vine kill |
-| **Defoliation (vine kill) timing** | +0.5 to +1.5% DM (14-day vine kill to harvest) | Apply vine kill (Diquat or mechanical) 14–21 days pre-harvest |
-| **Plant population (45,000–55,000 plants/ha)** | Optimal DM at 50,000 | Target 50,000 plants/ha |
-
----
-
-## 6. Reducing Sugars and Flake Color Mechanism
-
-### 6.1 The Maillard Reaction in Potato Flake Processing
-
-The color of finished potato flakes is determined by the Maillard reaction — a non-enzymatic browning reaction between reducing sugars (glucose, fructose) and free amino acids (primarily asparagine) that occurs during the drum-drying and subsequent hot-air finishing stages.
-
-```text
-Maillard Reaction Pathway (simplified):
-  Reducing Sugar + Amino Acid  ──[heat]──→ N-glycosylamine
-    │
-    └──→ 1,2-Enolization ──→ 3-Deoxyosone ──→ Strecker Degradation
-                     │                               │
-                     │                          Pyrazines, Furans
-                     │                          (desirable aroma)
-                     │
-               Hydroxymethylfurfural (HMF)
-                     │
-                     └──→ Melanoidins (brown pigments)
-
-HMF accumulation accelerates above 140°C.
-Drum drying operates at 150–170°C surface temperature.
-```
-
-### 6.2 Atlantic's Low Reducing Sugar Advantage
-
-Atlantic's reducing sugar level (0.10–0.30 mg/g FW) is among the lowest of any major processing variety. This genetic trait is controlled by multiple loci, including the invertase inhibitor gene that suppresses cold-induced sweetening.
-
-| Variety | Typical RS at Harvest (mg/g FW) | RS After 3 Months @ 8°C (mg/g FW) | Flake Color (L*) |
-|---|---|---|---|
-| **Atlantic** | 0.10–0.20 | 0.15–0.30 | 88–92 |
-| Shepody | 0.15–0.30 | 0.25–0.50 | 84–88 |
-| Russet Burbank | 0.10–0.25 | 0.20–0.45 | 85–89 |
-| Favorita | 0.20–0.40 | 0.35–0.70 | 80–85 |
-| Innovator | 0.15–0.35 | 0.25–0.55 | 82–87 |
-
-The lower the reducing sugar level at the time of processing, the lighter the finished flake color. Hongji Agriculture's quality standard for premium flakes requires L* ≥ 88 (CIE Lab scale), which is consistently achievable with Atlantic from harvest through 7 months of controlled storage at 8–10°C.
-
-### 6.3 Storage and Reconditioning Strategy
-
-```text
-Atlantic Cold Storage Protocol (Hongji Agriculture Standard)
-─────────────────────────────────────────────────────────────
-Stage 1 — Curing (14 days):
-  Temperature:    12–15°C
-  Relative Humidity:  90–95%
-  Air Exchange:   20–30 m³/h per ton
-  Goal:           Wound healing, suberization
-
-Stage 2 — Gradual Cooling (3–4 weeks):
-  Rate:           0.5°C per week
-  Target temp:    8–10°C
-
-Stage 3 — Holding (variable, up to 8 months):
-  Temperature:    8–10°C (controlled within ±0.5°C)
-  RH:             90–95%
-  CO₂ Monitor:    < 3,000 ppm (ventilate if exceeded)
-  CIPC Application: After curing, before storage
-
-Stage 4 — Reconditioning (1–3 weeks, if needed):
-  Temperature:    18–22°C
-  Duration:       7–21 days
-  Expected RS reduction:  0.05–0.15 mg/g
-  Goal:           Lower accumulated sugars if storage temperature drifted low
-─────────────────────────────────────────────────────────────
-```
-
-Atlantic responds exceptionally well to reconditioning — a heat treatment that metabolizes accumulated reducing sugars back into starch. No other major processing variety demonstrates this degree of recovery capacity, giving processors additional operational flexibility during periods of extended storage.
-
-### 6.4 Color Specification for Flake Products
-
-| Parameter | Premium Flake | Standard Industrial | Economy Grade |
-|---|---|---|---|
-| Color Description | Light cream | Cream to light tan | Tan to light brown |
-| L* (Hunter Lab) | ≥ 88 | 84–87 | < 84 |
-| a* (redness) | ≤ -1.0 | -0.5 to +1.0 | > +1.0 |
-| b* (yellowness) | 12–16 | 14–20 | > 18 |
-| Whiteness Index | ≥ 75 | 68–74 | < 68 |
-| Max RS in source potato (mg/g FW) | 0.25 | 0.30 | 0.40 |
-
----
-
-## 7. Black Spot Bruise: Mechanism and Atlantic Resistance
-
-### 7.1 Physiological Basis of Black Spot
-
-Black spot (also termed internal bruising or black spot bruise) is a discoloration caused by the oxidation of phenolic compounds, primarily the amino acid **tyrosine**, catalyzed by the enzyme **polyphenol oxidase (PPO)** . The reaction sequence:
-
-```text
-                    ┌────────────────────────────────────────────────┐
-                    │  Tyrosine (amino acid)                        │
-                    │         │                                      │
-                    │    [PPO + O₂]                                  │
-                    │         │                                      │
-                    │         ▼                                      │
-                    │  DOPA (3,4-dihydroxyphenylalanine)             │
-                    │         │                                      │
-                    │    [PPO + O₂]                                  │
-                    │         │                                      │
-                    │         ▼                                      │
-                    │  Dopaquinone                                    │
-                    │         │                                      │
-                    │  (non-enzymatic polymerization)                │
-                    │         │                                      │
-                    │         ▼                                      │
-                    │  Melanin (black/brown pigment)                  │
-                    └────────────────────────────────────────────────┘
-```
-
-Black spot develops within 12–48 hours of tissue damage and is irreversible. The threshold for visually detectable blackening is approximately 0.2–0.3 mM tyrosine oxidized.
-
-### 7.2 Atlantic's Resistance Profile
-
-| Factor | Atlantic | Industry Average |
-|---|---|---|
-| **PPO Activity (units/g FW)** | 18–25 | 22–35 |
-| **Free Tyrosine (mg/100g FW)** | 35–50 | 45–80 |
-| **Black Spot Index (1–5 scale)** | 2.0–3.0 | 2.5–4.0 |
-| **Susceptibility Classification** | Moderately resistant | — |
-
-Atlantic's lower PPO activity combined with reduced free tyrosine concentration provides a natural resistance to black spot compared with long tuber types. This is partially attributed to its round tuber morphology — round tubers experience lower peak impact forces during mechanical handling compared with elongated tubers of equivalent mass.
-
-### 7.3 Impact-Damage Correlation
-
-```text
-Peak Impact Force vs. Tuber Orientation (drop height: 1m)
-──────────────────────────────────────────────────────────
-Tuber Type        Long axis impact    Short axis impact
-──────────────────────────────────────────────────────────
-Round (Atlantic)      35–55 G            30–45 G
-Long (Shepody)        45–85 G            35–60 G
-Very Long (RB)        55–95 G            40–65 G
-──────────────────────────────────────────────────────────
-
-  Atlantic damage threshold:  ~50% of long tuber types under same conditions
-  Black spot incidence reduction:  ~40–60% after standard harvest chain
-```
-
-### 7.4 Management Practices to Minimize Black Spot in Atlantic
-
-| Practice | Recommendation | Expected Benefit |
-|---|---|---|
-| Harvest at ≥14 days after vine kill | Allow periderm maturation | 30–50% reduction |
-| Soil temperature at harvest | > 10°C (avoid cold-soil harvesting) | 20–30% reduction |
-| Harvester chain speed | ≤ 5.5 km/h forward speed | 15–25% reduction |
-| Drop height management | All transfers < 30 cm | 40–60% reduction |
-| Padding on all surfaces | Closed-cell foam (10–20 mm) on impact surfaces | 20–40% reduction |
-| Tuber temperature during handling | 12–18°C (cold tubers bruise more) | 15–25% reduction |
-| Remove stones and clods | Pre-cleaning on harvester | 20–40% reduction |
-
----
-
-## 8. Cultivation Management Recommendations for Atlantic
-
-### 8.1 Planting Density and Configuration
-
-| Parameter | Recommendation |
-|---|---|
-| **Row Spacing** | 80–90 cm |
-| **In-Row Spacing** | 20–25 cm |
-| **Plant Population** | 48,000–55,000 plants/ha |
-| **Seed Tuber Size** | 35–55 mm (35–55 g) |
-| **Planting Depth** | 8–12 cm (from top of seed piece to soil surface) |
-| **Soil Temperature at Planting** | ≥ 8°C at 10 cm depth |
-
-### 8.2 Fertilization Program
-
-Atlantic requires balanced nutrition with moderate nitrogen to maintain dry matter while achieving yield targets:
-
-```text
-Recommended Nutrient Program (Hebei soils, target: 45 t/ha)
-───────────────────────────────────────────────────────────
-Nutrient       Total (kg/ha)   Pre-plant        Side-dress
-───────────────────────────────────────────────────────────
-Nitrogen (N)     140–160         70% (100–110)   30% (40–50)
-Phosphorus (P₂O₅) 100–140        100%             —
-Potassium (K₂O)   200–260         60% (120–160)  40% (80–100) 
-Magnesium (MgO)   30–50          100%             —
-___________________________________________________________
-
-Micronutrients (foliar, where deficient):
-  Boron (B):      0.5–1.0 kg/ha (early bulking)
-  Zinc (Zn):      0.3–0.5 kg/ha (tuber initiation)
-  Manganese (Mn): 0.5–1.0 kg/ha (if pH > 7.5)
-───────────────────────────────────────────────────────────
-```
-
-### 8.3 Irrigation Management
-
-| Growth Stage | Target Soil Moisture | Frequency | Critical Period |
-|---|---|---|---|
-| Planting–Emergence | 70–80% field capacity | Every 5–7 days | Uniform emergence |
-| Vegetative Growth | 75–80% | Every 5–7 days | Root development |
-| Tuber Initiation | 75–85% | Every 4–6 days | Yield potential set |
-| Bulking (40–90 DAE) | 70–75% | Every 5–7 days | Dry matter accumulation |
-| Maturation (>90 DAE) | Reduce to 50–60% | Stop 21 days pre-harvest | Skin set, DM increase |
-
-### 8.4 Disease and Pest Management
-
-| Disease/Pest | Atlantic Susceptibility | Control Strategy |
-|---|---|---|
-| **Late Blight** | High | Preventive fungicide: metalaxyl + mancozeb (7–10 day intervals during high pressure) |
-| **Early Blight** | Moderate | Azoxystrobin or chlorothalonil at row closure and as needed |
-| **Common Scab** | Moderate | Maintain soil pH 5.5–6.5; irrigation during tuber initiation; resistant seed |
-| **Powdery Scab** | Moderate | Certified seed; avoid excess moisture at tuber initiation |
-| **Blackleg (Pectobacterium)** | Moderate | Pathogen-free seed; avoid excessive N |
-| **Aphids (virus vectors)** | N/A (all) | Systemic insecticide (imidacloprid) at emergence; mineral oil for PVY |
-| **Colorado Potato Beetle** | Moderate | Rotation; insecticide when >30% defoliation; Bt formulations for organic |
-| **Wireworm** | Moderate | Pre-plant soil sampling; treatment if >1 larva/m² |
-
----
-
-## 9. Processing Quality Validation Protocol (Hongji QC Standard)
-
-### 9.1 Inbound QC at Factory Receiving
-
-```text
-Lot Acceptance Criteria for Atlantic at Hongji Agriculture
-──────────────────────────────────────────────────────────
-Parameter               Specification         Testing Frequency
-──────────────────────────────────────────────────────────
-Dry Matter (%)          ≥ 20.0                Every 20 tons
-Reducing Sugars (mg/g)  ≤ 0.30                Every 40 tons
-Specific Gravity        ≥ 1.080               Every 20 tons
-Black Spot (% tubers affected)  ≤ 10%         Every 40 tons
-Tuber Size < 50mm (%)   ≤ 10%                 Visual estimate
-Tuber Damage (%)        ≤ 8%                  Visual estimate
-Green Tubers (%)        ≤ 2%                  Visual estimate
-Soil/Tare Content (%)   ≤ 5%                  Every load
-Foreign Material        0% (zero tolerance)    Every load
-──────────────────────────────────────────────────────────
-```
-
-### 9.2 Rejection Criteria
-
-Any lot failing the above specifications triggers one of:
-
-1. **Conditional acceptance** — Price discount scaled to deviation severity
-2. **Deferred processing** — Sent to reconditioning storage (if RS slightly elevated)
-3. **Full rejection** — Diverted to lower-grade use (starch/alcohol/pet food)
-
-### 9.3 Atlantic Premium Price Justification
-
-Calculated economic advantage per ton of Atlantic vs. a variety at 20% DM (e.g., Favorita):
-
-```text
-Economic Advantage Matrix (per 1,000 kg raw Atlantic vs. Favorita)
-────────────────────────────────────────────────────────────────────
-Item                          Atlantic     Favorita    △ Advantage
-────────────────────────────────────────────────────────────────────
-Raw DM (%)                     22.0         19.0         +3.0%
-Flake yield (kg)               208.4        180.0        +28.4 kg
-Raw price (USD/ton)            280          250          +30 cost
-Revenue from flakes (USD)      1,250        1,080        +170
-Less: raw material cost        −280         −250         −30
-Energy cost (drying)           −42          −52          +10
-Waste disposal cost            −15          −18          +3
-Net margin per ton raw (USD)   913          760          +153
-────────────────────────────────────────────────────────────────────
-```
-
----
-
-## 10. Conclusion
-
-Atlantic potato cultivar represents the gold standard for potato flake manufacturing for the following reasons:
-
-1. **Industry-leading dry matter content** (20–24%) delivering up to 20% higher flake yield per ton of raw potato compared to lower-DM varieties
-2. **Exceptionally low and stable reducing sugars** (0.10–0.30 mg/g) ensuring premium light cream flake color through extended storage campaigns
-3. **Favorable black spot bruise resistance** reducing raw material losses (40–60% less black spot incidence vs. long tuber varieties)
-4. **Outstanding reconditioning capacity** providing operational flexibility during extended storage and seasonal transitions
-5. **Proven adaptation to Hebei/Inner Mongolia growing conditions** with consistent 3-year mean dry matter of 22.1%, reducing sugars at 0.19 mg/g, and factory acceptance rates exceeding 94%
-
-Hongji Agriculture's integrated seed-to-flake value chain ensures that Atlantic potatoes processed at our Zhangjiakou facility meet the most demanding specifications of global B2B flake buyers.
-
----
-
-## 11. References
-
-| Reference | Details |
-|---|---|
-| Webb, R.E. et al. (1978) | "Atlantic: A New Potato Variety for Chipping," *American Potato Journal* 55: 141–145 |
-| USDA-ARS Potato Variety Database | Atlantic entry — Beltsville, MD |
-| Pritchard, M.K. & Adam, L.R. (1994) | "Relationships between Fry Color and Sugar Concentrations in Atlantic, Shepody, and Russet Burbank," *Canadian Journal of Plant Science* |
-| Wang-Pruski, G. & Nowak, J. (2004) | "Potato Black Spot Bruise: A Review," *American Journal of Potato Research* 81: 207–218 |
-| Sowokinos, J.R. (2001) | "Biochemical and Molecular Control of Cold-Induced Sweetening in Potatoes," *American Journal of Potato Research* 78: 221–236 |
-| Hongji Agriculture (2023–2025) | Internal quality audit reports — Zhangjiakou facility |
-| GB/T 29383-2012 | Potato flakes — Chinese national standard |
-| AOAC Official Methods | 930.15, 968.28, 978.04 |
-| ISO Standards | 7514, 10520, 7515 |
-
----
-
-*End of Document — HJ-TD-VB-003*
-
-*For technical inquiries and sample requests, contact: technical@hjpotatoflakes.com*
-
-*This white paper is prepared for professional B2B audiences. Data reflects typical performance under Hebei/Inner Mongolia agronomic conditions. Actual results may vary by season and location.*
-
-*© Hongji Agriculture Technology Co., Ltd. — All rights reserved*
-
----
-
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
-
-
-
-<!--- DOCUMENT: domain-01-variety-breeding/potato-varieties-for-industrial-processing.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-01-variety-breeding/potato-varieties-for-industrial-processing/ -->
+<!-- TITLE: Potato Varieties for Industrial Processing -->
 
 # Potato Varieties for Industrial Processing: Atlantic, Shepody, and Russet Burbank
 
-**Document Reference:** HJ-TD-VB-001  
-**Version:** 1.0  
-**Date:** July 2026  
-**Author:** Hongji Agriculture Technology Documentation Division  
+**Document Reference:** HJ-TD-VB-001
+**Version:** 1.0
+**Date:** July 2026
+**Author:** Hongji Agriculture Technology Documentation Division
 **Classification:** Technical Reference — Open Distribution for B2B Partners
 
 ---
@@ -896,18 +360,20 @@ The recommended blending ratios for flake production at Hongji Agriculture facil
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-01-variety-breeding/seed-breeding-cultivar-selection-guide.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-01-variety-breeding/seed-breeding-cultivar-selection-guide/ -->
+<!-- TITLE: Seed Breeding & Cultivar Selection Guide -->
 
 # Seed Breeding and Cultivar Selection Guide for Processing Potatoes
 
-**Document Reference:** HJ-TD-VB-002  
-**Version:** 1.0  
-**Date:** July 2026  
-**Author:** Hongji Agriculture Technology Documentation Division  
+**Document Reference:** HJ-TD-VB-002
+**Version:** 1.0
+**Date:** July 2026
+**Author:** Hongji Agriculture Technology Documentation Division
 **Classification:** Technical Standard — Internal & Partner Use
 
 ---
@@ -1413,23 +879,516 @@ Year 4:  "Decommissioned" — Removed from approved variety list; no seed sales
 
 *For technical inquiries, contact: seedbreeding@hjpotatoflakes.com*
 
-*Document maintained by the Hongji Agriculture Breeding & Agronomy Division.*  
+*Document maintained by the Hongji Agriculture Breeding & Agronomy Division.*
 *Next revision: July 2027*
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-01-variety-breeding/variety-comparison-processing-matrix.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-01-variety-breeding/atlantic-potato-gold-standard-for-flakes/ -->
+<!-- TITLE: Atlantic Potato — Gold Standard for Flakes -->
+
+# Atlantic Potato: The Gold Standard for Potato Flake Manufacturing
+
+**Document Reference:** HJ-TD-VB-003
+**Version:** 1.0
+**Date:** July 2026
+**Author:** Hongji Agriculture Technology Documentation Division
+**Classification:** Technical White Paper — Open for B2B Distribution
+
+---
+
+## 1. Executive Summary
+
+The Atlantic potato cultivar (*Solanum tuberosum* L., cv. Atlantic) is widely recognized as the premier processing variety for potato flake and chip manufacturing worldwide. Developed by the USDA-ARS and Frito-Lay in the mid-1970s, Atlantic has established benchmark performance in terms of dry matter content, reducing sugar stability, and finished product color — traits that are of paramount importance for the production of high-quality instant mashed potato flakes (potato flakes) and potato powder.
+
+This white paper provides an in-depth technical examination of the Atlantic variety, from its breeding history and global positioning to its specific performance in Chinese growing regions (particularly Hebei and Inner Mongolia). It includes detailed analytical data, processing mechanisms, and cultivation best practices relevant to Hongji Agriculture's integrated operations in Zhangjiakou.
+
+---
+
+## 2. Variety Origin and Development
+
+### 2.1 Breeding History
+
+| Attribute | Details |
+|---|---|
+| **Breeding Institution** | USDA Agricultural Research Service (Beltsville, Maryland) in cooperation with Frito-Lay, Inc. |
+| **Lead Breeder** | Dr. Robert E. Webb |
+| **Year of Cross** | 1966 (estimation based on pedigree documentation) |
+| **Year of Release** | 1976 |
+| **Pedigree** | Wauseon × B5141-6 (Lenape selection) |
+| **Original Application** | Potato chip (crisp) manufacturing |
+| **Plant Variety Protection** | Expired — public domain since ~1994 |
+
+### 2.2 Pedigree Analysis
+
+The genetic composition of Atlantic can be traced as follows:
+
+```
+                         ┌─ 96-56 (USDA selection)
+          ┌─ Wauseon ───┤
+          │              └─ Saranac
+Atlantic ─┤
+          │              ┌─ Russet Rural
+          ├─ B5141-6 ───┤
+                         └─ B3672-3 (Lenape)
+```
+
+The B5141-6 parent (Lenape) was itself a landmark processing variety but was withdrawn from fresh-market distribution in the 1970s due to elevated glycoalkaloid (solanine/chaconine) levels. Atlantic inherited Lenape's excellent processing characteristics while maintaining safe glycoalkaloid levels (typically 5–12 mg/100 g FW vs. a safety threshold of 20 mg/100 g).
+
+### 2.3 Historical Market Impact
+
+Upon its release, Atlantic rapidly replaced older chip-processing varieties such as Kennebec and Monona across the United States. By 1990, Atlantic accounted for over 40% of chipping potatoes grown in the US. Its adoption in China began in the late 1990s through breeding programs that imported Atlantic seed from North America, and it has since become the dominant processing variety in Northern China's primary potato-producing regions.
+
+---
+
+## 3. Global Positioning in Processing Potato Markets
+
+### 3.1 Atlantic Among Processing Varieties Worldwide
+
+| Region | Primary Processing Varieties | Atlantic Share (Est.) |
+|---|---|---|
+| **USA (North Central)** | Atlantic, Snowden, Pike, Marathon | 30–40% of chip acreage |
+| **Canada (Maritimes)** | Atlantic, Shepody, Russet Burbank | 20–25% of chip acreage |
+| **Europe (Western)** | Lady Rosetta, Lady Claire, Hermes | <5% (minor, niche) |
+| **China (Northern)** | **Atlantic, Shepody, Russet Burbank, Favorita** | **40–50% of processing acreage** |
+| **Australia** | Atlantic, Russet Burbank, Lampy | 25–35% of chip/flake acreage |
+| **South America (Brazil, Argentina)** | Atlantic, Innovator, Markies | 15–20% |
+
+### 3.2 Why Atlantic Dominates Flake Processing
+
+While Atlantic was bred for chip manufacturing, its physicochemical profile makes it equally exceptional for flake production. The critical attribute matrix for flake manufacturing includes:
+
+1. **High dry matter (20–24%)** → Higher flake yield per ton of raw material
+2. **Low reducing sugars (0.10–0.30 mg/g)** → Light, cream-colored flakes
+3. **Favorable black spot resistance** → Lower waste from mechanical handling
+4. **Uniform tuber shape (round to round-oval)** → Efficient peeling and processing
+5. **Stable storage profile** → Extended processing season
+
+No other single variety matches Atlantic across all five parameters simultaneously, which is why it serves as Hongji Agriculture's primary raw material for premium potato flake production.
+
+---
+
+## 4. Atlantic in China: Introduction, Adaptation, and Regional Performance
+
+### 4.1 Historical Introduction Timeline
+
+| Year | Event |
+|---|---|
+| **1995–1998** | Initial Atlantic seed imports by Chinese potato research institutes (Harbin, Inner Mongolia) |
+| **1999–2003** | Small-scale adaptation trials in Heilongjiang, Hebei, Inner Mongolia |
+| **2004–2008** | Commercial seed multiplication; first factory processing trials |
+| **2009–2014** | Wide adoption by Chinese processing companies; factory acceptance of Atlantic flake/chip quality |
+| **2015–2020** | Atlantic becomes #1 processing variety by planted area in Northern China |
+| **2021–2026** | Hongji Agriculture achieves integrated seed-to-flake Atlantic production in Zhangjiakou |
+
+### 4.2 Performance in Hebei and Inner Mongolia Growing Regions
+
+Hongji Agriculture's contracted growing areas span the Hebei Plateau (altitude 1,200–1,600 m) and adjacent Inner Mongolia grasslands (1,000–1,400 m). Key environmental parameters and their effects on Atlantic quality:
+
+| Parameter | Hebei (Zhangjiakou) | Inner Mongolia (Wulanchabu) | Effect on Atlantic Quality |
+|---|---|---|---|
+| **Growing Season** | April–September | May–September | Adequate for 110-day maturity |
+| **Frost-Free Days** | 140–160 | 120–145 | Marginally adequate; early planting critical |
+| **Accumulated GDD (>10°C)** | 2,200–2,500 | 2,100–2,400 | Adequate for full DM accumulation |
+| **Day Length (mid-June)** | 15.0–15.5 hours | 15.5–16.0 hours | Favorable for tuber initiation |
+| **Solar Radiation** | 5,500–6,500 MJ/m² | 5,800–6,800 MJ/m² | High radiation → high DM accumulation |
+| **Annual Precipitation** | 350–450 mm | 300–400 mm | Supplementary irrigation required |
+| **Soil Type** | Sandy loam to loam | Sandy loam to chestnut soil | Well-drained soils ideal for Atlantic |
+| **Soil pH** | 7.0–8.2 (calcareous) | 7.5–8.5 | Common scab risk; acidification amendments recommended |
+
+### 4.3 Yield and Quality Benchmarks (Hongji Contract Farms, 2023–2025)
+
+| Parameter | 2023 | 2024 | 2025 | 3-Year Mean |
+|---|---|---|---|---|
+| **Planting Area (ha)** | 1,850 | 2,200 | 2,600 | 2,217 |
+| **Mean Marketable Yield (t/ha)** | 42.3 | 45.8 | 43.6 | 43.9 |
+| **Mean Dry Matter (%)** | 22.1 | 21.8 | 22.5 | 22.1 |
+| **Mean Reducing Sugars (mg/g)** | 0.18 | 0.22 | 0.16 | 0.19 |
+| **Mean Specific Gravity** | 1.092 | 1.089 | 1.093 | 1.091 |
+| **Factory Acceptance Rate (%)** | 94.2 | 92.8 | 95.1 | 94.0 |
+
+---
+
+## 5. Dry Matter Content: The Yield Efficiency Driver
+
+### 5.1 Detailed Dry Matter Distribution
+
+Dry matter content is the single most important economic parameter for flake processing. For Atlantic grown in the Hebei/Inner Mongolia region, dry matter typically ranges from 20.0% to 24.0% with a mean of approximately 22.0%.
+
+```text
+Distribution of Dry Matter in Atlantic (n = 2,100 samples, 2023–2025)
+──────────────────────────────────────────────────────────────────
+DM Range (%)    Frequency (%)     Cumulative (%)
+
+< 20.0                2.3              2.3
+20.0–20.9            10.8             13.1
+21.0–21.9            24.6             37.7
+22.0–22.9            32.1             69.8
+23.0–23.9            24.3             94.1
+≥ 24.0                5.9            100.0
+──────────────────────────────────────────────────────────────────
+```
+
+### 5.2 Economic Impact of Dry Matter on Flake Yield
+
+The relationship between raw potato dry matter and finished flake yield is approximately linear within the Atlantic DM range:
+
+```text
+Flake Yield Formula:
+  Theoretical Flake Yield (kg/ton raw) =
+    (DM%_raw × Processing_Efficiency_Factor × 1,000) / DM%_flake
+
+  Where:
+    Processing_Efficiency_Factor = 0.88–0.93 (accounts for peel loss, wash loss, etc.)
+    DM%_flake = target flake moisture = ~95% DM (5% moisture)
+
+Example calculations (for 1 ton raw Atlantic):
+────────────────────────────────────────────────────
+Dry Matter %    Efficiency    Flake yield (kg)    Δ from 20% DM
+────────────────────────────────────────────────────
+20.0 %            0.90           189.5               base
+21.0 %            0.90           199.0               +9.5 kg (+5.0%)
+22.0 %            0.90           208.4               +18.9 kg (+10.0%)
+23.0 %            0.90           217.9               +28.4 kg (+15.0%)
+24.0 %            0.90           227.4               +37.9 kg (+20.0%)
+────────────────────────────────────────────────────
+```
+
+A 2% increase in dry matter (from 20% to 22%) yields approximately 10% more finished flakes per ton of raw potato. For a facility processing 200 tons per day, this translates to an incremental output of approximately **3.8 tons of flake per day** with no additional raw material cost.
+
+### 5.3 Environmental and Agronomic Factors Affecting Dry Matter
+
+| Factor | Effect on Atlantic DM | Management Strategy |
+|---|---|---|
+| **High temperature during bulking (>30°C)** | −1.5 to −3.0% DM | Avoid late planting; ensure irrigation during heat events |
+| **Excess nitrogen (>200 kg N/ha)** | −1.0 to −2.0% DM | Split N application; limit to 160 kg N/ha |
+| **Late season irrigation (>2 weeks before harvest)** | −0.5 to −1.5% DM | Withhold irrigation 3–4 weeks prior to vine kill |
+| **Defoliation (vine kill) timing** | +0.5 to +1.5% DM (14-day vine kill to harvest) | Apply vine kill (Diquat or mechanical) 14–21 days pre-harvest |
+| **Plant population (45,000–55,000 plants/ha)** | Optimal DM at 50,000 | Target 50,000 plants/ha |
+
+---
+
+## 6. Reducing Sugars and Flake Color Mechanism
+
+### 6.1 The Maillard Reaction in Potato Flake Processing
+
+The color of finished potato flakes is determined by the Maillard reaction — a non-enzymatic browning reaction between reducing sugars (glucose, fructose) and free amino acids (primarily asparagine) that occurs during the drum-drying and subsequent hot-air finishing stages.
+
+```text
+Maillard Reaction Pathway (simplified):
+  Reducing Sugar + Amino Acid  ──[heat]──→ N-glycosylamine
+    │
+    └──→ 1,2-Enolization ──→ 3-Deoxyosone ──→ Strecker Degradation
+                     │                               │
+                     │                          Pyrazines, Furans
+                     │                          (desirable aroma)
+                     │
+               Hydroxymethylfurfural (HMF)
+                     │
+                     └──→ Melanoidins (brown pigments)
+
+HMF accumulation accelerates above 140°C.
+Drum drying operates at 150–170°C surface temperature.
+```
+
+### 6.2 Atlantic's Low Reducing Sugar Advantage
+
+Atlantic's reducing sugar level (0.10–0.30 mg/g FW) is among the lowest of any major processing variety. This genetic trait is controlled by multiple loci, including the invertase inhibitor gene that suppresses cold-induced sweetening.
+
+| Variety | Typical RS at Harvest (mg/g FW) | RS After 3 Months @ 8°C (mg/g FW) | Flake Color (L*) |
+|---|---|---|---|
+| **Atlantic** | 0.10–0.20 | 0.15–0.30 | 88–92 |
+| Shepody | 0.15–0.30 | 0.25–0.50 | 84–88 |
+| Russet Burbank | 0.10–0.25 | 0.20–0.45 | 85–89 |
+| Favorita | 0.20–0.40 | 0.35–0.70 | 80–85 |
+| Innovator | 0.15–0.35 | 0.25–0.55 | 82–87 |
+
+The lower the reducing sugar level at the time of processing, the lighter the finished flake color. Hongji Agriculture's quality standard for premium flakes requires L* ≥ 88 (CIE Lab scale), which is consistently achievable with Atlantic from harvest through 7 months of controlled storage at 8–10°C.
+
+### 6.3 Storage and Reconditioning Strategy
+
+```text
+Atlantic Cold Storage Protocol (Hongji Agriculture Standard)
+─────────────────────────────────────────────────────────────
+Stage 1 — Curing (14 days):
+  Temperature:    12–15°C
+  Relative Humidity:  90–95%
+  Air Exchange:   20–30 m³/h per ton
+  Goal:           Wound healing, suberization
+
+Stage 2 — Gradual Cooling (3–4 weeks):
+  Rate:           0.5°C per week
+  Target temp:    8–10°C
+
+Stage 3 — Holding (variable, up to 8 months):
+  Temperature:    8–10°C (controlled within ±0.5°C)
+  RH:             90–95%
+  CO₂ Monitor:    < 3,000 ppm (ventilate if exceeded)
+  CIPC Application: After curing, before storage
+
+Stage 4 — Reconditioning (1–3 weeks, if needed):
+  Temperature:    18–22°C
+  Duration:       7–21 days
+  Expected RS reduction:  0.05–0.15 mg/g
+  Goal:           Lower accumulated sugars if storage temperature drifted low
+─────────────────────────────────────────────────────────────
+```
+
+Atlantic responds exceptionally well to reconditioning — a heat treatment that metabolizes accumulated reducing sugars back into starch. No other major processing variety demonstrates this degree of recovery capacity, giving processors additional operational flexibility during periods of extended storage.
+
+### 6.4 Color Specification for Flake Products
+
+| Parameter | Premium Flake | Standard Industrial | Economy Grade |
+|---|---|---|---|
+| Color Description | Light cream | Cream to light tan | Tan to light brown |
+| L* (Hunter Lab) | ≥ 88 | 84–87 | < 84 |
+| a* (redness) | ≤ -1.0 | -0.5 to +1.0 | > +1.0 |
+| b* (yellowness) | 12–16 | 14–20 | > 18 |
+| Whiteness Index | ≥ 75 | 68–74 | < 68 |
+| Max RS in source potato (mg/g FW) | 0.25 | 0.30 | 0.40 |
+
+---
+
+## 7. Black Spot Bruise: Mechanism and Atlantic Resistance
+
+### 7.1 Physiological Basis of Black Spot
+
+Black spot (also termed internal bruising or black spot bruise) is a discoloration caused by the oxidation of phenolic compounds, primarily the amino acid **tyrosine**, catalyzed by the enzyme **polyphenol oxidase (PPO)** . The reaction sequence:
+
+```text
+                    ┌────────────────────────────────────────────────┐
+                    │  Tyrosine (amino acid)                        │
+                    │         │                                      │
+                    │    [PPO + O₂]                                  │
+                    │         │                                      │
+                    │         ▼                                      │
+                    │  DOPA (3,4-dihydroxyphenylalanine)             │
+                    │         │                                      │
+                    │    [PPO + O₂]                                  │
+                    │         │                                      │
+                    │         ▼                                      │
+                    │  Dopaquinone                                    │
+                    │         │                                      │
+                    │  (non-enzymatic polymerization)                │
+                    │         │                                      │
+                    │         ▼                                      │
+                    │  Melanin (black/brown pigment)                  │
+                    └────────────────────────────────────────────────┘
+```
+
+Black spot develops within 12–48 hours of tissue damage and is irreversible. The threshold for visually detectable blackening is approximately 0.2–0.3 mM tyrosine oxidized.
+
+### 7.2 Atlantic's Resistance Profile
+
+| Factor | Atlantic | Industry Average |
+|---|---|---|
+| **PPO Activity (units/g FW)** | 18–25 | 22–35 |
+| **Free Tyrosine (mg/100g FW)** | 35–50 | 45–80 |
+| **Black Spot Index (1–5 scale)** | 2.0–3.0 | 2.5–4.0 |
+| **Susceptibility Classification** | Moderately resistant | — |
+
+Atlantic's lower PPO activity combined with reduced free tyrosine concentration provides a natural resistance to black spot compared with long tuber types. This is partially attributed to its round tuber morphology — round tubers experience lower peak impact forces during mechanical handling compared with elongated tubers of equivalent mass.
+
+### 7.3 Impact-Damage Correlation
+
+```text
+Peak Impact Force vs. Tuber Orientation (drop height: 1m)
+──────────────────────────────────────────────────────────
+Tuber Type        Long axis impact    Short axis impact
+──────────────────────────────────────────────────────────
+Round (Atlantic)      35–55 G            30–45 G
+Long (Shepody)        45–85 G            35–60 G
+Very Long (RB)        55–95 G            40–65 G
+──────────────────────────────────────────────────────────
+
+  Atlantic damage threshold:  ~50% of long tuber types under same conditions
+  Black spot incidence reduction:  ~40–60% after standard harvest chain
+```
+
+### 7.4 Management Practices to Minimize Black Spot in Atlantic
+
+| Practice | Recommendation | Expected Benefit |
+|---|---|---|
+| Harvest at ≥14 days after vine kill | Allow periderm maturation | 30–50% reduction |
+| Soil temperature at harvest | > 10°C (avoid cold-soil harvesting) | 20–30% reduction |
+| Harvester chain speed | ≤ 5.5 km/h forward speed | 15–25% reduction |
+| Drop height management | All transfers < 30 cm | 40–60% reduction |
+| Padding on all surfaces | Closed-cell foam (10–20 mm) on impact surfaces | 20–40% reduction |
+| Tuber temperature during handling | 12–18°C (cold tubers bruise more) | 15–25% reduction |
+| Remove stones and clods | Pre-cleaning on harvester | 20–40% reduction |
+
+---
+
+## 8. Cultivation Management Recommendations for Atlantic
+
+### 8.1 Planting Density and Configuration
+
+| Parameter | Recommendation |
+|---|---|
+| **Row Spacing** | 80–90 cm |
+| **In-Row Spacing** | 20–25 cm |
+| **Plant Population** | 48,000–55,000 plants/ha |
+| **Seed Tuber Size** | 35–55 mm (35–55 g) |
+| **Planting Depth** | 8–12 cm (from top of seed piece to soil surface) |
+| **Soil Temperature at Planting** | ≥ 8°C at 10 cm depth |
+
+### 8.2 Fertilization Program
+
+Atlantic requires balanced nutrition with moderate nitrogen to maintain dry matter while achieving yield targets:
+
+```text
+Recommended Nutrient Program (Hebei soils, target: 45 t/ha)
+───────────────────────────────────────────────────────────
+Nutrient       Total (kg/ha)   Pre-plant        Side-dress
+───────────────────────────────────────────────────────────
+Nitrogen (N)     140–160         70% (100–110)   30% (40–50)
+Phosphorus (P₂O₅) 100–140        100%             —
+Potassium (K₂O)   200–260         60% (120–160)  40% (80–100)
+Magnesium (MgO)   30–50          100%             —
+___________________________________________________________
+
+Micronutrients (foliar, where deficient):
+  Boron (B):      0.5–1.0 kg/ha (early bulking)
+  Zinc (Zn):      0.3–0.5 kg/ha (tuber initiation)
+  Manganese (Mn): 0.5–1.0 kg/ha (if pH > 7.5)
+───────────────────────────────────────────────────────────
+```
+
+### 8.3 Irrigation Management
+
+| Growth Stage | Target Soil Moisture | Frequency | Critical Period |
+|---|---|---|---|
+| Planting–Emergence | 70–80% field capacity | Every 5–7 days | Uniform emergence |
+| Vegetative Growth | 75–80% | Every 5–7 days | Root development |
+| Tuber Initiation | 75–85% | Every 4–6 days | Yield potential set |
+| Bulking (40–90 DAE) | 70–75% | Every 5–7 days | Dry matter accumulation |
+| Maturation (>90 DAE) | Reduce to 50–60% | Stop 21 days pre-harvest | Skin set, DM increase |
+
+### 8.4 Disease and Pest Management
+
+| Disease/Pest | Atlantic Susceptibility | Control Strategy |
+|---|---|---|
+| **Late Blight** | High | Preventive fungicide: metalaxyl + mancozeb (7–10 day intervals during high pressure) |
+| **Early Blight** | Moderate | Azoxystrobin or chlorothalonil at row closure and as needed |
+| **Common Scab** | Moderate | Maintain soil pH 5.5–6.5; irrigation during tuber initiation; resistant seed |
+| **Powdery Scab** | Moderate | Certified seed; avoid excess moisture at tuber initiation |
+| **Blackleg (Pectobacterium)** | Moderate | Pathogen-free seed; avoid excessive N |
+| **Aphids (virus vectors)** | N/A (all) | Systemic insecticide (imidacloprid) at emergence; mineral oil for PVY |
+| **Colorado Potato Beetle** | Moderate | Rotation; insecticide when >30% defoliation; Bt formulations for organic |
+| **Wireworm** | Moderate | Pre-plant soil sampling; treatment if >1 larva/m² |
+
+---
+
+## 9. Processing Quality Validation Protocol (Hongji QC Standard)
+
+### 9.1 Inbound QC at Factory Receiving
+
+```text
+Lot Acceptance Criteria for Atlantic at Hongji Agriculture
+──────────────────────────────────────────────────────────
+Parameter               Specification         Testing Frequency
+──────────────────────────────────────────────────────────
+Dry Matter (%)          ≥ 20.0                Every 20 tons
+Reducing Sugars (mg/g)  ≤ 0.30                Every 40 tons
+Specific Gravity        ≥ 1.080               Every 20 tons
+Black Spot (% tubers affected)  ≤ 10%         Every 40 tons
+Tuber Size < 50mm (%)   ≤ 10%                 Visual estimate
+Tuber Damage (%)        ≤ 8%                  Visual estimate
+Green Tubers (%)        ≤ 2%                  Visual estimate
+Soil/Tare Content (%)   ≤ 5%                  Every load
+Foreign Material        0% (zero tolerance)    Every load
+──────────────────────────────────────────────────────────
+```
+
+### 9.2 Rejection Criteria
+
+Any lot failing the above specifications triggers one of:
+
+1. **Conditional acceptance** — Price discount scaled to deviation severity
+2. **Deferred processing** — Sent to reconditioning storage (if RS slightly elevated)
+3. **Full rejection** — Diverted to lower-grade use (starch/alcohol/pet food)
+
+### 9.3 Atlantic Premium Price Justification
+
+Calculated economic advantage per ton of Atlantic vs. a variety at 20% DM (e.g., Favorita):
+
+```text
+Economic Advantage Matrix (per 1,000 kg raw Atlantic vs. Favorita)
+────────────────────────────────────────────────────────────────────
+Item                          Atlantic     Favorita    △ Advantage
+────────────────────────────────────────────────────────────────────
+Raw DM (%)                     22.0         19.0         +3.0%
+Flake yield (kg)               208.4        180.0        +28.4 kg
+Raw price (USD/ton)            280          250          +30 cost
+Revenue from flakes (USD)      1,250        1,080        +170
+Less: raw material cost        −280         −250         −30
+Energy cost (drying)           −42          −52          +10
+Waste disposal cost            −15          −18          +3
+Net margin per ton raw (USD)   913          760          +153
+────────────────────────────────────────────────────────────────────
+```
+
+---
+
+## 10. Conclusion
+
+Atlantic potato cultivar represents the gold standard for potato flake manufacturing for the following reasons:
+
+1. **Industry-leading dry matter content** (20–24%) delivering up to 20% higher flake yield per ton of raw potato compared to lower-DM varieties
+2. **Exceptionally low and stable reducing sugars** (0.10–0.30 mg/g) ensuring premium light cream flake color through extended storage campaigns
+3. **Favorable black spot bruise resistance** reducing raw material losses (40–60% less black spot incidence vs. long tuber varieties)
+4. **Outstanding reconditioning capacity** providing operational flexibility during extended storage and seasonal transitions
+5. **Proven adaptation to Hebei/Inner Mongolia growing conditions** with consistent 3-year mean dry matter of 22.1%, reducing sugars at 0.19 mg/g, and factory acceptance rates exceeding 94%
+
+Hongji Agriculture's integrated seed-to-flake value chain ensures that Atlantic potatoes processed at our Zhangjiakou facility meet the most demanding specifications of global B2B flake buyers.
+
+---
+
+## 11. References
+
+| Reference | Details |
+|---|---|
+| Webb, R.E. et al. (1978) | "Atlantic: A New Potato Variety for Chipping," *American Potato Journal* 55: 141–145 |
+| USDA-ARS Potato Variety Database | Atlantic entry — Beltsville, MD |
+| Pritchard, M.K. & Adam, L.R. (1994) | "Relationships between Fry Color and Sugar Concentrations in Atlantic, Shepody, and Russet Burbank," *Canadian Journal of Plant Science* |
+| Wang-Pruski, G. & Nowak, J. (2004) | "Potato Black Spot Bruise: A Review," *American Journal of Potato Research* 81: 207–218 |
+| Sowokinos, J.R. (2001) | "Biochemical and Molecular Control of Cold-Induced Sweetening in Potatoes," *American Journal of Potato Research* 78: 221–236 |
+| Hongji Agriculture (2023–2025) | Internal quality audit reports — Zhangjiakou facility |
+| GB/T 29383-2012 | Potato flakes — Chinese national standard |
+| AOAC Official Methods | 930.15, 968.28, 978.04 |
+| ISO Standards | 7514, 10520, 7515 |
+
+---
+
+*End of Document — HJ-TD-VB-003*
+
+*For technical inquiries and sample requests, contact: technical@hjpotatoflakes.com*
+
+*This white paper is prepared for professional B2B audiences. Data reflects typical performance under Hebei/Inner Mongolia agronomic conditions. Actual results may vary by season and location.*
+
+*© Hongji Agriculture Technology Co., Ltd. — All rights reserved*
+
+---
+
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-01-variety-breeding/variety-comparison-processing-matrix/ -->
+<!-- TITLE: Variety Comparison Processing Matrix -->
 
 # Variety Comparison and Processing Performance Matrix
 
-**Document Reference:** HJ-TD-VB-004  
-**Version:** 1.0  
-**Date:** July 2026  
-**Author:** Hongji Agriculture Technology Documentation Division  
+**Document Reference:** HJ-TD-VB-004
+**Version:** 1.0
+**Date:** July 2026
+**Author:** Hongji Agriculture Technology Documentation Division
 **Classification:** Technical Reference — Open Distribution for B2B Partners
 
 ---
@@ -1895,18 +1854,25 @@ Rank Order:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-02-farming-cultivation/standardized-cultivation-protocol.md --->
+# Domain 02 · Farming & Cultivation
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/standardized-cultivation-protocol/ -->
+<!-- TITLE: Standardized Cultivation Protocol -->
 
 # Standardized Cultivation Protocol for Industrial Potato Processing
 
-**Document Code:** HJ-SOP-FC-001  
-**Version:** 2.1  
-**Effective Date:** 2026-01-15  
-**Issued by:** Hongji Agriculture — Agronomy & Raw Material Division  
+**Document Code:** HJ-SOP-FC-001
+**Version:** 2.1
+**Effective Date:** 2026-01-15
+**Issued by:** Hongji Agriculture — Agronomy & Raw Material Division
 **Applicable to:** Contract farming bases, wholly-owned farms, and partner cooperatives supplying Atlantic, Shepody, and Russet Burbank varieties for potato flake and potato powder production.
 
 ---
@@ -2100,8 +2066,8 @@ Fertigation rates based on soil test and target yield of 45–55 t/ha:
 | MgO | 30–50 | 50% | 1–2 applications |
 | CaO | 40–80 | 50% | Foliar Ca applications during bulking (4 sprays, 2-week interval) |
 
-**N timing strategy:**  
-- Apply N before tuber initiation to support canopy development.  
+**N timing strategy:**
+- Apply N before tuber initiation to support canopy development.
 - **Reduce or cease N application after 80 DAP** (90 DAP for Russet Burbank) to prevent excessive vine growth, reduce reducing sugar accumulation, and promote proper tuber maturation.
 
 ### 6.4 Micronutrient Program
@@ -2165,9 +2131,9 @@ The most destructive potato disease in the Zhangjiakou region. Rainfall + 15–2
 | Broadleaf weeds | Pigweed, lambsquarters, nightshade | Metribuzin 70% WG 350–500 g/ha PRE or early POST (variety-dependent tolerance) |
 | Perennial weeds | Quackgrass, Canada thistle | Glyphosate 41% SL 3–5 L/ha pre-plant burndown + post-hilling directed spray |
 
-**Mechanical weed control:**  
-- Pre-emergence harrowing (blind cultivation): 5–7 DAP, shallow depth (2–3 cm), 8–10 km/h, performed when potato sprouts are ≥ 2 cm below soil surface.  
-- Inter-row cultivation + hilling: 25–30 DAP (at plant height 10–15 cm).  
+**Mechanical weed control:**
+- Pre-emergence harrowing (blind cultivation): 5–7 DAP, shallow depth (2–3 cm), 8–10 km/h, performed when potato sprouts are ≥ 2 cm below soil surface.
+- Inter-row cultivation + hilling: 25–30 DAP (at plant height 10–15 cm).
 - Between-row tillage: as needed until canopy closure (50–60 DAP).
 
 ---
@@ -2240,9 +2206,9 @@ Vine killing is **mandatory** for processing potatoes to achieve:
 
 ### 9.3 Skin Set Verification
 
-Test: Rub the thumb firmly across the tuber surface.  
-- **Inadequate:** Skin slips or peels easily (periderm not fully suberized).  
-- **Adequate:** Skin resists rubbing; moderate force required to peel.  
+Test: Rub the thumb firmly across the tuber surface.
+- **Inadequate:** Skin slips or peels easily (periderm not fully suberized).
+- **Adequate:** Skin resists rubbing; moderate force required to peel.
 - **Optimal:** Skin firmly attached; no peeling with firm thumb pressure.
 
 Only harvest when skin set is rated **Adequate** or **Optimal**.
@@ -2282,21 +2248,23 @@ All records must be submitted to Hongji Agriculture's Raw Material Department wi
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
-*Document maintained by the Hongji Agriculture Cultivation Division.*  
+*Document maintained by the Hongji Agriculture Cultivation Division.*
 *Next revision: July 2027*
 
 
+---
 
-<!--- DOCUMENT: domain-02-farming-cultivation/sustainable-farming-practices.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/sustainable-farming-practices/ -->
+<!-- TITLE: Sustainable Farming Practices -->
 
 # Sustainable Potato Farming Practices at Hongji Agriculture
 
-**Document Code:** HJ-SUS-FC-002  
-**Version:** 1.3  
-**Effective Date:** 2026-03-01  
-**Issued by:** Hongji Agriculture — Sustainability & Quality Assurance Division  
+**Document Code:** HJ-SUS-FC-002
+**Version:** 1.3
+**Effective Date:** 2026-03-01
+**Issued by:** Hongji Agriculture — Sustainability & Quality Assurance Division
 **Scope:** Environmental, social, and economic sustainability framework for raw potato production across all supply bases serving the Zhangjiakou processing facility.
 
 ---
@@ -2633,18 +2601,20 @@ The journey toward net-zero, regenerative potato production continues, with inte
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-02-farming-cultivation/harvest-timing-quality-correlation.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/harvest-timing-quality-correlation/ -->
+<!-- TITLE: Harvest Timing & Quality Correlation -->
 
 # Harvest Timing and Raw Material Quality Correlation for Processing Potatoes
 
-**Document Code:** HJ-QC-FC-003  
-**Version:** 1.2  
-**Effective Date:** 2026-02-15  
-**Issued by:** Hongji Agriculture — Quality Control & Raw Material Division  
+**Document Code:** HJ-QC-FC-003
+**Version:** 1.2
+**Effective Date:** 2026-02-15
+**Issued by:** Hongji Agriculture — Quality Control & Raw Material Division
 **Applicable to:** Harvest operations for Atlantic, Shepody, and Russet Burbank varieties destined for potato flake and powder processing.
 
 ---
@@ -2966,21 +2936,23 @@ The following decision matrix integrates all maturity indicators into a harvest-
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
-*Document maintained by the Hongji Agriculture Agronomy & Raw Material Division.*  
+*Document maintained by the Hongji Agriculture Agronomy & Raw Material Division.*
 *Next revision: July 2027*
 
 
+---
 
-<!--- DOCUMENT: domain-02-farming-cultivation/raw-material-quality-grading-system.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-02-farming-cultivation/raw-material-quality-grading-system/ -->
+<!-- TITLE: Raw Material Quality Grading System -->
 
 # Raw Potato Material Quality Grading System
 
-**Document Code:** HJ-QC-FC-004  
-**Version:** 3.0  
-**Effective Date:** 2026-04-01  
-**Issued by:** Hongji Agriculture — Quality Control & Raw Material Procurement Division  
+**Document Code:** HJ-QC-FC-004
+**Version:** 3.0
+**Effective Date:** 2026-04-01
+**Issued by:** Hongji Agriculture — Quality Control & Raw Material Procurement Division
 **Applicable to:** All incoming fresh potato lots delivered to the Zhangjiakou processing facility for potato flake and powder production.
 
 ---
@@ -3386,20 +3358,27 @@ Hongji Agriculture reserves the right to:
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
-*Document maintained by the Hongji Agriculture Quality Assurance Division.*  
+*Document maintained by the Hongji Agriculture Quality Assurance Division.*
 *Next revision: July 2027*
 
 
+---
 
-<!--- DOCUMENT: domain-03-storage-raw-material/potato-storage-technology-guide.md --->
+# Domain 03 · Storage & Raw Material Management
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/potato-storage-technology-guide/ -->
+<!-- TITLE: Potato Storage Technology Guide -->
 
 # Potato Storage Technology Guide: Physiology, Facilities, and Quality Management
 
-**Document ID:** HJ-TECH-SRM-001  
-**Version:** 2.0  
-**Applicable To:** Hongji Agriculture — Raw Material Storage & Processing Facilities, Zhangjiakou, Hebei  
+**Document ID:** HJ-TECH-SRM-001
+**Version:** 2.0
+**Applicable To:** Hongji Agriculture — Raw Material Storage & Processing Facilities, Zhangjiakou, Hebei
 **Target Audience:** Food Processing Engineers, Quality Assurance Teams, Storage Facility Managers
 
 ---
@@ -3802,25 +3781,27 @@ Before transfer to processing, each lot is re-graded:
 
 *Hongji Agriculture — From Seed to Flake, Quality Controlled at Every Stage*
 
-For technical inquiries, contact: **tech@hjpotatoflakes.com**  
-Document maintained by: Raw Material Management Division  
+For technical inquiries, contact: **tech@hjpotatoflakes.com**
+Document maintained by: Raw Material Management Division
 Last revised: July 2026
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-03-storage-raw-material/year-round-supply-chain-management.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/year-round-supply-chain-management/ -->
+<!-- TITLE: Year-Round Supply Chain Management -->
 
 # Year-Round Supply Chain Management for Processing Potatoes
 
-**Document ID:** HJ-TECH-SRM-002  
-**Version:** 1.0  
-**Applicable To:** Hongji Agriculture — Raw Material Procurement & Supply Chain Division  
+**Document ID:** HJ-TECH-SRM-002
+**Version:** 1.0
+**Applicable To:** Hongji Agriculture — Raw Material Procurement & Supply Chain Division
 **Target Audience:** Supply Chain Managers, Procurement Teams, Production Planners
 
 ---
@@ -4191,25 +4172,27 @@ Each year after the supply cycle completes (September for Northern harvest), Hon
 
 *Hongji Agriculture — From Seed to Flake, Supply Chain Engineered for Reliability*
 
-For supply inquiries, contact: **procurement@hjpotatoflakes.com**  
-Document maintained by: Supply Chain Management Division  
+For supply inquiries, contact: **procurement@hjpotatoflakes.com**
+Document maintained by: Supply Chain Management Division
 Last revised: July 2026
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-03-storage-raw-material/raw-material-quality-preservation.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-03-storage-raw-material/raw-material-quality-preservation/ -->
+<!-- TITLE: Raw Material Quality Preservation -->
 
 # Raw Material Quality Preservation During Storage
 
-**Document ID:** HJ-TECH-SRM-003  
-**Version:** 1.0  
-**Applicable To:** Hongji Agriculture — Quality Assurance & Processing Technology Divisions  
+**Document ID:** HJ-TECH-SRM-003
+**Version:** 1.0
+**Applicable To:** Hongji Agriculture — Quality Assurance & Processing Technology Divisions
 **Target Audience:** QA Technicians, Process Engineers, R&D Specialists
 
 ---
@@ -4628,26 +4611,33 @@ In addition to absolute thresholds, Hongji uses **rate-of-change alerts**:
 
 *Hongji Agriculture — From Seed to Flake, Quality Controlled at Every Stage*
 
-For technical inquiries, contact: **quality@hjpotatoflakes.com**  
-Document maintained by: Quality Assurance Division  
+For technical inquiries, contact: **quality@hjpotatoflakes.com**
+Document maintained by: Quality Assurance Division
 Last revised: July 2026
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-04-processing-technology/potato-flake-manufacturing-process.md --->
+# Domain 04 · Processing Technology
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-04-processing-technology/potato-flake-manufacturing-process/ -->
+<!-- TITLE: Potato Flake Manufacturing Process -->
 
 # Potato Flake Manufacturing Process: From Whole Potato to Premium Dehydrated Flakes
 
-**Document Code:** HJ-TD-PT-001  
-**Version:** 1.0  
-**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China  
-**Applicable Varieties:** Atlantic, Shepody, Russet Burbank  
+**Document Code:** HJ-TD-PT-001
+**Version:** 1.0
+**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China
+**Applicable Varieties:** Atlantic, Shepody, Russet Burbank
 
 ---
 
@@ -5016,18 +5006,20 @@ The production line is controlled via a distributed control system (DCS) with th
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-04-processing-technology/potato-powder-milling-classification.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-04-processing-technology/potato-powder-milling-classification/ -->
+<!-- TITLE: Potato Powder Milling & Classification -->
 
 # Potato Powder Milling and Classification Technology
 
-**Document Code:** HJ-TD-PT-002  
-**Version:** 1.0  
-**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China  
-**Scope:** 60-mesh micro-milling, particle classification, particle morphology, and rehydration performance  
+**Document Code:** HJ-TD-PT-002
+**Version:** 1.0
+**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China
+**Scope:** 60-mesh micro-milling, particle classification, particle morphology, and rehydration performance
 
 ---
 
@@ -5351,18 +5343,20 @@ Milling heat (from mechanical energy dissipation) can cause protein denaturation
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-04-processing-technology/drying-technology-in-potato-processing.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-04-processing-technology/drying-technology-in-potato-processing/ -->
+<!-- TITLE: Drying Technology in Potato Processing -->
 
 # Drying Technology in Potato Processing: Drum, Spray, and Freeze Drying
 
-**Document Code:** HJ-TD-PT-003  
-**Version:** 1.0  
-**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China  
-**Products:** Potato flakes, potato powder, specialty dehydrated potato ingredients  
+**Document Code:** HJ-TD-PT-003
+**Version:** 1.0
+**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China
+**Products:** Potato flakes, potato powder, specialty dehydrated potato ingredients
 
 ---
 
@@ -5690,18 +5684,20 @@ Microwave energy (915 MHz or 2450 MHz) combined with vacuum (5–20 kPa) enables
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-04-processing-technology/moisture-control-dehydrated-potato-products.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-04-processing-technology/moisture-control-dehydrated-potato-products/ -->
+<!-- TITLE: Moisture Control in Dehydrated Products -->
 
 # Moisture Control in Dehydrated Potato Products
 
-**Document Code:** HJ-TD-PT-004  
-**Version:** 1.0  
-**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China  
-**Products:** Potato flakes, potato powder, dehydrated potato ingredients  
+**Document Code:** HJ-TD-PT-004
+**Version:** 1.0
+**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China
+**Products:** Potato flakes, potato powder, dehydrated potato ingredients
 
 ---
 
@@ -6007,8 +6003,8 @@ Hongji uses nitrogen flushing for most potato powder products and vacuum packagi
 Hongji's moisture control uses a cascade strategy:
 
 ```
-Master: NIR sensor (post-dryer) → 
-  Calculates moisture deviation → 
+Master: NIR sensor (post-dryer) →
+  Calculates moisture deviation →
     Slave: Drum speed controller →
       Adjusts VFD frequency (±0.1 RPM resolution)
 ```
@@ -6045,18 +6041,20 @@ For advanced moisture control, a model predictive controller (MPC) uses the dryi
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-04-processing-technology/color-browning-control-processing.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-04-processing-technology/color-browning-control-processing/ -->
+<!-- TITLE: Color & Browning Control in Processing -->
 
 # Color and Browning Control in Potato Processing
 
-**Document Code:** HJ-TD-PT-005  
-**Version:** 1.0  
-**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China  
-**Products:** Potato flakes, potato powder, dehydrated potato ingredients  
+**Document Code:** HJ-TD-PT-005
+**Version:** 1.0
+**Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China
+**Products:** Potato flakes, potato powder, dehydrated potato ingredients
 
 ---
 
@@ -6486,17 +6484,24 @@ While instrumental measurement is preferred, accelerated visual assessment is us
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/quality-assurance-system-overview.md --->
+# Domain 05 · Quality Control & Testing
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/quality-assurance-system-overview/ -->
+<!-- TITLE: Quality Assurance System Overview -->
 
 # Quality Assurance System Overview
 
-**Document Code:** HJ-QA-001  
-**Version:** 2.1  
-**Effective Date:** 2026-01-15  
+**Document Code:** HJ-QA-001
+**Version:** 2.1
+**Effective Date:** 2026-01-15
 **Prepared by:** Quality Management Center, Hongji Agriculture Co., Ltd.
 
 ---
@@ -6528,14 +6533,7 @@ Hongji's QA function is independent of production operations and reports directl
 
 ### 2.2 Staffing Allocation
 
-The QA department comprises 38 full-time personnel, distributed as follows:
-
-- **Quality Management Center (Management & Systems):** 5
-- **Raw Material QA Team:** 8 (including 2 field inspectors)
-- **In-Process QC Team (3 shifts):** 12
-- **Finished Product & Laboratory Team:** 8
-- **Traceability & Compliance Team:** 3
-- **Document Control & Training:** 2
+The QA department comprises dedicated full-time personnel distributed across the Quality Management Center, raw material QA, in-process QC (covering all shifts), finished-product and laboratory testing, traceability and compliance, and document control and training.
 
 ---
 
@@ -6575,14 +6573,15 @@ Hongji maintains a suite of internationally recognized food safety and quality m
 
 ### 4.1 Current Certifications
 
-| Certification | Standard | Accrediting Body | Scope | Certificate No. | Valid Until |
-|---------------|----------|------------------|-------|-----------------|-------------|
-| **ISO 9001:2015** | Quality Management Systems | SGS | Design, production, and distribution of potato flakes and potato powder | QM-2024-01234 | 2027-06-30 |
-| **ISO 22000:2018** | Food Safety Management Systems | SGS | All processing operations and supply chain | FS-2024-05678 | 2027-06-30 |
-| **HACCP** | Codex Alimentarius CAC/RCP 1-1969 | China CNCA | Processing line CCP management | H-2024-09012 | 2027-06-30 |
-| **FSSC 22000** | FSSC 22000 Version 6.0 | SGS | Full food safety system integration | FSSC-2024-03456 | 2027-09-15 |
-| **Kosher** | Orthodox Union | OU | Production line dedicated for kosher runs | K-2025-110 | 2027-03-31 |
-| **Halal** | Halal Quality Control | HQCM | All products | HQC-2025-220 | 2027-12-31 |
+| Certification | Standard | Scope |
+|---------------|----------|-------|
+| **ISO 9001:2015** | Quality Management Systems | Design, production, and distribution of potato flakes and potato powder |
+| **ISO 22000:2018** | Food Safety Management Systems | All processing operations and supply chain |
+| **HACCP** | Codex Alimentarius CAC/RCP 1-1969 | Processing line CCP management |
+| **FSSC 22000** | FSSC 22000 Version 6.0 | Full food safety system integration |
+| **Halal / Kosher** | Per certification body requirements | Production line dedicated runs (subject to availability) |
+
+> Certification is maintained through accredited certification bodies and renewed on schedule. Current certificates are available upon request.
 
 ### 4.2 Certification Maintenance Schedule
 
@@ -6618,7 +6617,7 @@ Hongji hosts an average of 12–18 external audits per year, comprising:
 - **Regulatory Audits (1–2/year):** China SAMR (State Administration for Market Regulation) and local health authorities.
 - **Import Country Audits:** As required by destination regulatory authorities (FDA, EU competent authorities, etc.).
 
-Customer audit scores over the past 24 months average **92.4/100**, with no major non-conformances recorded.
+Audit results are logged in the CAPA (Corrective and Preventive Action) system for tracking and continuous improvement.
 
 ### 5.3 Non-Conformance and CAPA
 
@@ -6641,18 +6640,18 @@ Hongji establishes annual quality KPIs at the beginning of each fiscal year. The
 
 ### 6.1 Key Performance Indicators
 
-| KPI ID | Indicator | Definition | 2026 Target | 2025 Actual |
-|--------|-----------|------------|-------------|-------------|
-| KPI-01 | First-Pass Yield (FPY) | % of product passing final QC on first attempt | ≥97.0% | 96.4% |
-| KPI-02 | Customer Complaint Rate | Complaints (weighted by severity) per 1,000 MT shipped | ≤0.8 | 1.1 |
-| KPI-03 | On-Time In-Full (OTIF) | Orders shipped complete and on time | ≥98.5% | 97.8% |
-| KPI-04 | Lot Release Cycle Time | Average hours from production completion to COA issuance | ≤24 h | 26 h |
-| KPI-05 | Non-Conforming Product Rate | % of total production rejected or downgraded to 2nd grade | ≤1.5% | 1.8% |
-| KPI-06 | Internal Audit Finding Closure Rate | % of findings closed within target period | ≥95% | 93% |
-| KPI-07 | Supplier Non-Conformance Rate | % of incoming raw material lots with rejection | ≤3.0% | 3.4% |
-| KPI-08 | Mock Recall Completion Time | Hours to achieve 100% traceability in recall simulation | ≤4 h | 3.5 h |
-| KPI-09 | Laboratory Inter-Laboratory Z-Score | Proficiency test results | \|Z\| ≤ 2.0 | \|Z\| = 1.3 avg |
-| KPI-10 | Employee Food Safety Training Completion | % of food handlers completing annual refresher | 100% | 98.5% |
+| KPI ID | Indicator | Definition | 2026 Target |
+|--------|-----------|------------|-------------|
+| KPI-01 | First-Pass Yield (FPY) | % of product passing final QC on first attempt | ≥97.0% |
+| KPI-02 | Customer Complaint Rate | Complaints (weighted by severity) per 1,000 MT shipped | ≤0.8 |
+| KPI-03 | On-Time In-Full (OTIF) | Orders shipped complete and on time | ≥98.5% |
+| KPI-04 | Lot Release Cycle Time | Average hours from production completion to COA issuance | ≤24 h |
+| KPI-05 | Non-Conforming Product Rate | % of total production rejected or downgraded to 2nd grade | ≤1.5% |
+| KPI-06 | Internal Audit Finding Closure Rate | % of findings closed within target period | ≥95% |
+| KPI-07 | Supplier Non-Conformance Rate | % of incoming raw material lots with rejection | ≤3.0% |
+| KPI-08 | Mock Recall Completion Time | Hours to achieve 100% traceability in recall simulation | ≤4 h |
+| KPI-09 | Laboratory Inter-Laboratory Z-Score | Proficiency test results | \|Z\| ≤ 2.0 |
+| KPI-10 | Employee Food Safety Training Completion | % of food handlers completing annual refresher | 100% |
 
 ### 6.2 KPI Review Mechanism
 
@@ -6696,11 +6695,11 @@ Hongji Agriculture's Quality Assurance system is a comprehensive, independently 
 
 For inquiries regarding Hongji's quality system, certification documentation, or customer-specific quality agreements, please contact:
 
-**Quality Management Center**  
-Hongji Agriculture Co., Ltd.  
-Zhangjiakou, Hebei, China  
-Email: quality@hjpotatoflakes.com  
-Tel: +86-313-XXXXXXX
+**Quality Management Center**
+Hongji Agriculture Co., Ltd.
+Zhangjiakou, Hebei, China
+Email: quality@hjpotatoflakes.com
+Tel: +86 400-633-0616
 
 ---
 
@@ -6710,17 +6709,19 @@ Tel: +86-313-XXXXXXX
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/physical-specifications-particle-size-bulk-density.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/physical-specifications-particle-size-bulk-density/ -->
+<!-- TITLE: Physical Specifications -->
 
 # Physical Specifications: Particle Size, Bulk Density, and Color Measurement
 
-**Document Code:** HJ-QA-010  
-**Version:** 3.0  
-**Effective Date:** 2026-07-01  
+**Document Code:** HJ-QA-010
+**Version:** 3.0
+**Effective Date:** 2026-07-01
 **Prepared by:** Finished Product Laboratory, Hongji Agriculture Co., Ltd.
 
 ---
@@ -7160,17 +7161,19 @@ The standard COA for physical parameters includes:
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/chemical-analysis-dry-matter-starch-sugars/ -->
+<!-- TITLE: Chemical Analysis Methods -->
 
 # Chemical Analysis: Dry Matter, Starch, and Sugars
 
-**Document Code:** HJ-QA-015  
-**Version:** 3.0  
-**Effective Date:** 2026-07-01  
+**Document Code:** HJ-QA-015
+**Version:** 3.0
+**Effective Date:** 2026-07-01
 **Prepared by:** Chemical Laboratory, Hongji Agriculture Co., Ltd.
 
 ---
@@ -7787,17 +7790,19 @@ All results are recorded in the Laboratory Information Management System (LIMS) 
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/microbiological-testing-protocol.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/microbiological-testing-protocol/ -->
+<!-- TITLE: Microbiological Testing Protocol -->
 
 # Microbiological Testing Protocol
 
-**Document Code:** HJ-QA-020  
-**Version:** 2.2  
-**Effective Date:** 2026-03-15  
+**Document Code:** HJ-QA-020
+**Version:** 2.2
+**Effective Date:** 2026-03-15
 **Prepared by:** Microbiological Laboratory, Hongji Agriculture Co., Ltd.
 
 ---
@@ -7817,8 +7822,8 @@ The microbiological quality program is designed to meet the requirements of ISO 
 | Classification | ISO Class 7 (Grade C) clean room for sample preparation |
 | Biosafety Level | BSL-2 (for pathogen testing: Salmonella, S. aureus) |
 | Key Equipment | Autoclave (vertical, 120 L), laminar flow hood (Class II), incubators (various temps), stomacher, colony counter, real-time PCR (Bio-Rad CFX96) |
-| Staff | 1 Lead Microbiologist (PhD in Food Microbiology), 3 Microbiological Analysts |
-| Accreditation | CNAS (China National Accreditation Service) pending for selected parameters |
+| Staff | Dedicated microbiologist and trained analysts |
+| Accreditation | Testing methods follow GB 4789 national standards; third-party verification by accredited laboratories |
 
 ---
 
@@ -8046,17 +8051,19 @@ When an alert limit is exceeded, an investigation is initiated. Product may stil
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/rehydration-performance-test-method.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/rehydration-performance-test-method/ -->
+<!-- TITLE: Rehydration Performance Test Method -->
 
 # Rehydration Performance Test Method
 
-**Document Code:** HJ-QA-025  
-**Version:** 3.0  
-**Effective Date:** 2026-07-01  
+**Document Code:** HJ-QA-025
+**Version:** 3.0
+**Effective Date:** 2026-07-01
 **Prepared by:** Application Laboratory, Hongji Agriculture Co., Ltd.
 
 ---
@@ -8510,17 +8517,19 @@ Each rehydration test report contains:
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/certificate-of-analysis-guide.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/certificate-of-analysis-guide/ -->
+<!-- TITLE: Certificate of Analysis Guide -->
 
 # Certificate of Analysis — Guide and Interpretation
 
-**Document Code:** HJ-QA-030  
-**Version:** 2.1  
-**Effective Date:** 2026-03-10  
+**Document Code:** HJ-QA-030
+**Version:** 2.1
+**Effective Date:** 2026-03-10
 **Prepared by:** Finished Product Laboratory & Customer Technical Support, Hongji Agriculture Co., Ltd.
 
 ---
@@ -8779,17 +8788,19 @@ Hongji Agriculture stands behind every COA we issue. If a lot fails to meet the 
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-05-quality-control/batch-traceability-system.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-05-quality-control/batch-traceability-system/ -->
+<!-- TITLE: Batch Traceability System -->
 
 # Batch Traceability System — Full-Chain from Seed to Ship
 
-**Document Code:** HJ-QA-035  
-**Version:** 2.0  
-**Effective Date:** 2026-04-01  
+**Document Code:** HJ-QA-035
+**Version:** 2.0
+**Effective Date:** 2026-04-01
 **Prepared by:** Traceability & Compliance Team, Hongji Agriculture Co., Ltd.
 
 ---
@@ -8895,34 +8906,21 @@ The following fields must be accurately linked across stages for full traceabili
 
 ## 4. Information System Architecture
 
-### 4.1 System Integration
+Hongji's traceability system is supported by integrated information platforms covering:
 
-Hongji's traceability system is supported by three integrated information platforms:
+| System Function | Traceability Role |
+|-----------------|-------------------|
+| **ERP (Enterprise Resource Planning)** | Financial, purchase order, shipment, and inventory records |
+| **Manufacturing / Factory records** | CCP monitoring, line data, downtime logging |
+| **Warehouse Management** | Bin tracking, FIFO control, pallet labels |
+| **Laboratory Information** | QC results, COA generation, stability data |
 
-```
-                     ┌─────────────────┐
-                     │  ERP (SAP B1)   │
-                     │  Financial, PO, │
-                     │  Shipment, Inv  │
-                     └────────┬────────┘
-                              │
-         ┌────────────────────┼────────────────────┐
-         │                    │                    │
-         ▼                    ▼                    ▼
-┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
-│  MES (Factory)  │  │  WMS (Warehse)  │  │  LIMS (Lab)     │
-│  CCP monitoring │  │  Bin tracking   │  │  QC results     │
-│  Line data      │  │  FIFO control   │  │  COA generation │
-│  Downtime/SCADA │  │  Pallet labels  │  │  Stability data │
-└─────────────────┘  └─────────────────┘  └─────────────────┘
-```
+### 4.1 Manufacturing Records — Detail
 
-### 4.2 MES (Manufacturing Execution System) — Detail
+Production records capture the core traceability data for each batch:
 
-The MES is the core operational system for processing traceability:
-
-| MES Function | Traceability Data Generated |
-|--------------|----------------------------|
+| Record Function | Traceability Data Generated |
+|----------------|-----------------------------|
 | **Recipe Management** | Ingredient/batch recipe used for each production run |
 | **CCP Data Logging** | Blanch temp/time, drum steam pressure, metal detector events |
 | **Material Consumption** | Linking raw material IN-numbers to output WIP-numbers |
@@ -8930,7 +8928,7 @@ The MES is the core operational system for processing traceability:
 | **Machine Parameters** | Line speed, drum RPM, residence time, drying air temperature |
 | **Operator Tracking** | Personnel ID per shift per station |
 
-### 4.3 Barcode Labeling System
+### 4.2 Barcode Labeling System
 
 | Level | Label Type | Barcode Standard | Information Encoded |
 |-------|------------|------------------|---------------------|
@@ -8939,15 +8937,16 @@ The MES is the core operational system for processing traceability:
 | Big Bag | GS1-128 | Code 128 | Lot number, net weight, best-before date |
 | Shipping Container | SSCC-18 | GS1-128 | Serial Shipping Container Code (linked to lot numbers within) |
 
-### 4.4 Data Retention and Backup
+### 4.3 Data Retention and Backup
 
-| Data Type | Retention Period | Backup Frequency | Format |
-|-----------|------------------|------------------|--------|
-| ERP transactional data | 5 years | Daily | Full database backup |
-| MES batch records | 5 years | Daily | SQL database + PDF archive |
-| LIMS test results | 5 years | Daily | Database + PDF signature archive |
-| CCP SCADA logs | 3 years | Weekly rolling | Compressed CSV + system log |
-| CCTV footage (production area) | 90 days | Rolling | MP4 on NVR |
+| Data Type | Retention Period | Backup Frequency |
+|-----------|------------------|------------------|
+| ERP transactional data | 5 years | Daily |
+| Manufacturing batch records | 5 years | Daily |
+| Laboratory test results | 5 years | Daily |
+| CCP monitoring logs | 3 years | Weekly rolling |
+| Traceability records | At least 3 years | As generated |
+| CCTV footage (production area) | 90 days | Rolling |
 
 ---
 
@@ -8955,14 +8954,14 @@ The MES is the core operational system for processing traceability:
 
 ### 5.1 Key Performance Indicators
 
-| KPI | Definition | Target | Actual (2025) |
-|-----|------------|--------|----------------|
-| **T1 — Backward Trace Time** | Time to trace from finished product to raw material source (field level) | ≤4 hours | 3.2 hours avg |
-| **T2 — Forward Trace Time** | Time to trace from finished product to all customer delivery points | ≤8 hours | 5.5 hours avg |
-| **Trace Success Rate (1 step)** | % of trace exercises achieving one-step traceability (finished product → production batch OR raw material → processing line) | 100% | 100% |
-| **Trace Success Rate (Full chain)** | % of trace exercises achieving full end-to-end traceability (finished product → seed lot and finished product → all customers) | ≥95% | 98% |
-| **Data Completeness** | % of required data fields populated for a given lot | 100% | 99.6% |
-| **Label Accuracy** | % of barcode scans matching database records | ≥99.9% | 99.94% |
+| KPI | Definition | Target |
+|-----|------------|--------|
+| **T1 — Backward Trace Time** | Time to trace from finished product to raw material source (field level) | ≤4 hours |
+| **T2 — Forward Trace Time** | Time to trace from finished product to all customer delivery points | ≤8 hours |
+| **Trace Success Rate (1 step)** | % of trace exercises achieving one-step traceability (finished product → production batch OR raw material → processing line) | 100% |
+| **Trace Success Rate (Full chain)** | % of trace exercises achieving full end-to-end traceability (finished product → seed lot and finished product → all customers) | ≥95% |
+| **Data Completeness** | % of required data fields populated for a given lot | 100% |
+| **Label Accuracy** | % of barcode scans matching database records | ≥99.9% |
 
 ### 5.2 Measurement Methodology
 
@@ -8999,11 +8998,7 @@ Step 8 — Report (submitted within 5 working days to COO and certification body
 
 ### 6.2 Mock Recall Scenario Examples
 
-| Exercise | Date | Scenario | Result |
-|----------|------|----------|--------|
-| Recall-2025-01 | 2025-03-15 | Customer complaint: elevated SO₂ in Standard Flakes lot HJ-RB-K1-250310-02-B | 100% backward trace in 3.8 h; 100% forward trace in 6.1 h; 3 customer destinations identified |
-| Recall-2025-02 | 2025-09-20 | Regulatory audit request: Salmonella trace investigation for Fine Powder lot HJ-SH-S4-250915-02-A | 100% backward trace in 2.9 h; forward trace in 5.0 h; 2 customers impacted |
-| Recall-2026-01 | 2026-05-10 | Unknown contaminant scenario (simulated wheat gluten cross-contact in Line 01) | 100% backward trace in 3.5 h; forward trace in 5.8 h; 4 lot numbers affected; effectiveness rating: 96% |
+Hongji conducts mock recalls covering typical scenarios such as customer complaints on quality parameters, regulatory traceability investigations, and contaminant cross-contact simulations. Each exercise validates backward trace (finished product → raw material) and forward trace (finished product → all customer shipments). Results are documented and used for continuous improvement.
 
 ### 6.3 Mock Recall Scoring
 
@@ -9090,11 +9085,18 @@ Hongji Agriculture's batch traceability system provides a robust, verified, and 
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/potato-flakes-technical-datasheet.md --->
+# Domain 06 · Product & Application
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/potato-flakes-technical-datasheet/ -->
+<!-- TITLE: Potato Flakes Technical Datasheet -->
 
 # Hongji Potato Flakes — Technical Datasheet
 
@@ -9146,10 +9148,10 @@ Potato Flakes serve as a critical ingredient in the global food manufacturing in
 ## 2. Manufacturing Process
 
 ```
-Seed Breeding → Field Cultivation → Harvest → Washing & Destoning → 
-Steam Peeling → Inspection & Trimming → Slicing (8–12 mm) → 
+Seed Breeding → Field Cultivation → Harvest → Washing & Destoning →
+Steam Peeling → Inspection & Trimming → Slicing (8–12 mm) →
 Pre-Cooking (68–72°C) → Steam Cooking (98–100°C) → Mashing →
-Drum Drying → Flaking → Milling (optional) → Screening → 
+Drum Drying → Flaking → Milling (optional) → Screening →
 Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 ```
 
@@ -9497,17 +9499,19 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 
 *This datasheet is provided for informational purposes. Specifications are typical values and may vary within accepted tolerances. Please refer to the Certificate of Analysis (COA) accompanying each shipment for lot-specific data.*
 
-**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
+**Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/potato-powder-technical-datasheet.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/potato-powder-technical-datasheet/ -->
+<!-- TITLE: Potato Powder Technical Datasheet -->
 
 # Hongji Potato Powder (60 Mesh) — Technical Datasheet
 
@@ -9955,17 +9959,19 @@ Air Classification → Sieving (60 Mesh) → Metal Detection → Packaging
 
 *This datasheet is provided for informational purposes. Specifications are typical values and may vary within accepted tolerances. Refer to the Certificate of Analysis (COA) for lot-specific data.*
 
-**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
+**Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/product-grade-comparison-matrix.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/product-grade-comparison-matrix/ -->
+<!-- TITLE: Product Grade Comparison Matrix -->
 
 # Hongji Agriculture — Product Grade Comparison Matrix
 
@@ -10139,18 +10145,21 @@ Each tier reflects increasing quality control stringency, tighter specification 
 ## 12. Price-Performance Decision Matrix
 
 ### For Cost-Sensitive Applications
+
 | Product | Grade | Best Use Case | Cost Efficiency Rating |
 |---------|-------|--------------|----------------------|
 | Potato Flakes | Standard | Pet food, meat filler, bulk bakery | ★★★★★ |
 | Potato Powder | Standard | Dry mix base, extruded snacks | ★★★★☆ |
 
 ### For Quality-Sensitive Applications
+
 | Product | Grade | Best Use Case | Quality Rating |
 |---------|-------|--------------|---------------|
 | Potato Flakes | Premium | Instant mash, premium bakery, EU/NA export | ★★★★★ |
 | Potato Powder | Premium | Premium snack seasonings, batter systems | ★★★★★ |
 
 ### For Certified / Clean-Label Applications
+
 | Product | Grade | Best Use Case | Certification Value |
 |---------|-------|--------------|-------------------|
 | Potato Flakes | Organic | EU/USDA organic formulations | ★★★★★ |
@@ -10211,11 +10220,13 @@ START: What is your target application?
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/application-guide-potato-flakes-bakery.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-potato-flakes-bakery/ -->
+<!-- TITLE: Application Guide: Bakery -->
 
 # Application Guide: Potato Flakes in Bakery Products
 
@@ -10514,11 +10525,13 @@ Potato Flakes require significantly more water than wheat flour. Use the followi
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/application-guide-potato-flakes-snacks-extrusion.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-potato-flakes-snacks-extrusion/ -->
+<!-- TITLE: Application Guide: Snacks & Extrusion -->
 
 # Application Guide: Potato Flakes & Powder in Snacks & Extrusion
 
@@ -10830,11 +10843,13 @@ Potato Powder (60 Mesh) is an excellent carrier for dry seasoning blends due to 
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/application-guide-instant-mashed-potato.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-instant-mashed-potato/ -->
+<!-- TITLE: Application Guide: Instant Mashed Potato -->
 
 # Application Guide: Instant Mashed Potato — Formulation & Processing
 
@@ -11172,11 +11187,13 @@ For retail products where the consumer may use tap-temperature water, a modified
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/application-guide-soups-sauces-prepared-meals.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/application-guide-soups-sauces-prepared-meals/ -->
+<!-- TITLE: Application Guide: Soups, Sauces & Meals -->
 
 # Application Guide: Potato Flakes & Powder in Soups, Sauces & Prepared Meals
 
@@ -11535,11 +11552,13 @@ Potato-derived ingredients offer unique advantages in savory liquid and semi-liq
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/customized-ingredient-development-process.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/customized-ingredient-development-process/ -->
+<!-- TITLE: Customized Ingredient Development -->
 
 # Customized Ingredient Development Process — Hongji Agriculture
 
@@ -11915,7 +11934,7 @@ To initiate a customized ingredient development project:
 
 *Document version: 1.0 | Last updated: July 2026 | Prepared by: Hongji Agriculture — Customized Ingredient Development Division*
 
-*For inquiries: tech@hjpotatoflakes.com | Phone: +86-313-XXXXXXX*
+*For inquiries: tech@hjpotatoflakes.com | Phone: +86 400-633-0616*
 
 *Hongji Agriculture Co., Ltd. | Zhangjiakou, Hebei, China | hjpotatoflakes.com*
 
@@ -11923,11 +11942,13 @@ To initiate a customized ingredient development project:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-06-product-application/blended-potato-powder-solutions-guide.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-06-product-application/blended-potato-powder-solutions-guide/ -->
+<!-- TITLE: Blended Potato Powder Solutions -->
 
 # Blended Potato Powder Solutions — Technical Formulation Guide
 
@@ -12360,18 +12381,25 @@ Blends must be labeled for any of the major allergens that may be present:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/global-potato-flakes-market-overview.md --->
+# Domain 07 · Industry Knowledge & Compliance
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/global-potato-flakes-market-overview/ -->
+<!-- TITLE: Global Potato Flakes Market Overview -->
 
 # Global Potato Flakes Market Overview: Production, Demand & Pricing Trends
 
-**Document Type:** Industry Market Analysis  
-**Target Audience:** B2B food manufacturers, procurement managers, R&D directors  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Industry Market Analysis
+**Target Audience:** B2B food manufacturers, procurement managers, R&D directors
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -12557,7 +12585,7 @@ NORTH AMERICA ──────────────► Japan, Korea, Mexico
       │
       ▼
 EUROPE ────────────────────► Russia, CIS, Middle East, Africa, Asia
-   Germany, Netherlands       (~60% of EU exports to neighboring EU    
+   Germany, Netherlands       (~60% of EU exports to neighboring EU
    Belgium, Poland              + Russia + Middle East)
       │
       │◄────────────────────▌China (limited; organic/specialty)
@@ -12778,24 +12806,26 @@ The potato flakes market experienced notable demand shifts during and after the 
 
 *This document is prepared for informational and reference purposes. Market figures are compiled from publicly available sources and industry estimates. For specific procurement inquiries, please contact the Hongji Agriculture International Trade Team.*
 
-*Official website: [hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*Official website: [hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/chinese-potato-processing-industry-report.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/chinese-potato-processing-industry-report/ -->
+<!-- TITLE: Chinese Potato Processing Industry Report -->
 
 # Chinese Potato Processing Industry Report: Regional Distribution, Enterprise Landscape & Policy Direction
 
-**Document Type:** Industry Research Report  
-**Target Audience:** International buyers, industry analysts, investors  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Industry Research Report
+**Target Audience:** International buyers, industry analysts, investors
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -13154,24 +13184,26 @@ China has established a comprehensive standards system governing potato processi
 
 *This report synthesizes data from multiple public sources and industry estimates. Market figures are compiled for informational and reference purposes. For specific business inquiries, please contact the Hongji Agriculture International Trade Team.*
 
-*Official website: [hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*Official website: [hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/china-vs-global-quality-standards-comparison.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/china-vs-global-quality-standards-comparison/ -->
+<!-- TITLE: China vs Global Quality Standards -->
 
 # China vs. Global Quality Standards: Comparative Analysis for Potato Flakes & Powder
 
-**Document Type:** Technical Reference — Standards Comparison  
-**Target Audience:** Quality assurance teams, regulatory compliance officers, procurement directors  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Technical Reference — Standards Comparison
+**Target Audience:** Quality assurance teams, regulatory compliance officers, procurement directors
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -13377,18 +13409,20 @@ International harmonization of potato product standards is progressing through s
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/export-documentation-international-trade-guide.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/export-documentation-international-trade-guide/ -->
+<!-- TITLE: Export Documentation & Trade Guide -->
 
 # Export Documentation & International Trade Guide for Potato Flakes & Powder
 
-**Document Type:** Operational Trade Guide  
-**Target Audience:** Export sales teams, trade compliance officers, logistics coordinators  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Operational Trade Guide
+**Target Audience:** Export sales teams, trade compliance officers, logistics coordinators
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -13672,18 +13706,20 @@ The global trade documentation landscape is modernizing rapidly:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/glossary-potato-processing-terms.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/glossary-potato-processing-terms/ -->
+<!-- TITLE: Glossary of Potato Processing Terms -->
 
 # Glossary of Potato Processing Terms (中英对照行业术语表)
 
-**Document Type:** Bilingual Technical Reference  
-**Target Audience:** International procurement teams, QA inspectors, plant engineers, translators  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Bilingual Technical Reference
+**Target Audience:** International procurement teams, QA inspectors, plant engineers, translators
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -14076,26 +14112,28 @@ This glossary contains over 200 industry-specific terms covering potato processi
 
 ---
 
-**Revision History:** V1.0 — Initial compilation, July 2026  
-**Prepared for:** Hongji Agriculture (弘基农业) Technical Documentation Series  
-**Contact:** hjpotatoflakes.com / International Trade Department
+**Revision History:** V1.0 — Initial compilation, July 2026
+**Prepared for:** Hongji Agriculture (弘基农业) Technical Documentation Series
+**Contact:** [hjpotatoflakes.com](https://hjpotatoflakes.com) / International Trade Department
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing/ -->
+<!-- TITLE: FAQ: B2B Potato Ingredient Sourcing -->
 
 # FAQ: B2B Industrial Sourcing of Potato Flakes & Powder
 
-**Document Type:** Buyer's FAQ Reference  
-**Target Audience:** Procurement managers, sourcing specialists, R&D directors  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Buyer's FAQ Reference
+**Target Audience:** Procurement managers, sourcing specialists, R&D directors
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -14471,7 +14509,7 @@ We warmly welcome factory audits. Our facility in Zhangjiakou, Hebei Province, o
 For further inquiries, technical support, or to place an order:
 
 **Hongji Agriculture (弘基农业)**
-- **Website:** hjpotatoflakes.com
+- **Website:** [hjpotatoflakes.com](https://hjpotatoflakes.com)
 - **Export Department Email:** [as listed on corporate website]
 - **Location:** Zhangjiakou, Hebei Province, China
 - **Certifications:** ISO 22000, FSSC 22000, HACCP, Halal, Kosher, Organic (EU/USDA)
@@ -14484,18 +14522,20 @@ For further inquiries, technical support, or to place an order:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/packaging-logistics-guide-potato-ingredients/ -->
+<!-- TITLE: Packaging & Logistics Guide -->
 
 # Packaging & Logistics Guide for Potato Flakes & Potato Powder
 
-**Document Type:** Technical Logistics Reference  
-**Target Audience:** Supply chain managers, logistics coordinators, warehouse operators  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Technical Logistics Reference
+**Target Audience:** Supply chain managers, logistics coordinators, warehouse operators
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -14863,18 +14903,20 @@ Before shipment, verify the following:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-07-industry-knowledge/regulatory-compliance-food-safety-standards.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-07-industry-knowledge/regulatory-compliance-food-safety-standards/ -->
+<!-- TITLE: Regulatory Compliance -->
 
 # Regulatory Compliance & Food Safety Standards for Exporting Potato Flakes & Powder
 
-**Document Type:** Regulatory Compliance Reference  
-**Target Audience:** QA & regulatory compliance managers, export sales teams, food safety auditors  
-**Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Document Type:** Regulatory Compliance Reference
+**Target Audience:** QA & regulatory compliance managers, export sales teams, food safety auditors
+**Last Updated:** July 2026
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -14950,19 +14992,19 @@ For dehydrated potato products under US FDA:
 ```
 Step 1: FDA Facility Registration (renewed every even-numbered year by Dec 31)
          → Hongji must have valid facility registration number
-         
+
 Step 2: FSVP compliance
          → US importer must have FSVP compliant program
          → Hongji must provide FSVP documentation to importer (CoA, HACCP, supplier audits)
-         
+
 Step 3: Prior Notice submission (by US importer or agent)
          → Submitted via FDA PNSI system
          → Requires: product code, quantity, manufacturer, shipper, consignee
-         
+
 Step 4: Customs clearance + FDA review
          → FDA may issue "Notice of FDA Action" within 24 hours of Prior Notice
          → May require physical sampling or documentation review
-         
+
 Step 5: Release or detention
          → Green: Release without examination
          → Yellow: May be examined without further notice
@@ -15367,17 +15409,24 @@ The Codex and all major regulatory frameworks require:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-instant-mashed-potato-rehydration.md --->
+# Domain 08 · Application Development Records
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-instant-mashed-potato-rehydration/ -->
+<!-- TITLE: Instant Mashed Potato Rehydration Optimization -->
 
 # Application Development Record: Instant Mashed Potato Rehydration Ratio Optimization
 
-**Document No.:** HJA-APP-2024-008-01  
-**Product Line:** Potato Flakes (Instant Mashed Potato)  
-**Development Date:** January – March 2024  
+**Document No.:** HJA-APP-2024-008-01
+**Product Line:** Potato Flakes (Instant Mashed Potato)
+**Development Date:** January – March 2024
 **Version:** 1.2
 
 ---
@@ -15665,17 +15714,19 @@ The 1:4.5 rehydration ratio achieves the customer's target viscosity range (8,00
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-gluten-free-bread-flour-replacement.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-gluten-free-bread-flour-replacement/ -->
+<!-- TITLE: Gluten-Free Bread Flour Replacement -->
 
 # Application Development Record: Gluten-Free Bread Flour Replacement with Potato Flakes
 
-**Document No.:** HJA-APP-2024-008-02  
-**Product Line:** Potato Flakes (Gluten-Free Baking Application)  
-**Development Date:** March – June 2024  
+**Document No.:** HJA-APP-2024-008-02
+**Product Line:** Potato Flakes (Gluten-Free Baking Application)
+**Development Date:** March – June 2024
 **Version:** 1.1
 
 ---
@@ -16025,17 +16076,19 @@ The 30% replacement formulation is recommended for commercial scale-up and consu
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-extruded-snack-density-control.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-extruded-snack-density-control/ -->
+<!-- TITLE: Extruded Snack Density Control -->
 
 # Application Development Record: Extruded Snack Bulk Density Control via Twin-Screw Extrusion
 
-**Document No.:** HJA-APP-2024-008-03  
-**Product Line:** Potato Flakes (Extruded Snack Application)  
-**Development Date:** April – August 2024  
+**Document No.:** HJA-APP-2024-008-03
+**Product Line:** Potato Flakes (Extruded Snack Application)
+**Development Date:** April – August 2024
 **Version:** 1.2
 
 ---
@@ -16417,17 +16470,19 @@ The optimal conditions — **feed moisture 18%, screw speed 350 rpm, and tempera
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-cream-soup-viscosity-stability.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-cream-soup-viscosity-stability/ -->
+<!-- TITLE: Cream Soup Viscosity & Freeze-Thaw Stability -->
 
 # Application Development Record: Industrial Potato Cream Soup Viscosity and Freeze-Thaw Stability
 
-**Document No.:** HJA-APP-2024-008-04  
-**Product Line:** Potato Flakes & Potato Flour (Frozen Soup Application)  
-**Development Date:** May – September 2024  
+**Document No.:** HJA-APP-2024-008-04
+**Product Line:** Potato Flakes & Potato Flour (Frozen Soup Application)
+**Development Date:** May – September 2024
 **Version:** 1.1
 
 ---
@@ -16537,8 +16592,8 @@ Two potato-derived ingredients from Hongji Agriculture's product line were evalu
 
 The development followed a **three-phase approach**:
 
-**Phase 1:** Single-factor screening of potato flake-to-flour ratio (3 levels)  
-**Phase 2:** Single-factor screening of homogenization pressure (3 levels)  
+**Phase 1:** Single-factor screening of potato flake-to-flour ratio (3 levels)
+**Phase 2:** Single-factor screening of homogenization pressure (3 levels)
 **Phase 3:** Optimization of stabilizer type and level (full factorial: 3 stabilizer types × 2 levels)
 
 ### 3.2 Phase 1 — Potato Flake:Flour Ratio
@@ -16852,11 +16907,13 @@ This formulation is recommended for immediate scale-up and industrial qualificat
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-meat-binder-whc.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-meat-binder-whc/ -->
+<!-- TITLE: Meat Binder Water Holding Capacity -->
 
 # Application Development Record 005: Meat Binder Water Holding Capacity Development
 
@@ -17120,11 +17177,13 @@ The 8% treatment showed marginal improvements over 6% in WHC (+1.6 ppt) and cook
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-seasoned-snack-powder-flavor-carrier/ -->
+<!-- TITLE: Seasoned Snack Powder Flavor Carrier -->
 
 # Application Development Record 006: Seasoned Snack Powder — Flavor Carrier Base Development
 
@@ -17486,11 +17545,13 @@ All variants met the free-flow specification with angle of repose <42°, indicat
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-baby-food-particle-refinement.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-baby-food-particle-refinement/ -->
+<!-- TITLE: Baby Food Particle Size Refinement -->
 
 # Application Development Record 007: Baby Food Ingredient — Particle Refinement Processing
 
@@ -17835,11 +17896,13 @@ Microbiological levels remained well within EU infant food limits. The slight in
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 
+---
 
-<!--- DOCUMENT: domain-08-application-records/app-dev-pet-food-palatable-formula.md --->
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-08-application-records/app-dev-pet-food-palatable-formula/ -->
+<!-- TITLE: Pet Food Palatability Customization -->
 
 # Application Development Record 008: Pet Food — Palatability Customization Formula
 
@@ -18260,5 +18323,726 @@ Both formulations offer a positive return on investment when positioned as "prem
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
+
+---
+
+# Domain 09 · Production Entity Archive
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/quality-food-safety-management-manual/ -->
+<!-- TITLE: Quality & Food Safety Manual -->
+
+# Quality & Food Safety Management Manual
+
+**Document No.:** HJ-TD-PE-01-B-2024
+**Supervising Department:** Food Safety Team
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 0.1 Company Profile
+
+Hongji Agriculture Co., Ltd. is an agricultural high-tech enterprise engaged in the processing of potato flakes and potato powder, operating an integrated seed-to-flake value chain spanning Hebei and Inner Mongolia.
+
+**Production Lines:** 1 potato flake production line and 4 packaging lines, including destoning/washing machines, steam peelers, post-washing machines, visual inspection machines, blanchers, coolers, cookers, drum dryers, flake breakers, grinders, packaging machines, and metal detectors — supported by raw material and finished product warehouses, a steam supply station, water supply/drainage systems, wastewater treatment, power supply, and heating systems.
+
+**Testing Center:** The company operates an in-house testing center performing sensory inspection and physicochemical analysis (moisture, ash, spots, reducing sugars) and microbiological testing (total plate count, coliforms, molds and yeasts). Type inspection, pathogen testing, and pesticide residue testing are outsourced to accredited third-party laboratories.
+
+**Production:** Seasonal production with shift-based operation. Products are distributed nationwide as food-processing raw materials.
+
+---
+
+## 0.2 Quality & Food Safety Policy
+
+> *Provide customers with safe, high-quality products; win the market through quality and food safety.*
+
+### Quality & Food Safety Objectives
+
+| Objective | Target |
+|-----------|--------|
+| Product release inspection pass rate | 100% |
+| Customer satisfaction rate | ≥ 90% |
+| Food safety incident rate | 0 |
+
+---
+
+## 1. Scope
+
+The company's Quality & Food Safety Management System is established in accordance with:
+
+- **GB/T 19001:2016 / ISO 9001:2015** — Quality management system requirements
+- **FSSC 22000 — Certification Scheme V6**
+- **ISO 22000:2018** — Food safety management system requirements
+- **ISO/TS 22002-1:2009** — Prerequisite programmes on food safety, Part 1: Food manufacturing
+
+together with applicable laws, regulations, and other requirements.
+
+### Management System Scope
+
+The system covers all departments and processing sites of Hongji Agriculture Co., Ltd. related to the management system, and the product scope covers **the production of potato flakes**.
+
+---
+
+## 2. Management Manual Framework
+
+The management manual is the programmatic document of the company's management system, covering:
+
+1. **Effective planning, implementation, operation, maintenance, updating, and continuous improvement** of the management system.
+2. **Control of product quality and food safety hazards** to ensure the consistent supply of safe food for human consumption, while meeting agreed customer requirements and applicable food safety laws and regulations.
+3. **Effective communication** with external suppliers, customers, and other relevant parties in the food chain.
+4. **Self-evaluation and self-declaration** to ensure continuous improvement of the management system.
+
+---
+
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/food-fraud-vulnerability-assessment/ -->
+<!-- TITLE: Food Fraud Vulnerability Assessment -->
+
+# Food Fraud Vulnerability Assessment
+
+**Document No.:** HJ-TD-PE-02-GL02-A-2022
+**Date of Issue:** February 8, 2022
+**Date of Implementation:** February 8, 2022
+**Supervising Department:** Food Safety Team
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 1. Purpose and Scope
+
+This procedure governs the identification, evaluation, and control of food fraud vulnerability across the potato flake supply chain — covering raw materials, auxiliary materials (including additives and processing aids), and food-contact materials. Its objective is to prevent adulteration and substitution risks and ensure the effective food-chain safety control of the company's products.
+
+The assessment applies to the company's products and to the procurement of raw materials, auxiliary materials, and food contact materials.
+
+### 1.1 Responsibilities
+
+- The **Food Safety Team Leader** organizes relevant departments to analyze food fraud vulnerability risks and establish control measures.
+- All relevant departments cooperate in the implementation of this procedure.
+
+---
+
+## 2. Categories and Definitions of Food Fraud
+
+| Term | Definition |
+|------|-----------|
+| **Food Fraud** | Any fraudulent or intentional substitution, dilution, or adulteration of a product or raw material, or misrepresentation of a product or raw material, carried out for economic gain by increasing apparent value or reducing production costs. |
+| **Adulteration** | The addition of undeclared substances to food items for economic benefit. |
+| **Substitution** | Replacing a declared raw material with a lower-value alternative of similar appearance. |
+
+The company's food fraud risks primarily relate to:
+
+- Risk of adulteration in raw and auxiliary materials
+- Risk of substitution of raw and auxiliary materials
+- Risk in food contact materials
+
+---
+
+## 3. Vulnerability Analysis Method
+
+The Food Safety Team analyzes the likelihood and severity of potential hazards associated with all raw and auxiliary material categories, considering:
+
+1. Historical evidence of adulteration or substitution within the food chain
+2. Economic factors that may make adulteration more attractive
+3. Ease of access to the raw material through the supply chain
+4. Complexity of analytical testing for detecting adulteration
+5. Nature and characteristics of the raw material
+
+Where products involve outsourcing or contract manufacturing, a separate vulnerability analysis is conducted before cooperation is established.
+
+---
+
+## 4. Food Fraud Vulnerability Assessment Record
+
+The following assessment covers the company's principal raw materials, additives, and food-contact materials.
+
+### 4.1 Raw Material Risk Assessment
+
+| Raw Material | Main Cause | Supplier/Control Level | Substitution Complexity | Geographical Origin | Physical Form / Accessibility | Detectability (D) | Risk Index (RPN) | Risk Level |
+|-------------|-----------|----------------------|------------------------|---------------------|------------------------------|-------------------|------------------|-----------|
+| Potato | Excessive impurities (soil, grass, stones) | Level 1 supplier / easily controlled | Simple (P4) | Ulagai, Hailar, Tongyu, Siziwang Banner, Naiman | Bulk / very accessible | D2 | R8 | Medium |
+| Potato (green skin) | Excessive green skin | Easily controlled | Simple (P4) | Naiman | Ton bag / very accessible | D2 | R8 | Medium |
+| Potato (pesticide residues) | Improper pesticide use causing residues | Hard to control | Simple (P5) | Ulagai, Hailar, Tongyu, Siziwang Banner, Naiman | Bulk / less accessible | D2 | R10 | High |
+| Citric acid | Colorless/white crystalline granules, odorless, sour | Level 1 supplier / hard to control | Easy (P4) | Shandong | Bagged / accessible | D2 | R8 | Medium |
+| Mono- and diglycerides of fatty acids | Milky white to light brown viscous powdery solid; excessive lead | Level 1 supplier / hard to control | Simple (P4) | Hangzhou | Bagged / accessible | D2 | R8 | Medium |
+| Paper-plastic packaging bag | Food-grade plastic bag; non-food-grade ink | Level 1 supplier / hard to control | Easy (P4) | Wenzhou | Bagged / less accessible | D4 | R16 | High |
+
+### 4.2 Risk Level Determination
+
+| Risk Priority Number (RPN = P × D) | Risk Level Classification |
+|------------------------------------|---------------------------|
+| 1–4 | Low (L) |
+| 5–9 | Medium (M) |
+| 10–25 | High (H) |
+
+Detectability (D): D1–D5 | Probability (P): P1–P5
+
+---
+
+## 5. Control Measures Plan
+
+| No. | Raw Material | Fraud Risk Description | Control Measures | Corrective Measures | Verification Object | Method | Frequency |
+|-----|-------------|----------------------|------------------|--------------------|--------------------|-------|-----------|
+| 1 | Potato | Excessive impurities (soil, grass, stones) | Visual inspection per truck; reject if > 0.5% impurities; supplier evaluation | Reject non-conforming lots | Supplier and product | Visual | Each truck |
+| 2 | Potato (green skin) | Excessive green skin | Visual inspection per truck; reject if > 5% green skin | Reject non-conforming lots | Supplier and product | Visual | Each truck |
+| 3 | Potato (pesticide residues) | Improper pesticide use causing residues | Third-party testing before delivery; supplier must provide reports for 228 pesticide residues (GB 2763) and heavy metals | Reject non-conforming lots | Supplier | Third-party / audit | Annually |
+| 4 | Citric acid | Excess chloride | Visual inspection per batch; reject unqualified materials | External + batch inspection reports | Supplier and product | Visual / audit | Each batch |
+| 5 | Mono- and diglycerides of fatty acids | Lead content exceeds standard | Visual inspection per batch; reject unqualified materials | External + batch inspection reports | Supplier and product | Visual / audit | Each batch |
+| 6 | Paper-plastic packaging bag | Non-food-grade printing ink | Third-party test report per batch; reject unqualified materials | External + batch inspection reports | Supplier and product | Audit / sampling | Each batch |
+
+---
+
+## 6. Updating Food Fraud Vulnerability Assessments
+
+The Food Safety Team reviews food fraud vulnerability risks annually and updates them as necessary. Identified risks are updated promptly when:
+
+- Major raw materials or packaging labels change
+- Relevant food safety laws, regulations, or requirements applicable to the company change
+
+---
+
+## 7. Related Documents
+
+- Documented Information Control Procedure
+- Food Fraud Vulnerability Risk Assessment Record
+
+---
+
+*End of Document*
+
+---
+
+*This document is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/food-fraud-assessment-record/ -->
+<!-- TITLE: Food Fraud Assessment Record (RPN) -->
+
+# Food Fraud Vulnerability Assessment Record
+
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 1. Food Fraud Vulnerability Assessment Form
+
+The following RPN (Risk Priority Number) matrix evaluates raw material characteristics, supplier control level, substitution complexity, geographical origin, physical form/accessibility, detectability, and risk index for each material in the potato flake supply chain.
+
+| Raw Material | Characteristics / Main Cause | Supplier / Control Level | Substitution Complexity | Geographical Origin | Physical Form / Accessibility | Detectability (D) | Risk Index / Level |
+|-------------|------------------------------|--------------------------|------------------------|---------------------|-------------------------------|-------------------|-------------------|
+| Potato | Basic agricultural product; excessive impurities (soil, grass, stones) | Level 1 supplier / Easily controlled | Simple substitution (P4) | Ulagai, Hailar, Tongyu, Siziwang Banner, Naiman | Bulk / Very accessible | D2 | R8 / Medium |
+| Potato (green skin) | Basic agricultural product; green skin | Easily controlled | Simple substitution (P4) | Naiman | Ton bag / Very accessible | D2 | R8 / Medium |
+| Potato (pesticide residues) | Improper pesticide use causing residues | Hard to control | Simple substitution (P5) | Ulagai, Hailar, Tongyu, Siziwang Banner, Naiman | Bulk / Less accessible | D2 | R10 / High |
+| Citric acid | Colorless or white crystalline granules, odorless, sour | Level 1 supplier / Hard to control | Easy substitution (P4) | Shandong | Bagged / Accessible | D2 | R8 / Medium |
+| Mono- and diglycerides of fatty acids | Milky white to light brown viscous powdery solid; excessive lead | Level 1 supplier / Hard to control | Simple substitution (P4) | Hangzhou | Bagged / Accessible | D2 | R8 / Medium |
+| Paper-plastic packaging bag | Food-grade plastic bag; non-food-grade ink | Level 1 supplier / Hard to control | Easy substitution (P4) | Wenzhou | Bagged / Less accessible | D4 | R16 / High |
+
+---
+
+## 2. Risk Level Determination
+
+| Risk Priority Number (RPN = P × D) | Risk Level |
+|------------------------------------|-----------|
+| 1–4 | Low (L) |
+| 5–9 | Medium (M) |
+| 10–25 | High (H) |
+
+- **Detectability (D):** D1–D5
+- **Probability (P):** P1–P5
+
+---
+
+## 3. High-Risk Materials
+
+The following materials are classified as **High** risk and require enhanced control:
+
+| Material | RPN | Control Measure |
+|----------|-----|-----------------|
+| Potato (pesticide residues) | R10 | Third-party testing before delivery; supplier reports for 228 pesticide residues (GB 2763) + heavy metals |
+| Paper-plastic packaging bag | R16 | Third-party test report per batch for food-grade compliance |
+
+---
+
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/identification-traceability-control-procedure/ -->
+<!-- TITLE: Identification & Traceability Control -->
+
+# Identification & Traceability Control Procedure
+
+**Document No.:** HJ-TD-PE-02-SD07-A-2022
+**Date of Issue:** February 28, 2022
+**Date of Implementation:** February 28, 2022
+**Supervising Department:** Production and Power Department
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 1. Purpose
+
+This procedure is established to ensure that all products are properly identified during production, receiving, and delivery stages to prevent mixing, misuse, or misplacement, and to provide the basis for traceability when required.
+
+## 2. Scope of Application
+
+This procedure applies to product identification and, when necessary, traceability throughout the entire process — from raw materials to finished product delivery.
+
+## 3. Responsibilities
+
+1. The raw material warehouse keeper is responsible for defining and implementing the method of raw material identification and for labeling all incoming materials.
+2. The production workshop is responsible for product identification and traceability during production, handling, storage, protection, and delivery.
+3. The production workshop is also responsible for defining the product inspection identification methods and implementing inspection labeling.
+4. All related personnel are responsible for maintaining the protection of status identification.
+
+---
+
+## 4. Control Procedure
+
+### 4.1 Inspection Status Categories
+
+1. Pending inspection
+2. Passed inspection
+3. Failed inspection
+
+### 4.2 Raw Material Identification
+
+Upon arrival, raw materials are placed and recorded separately according to the supplier, storage location number, and date of receipt, with clear identification labels applied.
+
+### 4.3 Finished Product Identification
+
+Finished products are identified by batch numbers.
+
+### 4.4 Inspection Status Identification
+
+Inspection status may be indicated using tags and records.
+
+### 4.5 Incoming Material Inspection Identification
+
+1. Incoming inspection status shall be indicated with labels or tags.
+2. Inspectors must promptly inform warehouse keepers of inspection results to ensure the correct identification of inspection status.
+3. Nonconforming products must be clearly identified and segregated from conforming products.
+
+### 4.6 In-Process Product Inspection Identification
+
+The production workshop uses tags, labels, and records to indicate the inspection status of in-process products.
+
+### 4.7 Final Product Inspection Identification
+
+1. Inspectors identify the inspection status of final products using tags and labels.
+2. Final products that have passed inspection shall bear the inspector's signature.
+
+### 4.8 Maintenance and Management of Product Identification
+
+1. Each department related to the product is responsible for maintaining product identification. Every employee must protect identification labels. If any label is damaged, lost, or needs to be modified, the shift leader and inspectors shall trace the issue and reapply proper identification through the responsible department.
+2. If inspection status identification is damaged or missing, it must be reported immediately to the inspector, who will re-inspect the product and reapply the label.
+3. All tags, labels, records, and seals indicating inspection status shall be managed by designated personnel. Mixing, misusing, or unauthorized use is strictly prohibited.
+
+### 4.9 Equipment and Facility Identification
+
+1. All equipment and instruments shall have nameplates and company equipment numbers. Equipment identification must match the contents recorded in the equipment management ledger.
+2. Measuring equipment shall have both equipment identification and calibration labels.
+3. Electrical equipment, power outlets, and switches must be clearly marked with warning labels during malfunction or maintenance.
+
+### 4.10 Product Traceability
+
+1. Production records must indicate the product batch number (or shift number), which serves as the only identifier ensuring traceability. It must be accurately recorded and unique.
+
+2. Traceability shall meet the following requirements:
+
+| Requirement | Description |
+|-------------|-------------|
+| a) Quality status at shipment | The product's quality status at the time of shipment can be traced |
+| b) Production time and shift | The corresponding production time and shift can be traced |
+| c) Production equipment | The relevant production equipment can be traced |
+| d) Raw material information | The relevant information about the raw materials used, including manufacturer and batch number, can be traced |
+
+3. **Retention period for traceability records: at least three years.**
+
+---
+
+## 5. Related Documents
+
+- Record Control Procedure
+
+---
+
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/allergen-management-policy/ -->
+<!-- TITLE: Allergen Management Policy -->
+
+# Allergen Management Policy
+
+**Document No.:** HJ-TD-PE-03-PK/3-42-A-2022
+**Supervising Department:** Quality Control Department
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 1. Purpose and Scope
+
+This policy ensures that all allergenic factors related to product safety are properly identified and effectively managed, guaranteeing the normal and effective operation of the quality and food safety management system.
+
+The policy applies to the management and control of all allergens related to product safety across the potato flake production facility.
+
+### 1.1 Responsibilities
+
+- The **Quality Control Department** is the primary department responsible for allergen management and for identifying allergens that may affect product safety.
+- The **General Manager**, together with the Production and Power Department, Marketing Department, Administration Department, and other relevant departments, provides necessary information and cooperates in implementing allergen control plans.
+
+---
+
+## 2. Allergen Identification
+
+According to relevant allergen management requirements, food allergens that must be identified with precautionary labeling on product packaging include the following eight major categories:
+
+| Country / Standard | Regulation | Allergenic Ingredients (8 Categories) | Examples |
+|--------------------|-----------|---------------------------------------|----------|
+| China | GB 23779-2009 — Allergenic ingredients in prepackaged foods | 1. Cereals containing gluten and their products | Wheat, rye, barley, oats, and hybrids |
+| China | GB 7718-2011 — General Rules for the Labeling of Prepackaged Foods, Clause 4.4 | 2. Crustaceans and their products | Crab, lobster, shrimp |
+| | | 3. Fish and their products | Perch, flounder, cod |
+| | | 4. Eggs and their products | Chicken eggs |
+| | | 5. Peanuts and their products | — |
+| | | 6. Soybeans and their products | Soybeans |
+| | | 7. Milk and its products | Including lactose and cow's milk |
+| | | 8. Tree nuts and their products | Almonds, hazelnuts, walnuts, cashews, pecans, Brazil nuts, pistachios, macadamias |
+| | | — | Sulfites with a concentration greater than 10 mg/kg |
+
+---
+
+## 3. Control Measures
+
+### 3.1 Procurement
+
+1. Before purchasing raw potatoes, suppliers must provide allergen statements or crop rotation records from the past three years to ensure raw potatoes are not subject to cross-contamination by allergens during cultivation.
+2. Purchasing personnel identify allergenic substances according to the eight-allergen list specified in the Food Allergen Labeling Management Regulations.
+
+### 3.2 Product Receiving
+
+1. The Quality Control Department inspects incoming raw and auxiliary materials and verifies label information to determine whether they contain any allergens.
+2. If any of the eight specified allergenic substances are indicated on the label, the material is rejected immediately.
+
+### 3.3 Storage
+
+No allergenic substances listed in the eight major categories are allowed to be stored in the warehouse.
+
+### 3.4 Personnel Management
+
+1. All production personnel receive allergen awareness training.
+2. Employees are strictly prohibited from bringing allergen-related items, snacks, or beverages into the workshop.
+3. Eating inside dressing rooms or workshops is prohibited; all meals must be taken in the employee cafeteria.
+
+### 3.5 Production
+
+1. Production is carried out on dedicated lines in strict accordance with the process and formulation for potato flakes.
+2. It is strictly forbidden to change the process arbitrarily or to add any additives or raw materials that do not conform to the approved formulation.
+
+---
+
+## 4. Allergen Status of Potato Flakes
+
+Hongji Agriculture's potato flakes are produced on dedicated potato-processing lines using no allergenic substances. The finished product is free from all eight major food allergen categories listed in China's regulations.
+
+| Allergen | Status | Basis |
+|----------|--------|-------|
+| Cereals containing gluten | Free | Factory does not use allergenic substances |
+| Crustaceans | Free | Not present in facility |
+| Fish | Free | Not present in facility |
+| Eggs | Free | Not present in facility |
+| Peanuts | Free | Not used in production |
+| Soybeans | Free | Not used in production |
+| Milk / lactose | Free | Not present in facility |
+| Tree nuts | Free | Facility is nut-free |
+| Sulfites (>10 mg/kg) | None | No sulfite addition at any process step |
+
+---
+
+## 5. Applicable Departments and Implementation
+
+This policy applies to all departments within the company and takes effect from the date of issuance.
+
+---
+
+*End of Document*
+
+---
+
+*This document is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/potato-flakes-product-specification/ -->
+<!-- TITLE: Product Specification -->
+
+# Potato Flakes Product Specification
+
+**Code:** HJ-TD-PE-03-PK/1-01-D-2025
+**Prepared by:** Li Fangfang
+**Reviewed by:** Li Fangfang
+**Department in Charge:** Quality Control Department
+**Date:** 2025.01.01
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 1. Product Information
+
+| Item | Detail |
+|------|--------|
+| **Product Name** | Potato Flakes |
+| **Varieties** | Atlantic / Shepody / McCain |
+| **Reference Standard** | SB/T 10752-2012 Potato Flakes and customer requirements |
+
+**Material Description:** Produced under clean and hygienic conditions, potato flakes are made from fresh potatoes that undergo acceptance, destoning, washing, steam peeling, secondary washing, visual inspection, hydraulic slicing, blanching, cooling, cooking, mashing, drying, flaking & milling, sieving, magnetic separation, weighing, packaging, and metal detection. During processing, the potato cells are kept as intact as possible to retain nutrients, color, aroma, and flavor.
+
+---
+
+## 2. Allergens
+
+| Allergen Source | Functionality in Raw Material |
+|-----------------|-------------------------------|
+| None | The factory does not use allergenic substances |
+
+**China's List of 8 Major Food Allergens (GB 23779-2009, GB 7718-2011):**
+
+1. Cereals containing gluten and their products (wheat, rye, barley, oats, and hybrids)
+2. Crustaceans and products thereof (e.g., crab, lobster, shrimp)
+3. Fish and products thereof (e.g., perch, flounder, cod)
+4. Eggs and products thereof
+5. Peanuts and products thereof
+6. Soybeans and products thereof
+7. Milk and dairy products (including lactose)
+8. Tree nuts and products thereof (almonds, hazelnuts, walnuts, cashews, pecans, Brazil nuts, pistachios, macadamias)
+
+---
+
+## 3. Ingredients
+
+| Ingredient | Proportion | Function |
+|-----------|-----------|----------|
+| Potato (Atlantic or Shepody) | 99.5% | Base material |
+| Mono- and Diglycerides of Fatty Acids (INS 471) | ≤ 0.5% | Emulsifier (added as needed) |
+| Citric Acid (INS 330) | ≤ 100 ppm | Acidity regulator (added as needed) |
+
+---
+
+## 4. Quality Standards
+
+### 4.1 Sensory Indicators
+
+| Item | Requirement |
+|------|-------------|
+| Color | Uniform |
+| Taste & Aroma | Typical of the product |
+| Texture | Dry, loose flakes or powder, free from caking and mold |
+| Impurities / Spots | No visible foreign impurities; spots ≤ 50 |
+
+### 4.2 Physicochemical Indicators
+
+| Item | Specification | Method | Frequency |
+|------|---------------|--------|-----------|
+| Moisture (%) | ≤ 9.0 | GB 5009.3 | Annual / COA per batch |
+| Ash (dry basis, %) | ≤ 4.0 | GB 5009.4 | Annual / COA per batch |
+| Reducing Sugar (%) | ≤ 3.0 | GB 5009.7 | Annual / COA per batch |
+| Blue Value | ≤ 500 | SB/T 10752 Annex A | Annual / COA per batch |
+| Net Weight (kg) | ≥ 25 or ≥ 20 | JJF 1070 | Annual / COA per batch |
+
+### 4.3 Contaminants
+
+| Item | Limit | Method | Frequency |
+|------|-------|--------|-----------|
+| Lead (Pb, mg/kg) | ≤ 0.5 | GB 5009.12 | Annual |
+| Total Arsenic (mg/kg) | ≤ 0.5 | GB 5009.11 | Annual |
+
+### 4.4 Microbiological Indicators
+
+| Item | n | c | m | M | Method |
+|------|---|---|---|---|--------|
+| Total Plate Count (CFU/g) | 5 | 2 | 1×10⁴ | 1×10⁵ | GB 4789.2 |
+| Coliforms (CFU/g) | 5 | 2 | 1×10² | 1×10³ | GB 4789.3 |
+
+---
+
+## 5. Testing Frequency
+
+### 5.1 Microbiological Tests
+- **Total Plate Count:** GB 4789.2 — Each batch (third-party twice per year)
+- **Coliforms:** GB 4789.3 — Each batch (third-party twice per year)
+
+### 5.2 Food Safety Indicators
+- Lead (Pb): GB 5009.12 — Annual
+- Cadmium (Cd): GB 5009.15 — Annual
+- Mercury (Hg): GB 5009.17 — Annual
+- Total Arsenic (As): GB 5009.11 — Annual
+- Chromium (Cr): GB 5009.123 — Annual
+- Sulfur Dioxide Residues: GB 5009.34 — Annual
+- Pesticide Residues: GB 2763-2021 — Annual
+
+### 5.3 Physicochemical Indicators
+- Moisture: GB 5009.3 — Hourly (≤25 kg packs)
+- Ash (dry basis): GB 5009.4 — Each batch
+- Defects (#40 sieve): FL 70-32 — Hourly (≤25 kg packs)
+- Reducing Sugar: GB/T 5009.7 — Each shift
+- Color: Visual — Hourly (≤25 kg packs)
+- Blue Value: SB/T 10752 Annex A — Each batch
+
+---
+
+## 6. Packaging Standards
+
+- 25 kg / 20 kg / 18 kg bags.
+- Bags are sealed with special rubber bands, folded 4–6 cm, and stitched using portable sealing machines.
+- Bright-colored bands, threads, or ropes are recommended to distinguish from product color.
+
+---
+
+## 7. Storage and Shipment
+
+### 7.1 Storage
+- Store on pallets, in a cool, dry, shaded, and ventilated place at ambient temperature.
+- Do not stack more than two pallet loads.
+- Shelf life: **24 months** (unopened, under proper conditions).
+
+### 7.2 Shipment Requirements
+1. Only qualified products shipped, following FIFO principle. Handle gently, avoid stepping on bags, and stack properly to prevent damage.
+2. Clean truck beds before loading. Ensure packaging is intact to prevent moisture damage during transport.
+3. During loading, no stepping on products. Workers must wear disposable shoe covers. Outer bags must be free from dust, footprints, sweat marks, rodent damage, etc.
+
+---
+
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+
+---
+
+<!-- SOURCE: https://docs.hjpotatoflakes.com/domain-09-production-entity/critical-control-points-production/ -->
+<!-- TITLE: Critical Control Points -->
+
+# Critical Control Points in Potato Flakes Production
+
+**Company:** Hongji Agriculture Co., Ltd.
+
+---
+
+## 1. Product Description
+
+Potato Flakes is a cooked product in the form of snowflake flakes or powder, made from fresh potatoes that undergo acceptance inspection, storage, stone removal and washing, steam peeling, secondary washing, visual inspection, hydraulic conveying and slicing, blanching, cooling, cooking, mashing, drying, flaking and grinding, sieving, magnetic iron removal, weighing, packaging, and metal detection. The processing aims to minimize the destruction of potato cells and preserve the nutritional components as well as color, aroma, and taste.
+
+---
+
+## 2. Process Flow Chart
+
+```
+Receiving & Inspecting Potatoes (removing soil, dirt, foreign materials)
+        ↓
+Steam Peeling (0.8–1.5 MPa, 15–45 s)
+        ↓
+Dry Brush Peeling → Post-Washing → Visual Inspection → (Peel/Waste Disposal)
+        ↓
+Hydraulic Slicing (8–12 mm)
+        ↓
+Blanching (65–83°C, 15–35 min) → Cooling (≤30°C)
+        ↓
+Cooking/Steaming (Steam 0.3–0.4 MPa, 92–99°C, 15–45 min)
+        ↓
+Mashing (Additives: mono/diglycerides <0.5%, citric acid ≤0.01%)
+        ↓
+Drying (Steam 0.8–1.2 MPa, drum 120–240°C, moisture ≤9%)
+        ↓
+Flaking & Grinding → Sieving (16–40 mesh)
+        ↓
+Magnetic Separation  ⚠️ CCP (magnetic force ≥8000 GS)
+        ↓
+Weighing & Packaging
+        ↓
+Metal Detection  ⚠️ CCP (Fe≤1.5 / No-Fe≤2.4 / SUS≤3.0 mm)
+        ↓
+Storage and Dispatch
+```
+
+---
+
+## 3. Detailed Process Parameters
+
+| Process Step | Key Parameters |
+|-------------|----------------|
+| **Stone removal & washing** | Screw-type washing machine + stone remover; swirling water rinse; spray rinse |
+| **Steam peeling** | Steam pressure 0.8–1.5 MPa, 15–45 seconds; PLC automated |
+| **Dry brush peeling** | Nylon brushes; line pressure 0.8–1.5 MPa; compressed air 0.6–0.8 MPa |
+| **Visual inspection** | Manual trimming of eyes, green/black parts, rot, residual skin, foreign materials |
+| **Hydraulic slicing** | Water-jet slicing, 8–12 mm thick |
+| **Blanching** | Steam + water mixture, 65–83°C, 15–35 minutes |
+| **Cooling** | Counterflow cooling water, ≤30°C, 15–35 minutes |
+| **Cooking** | Steam 0.3–0.4 MPa + atmospheric pressure, 92–99°C, 15–45 minutes |
+| **Mashing** | Spiral feeder through mash screen (slow speed to prevent cell breakage) |
+| **Additives** | Mono- and diglycerides < 0.5%; citric acid ≤ 0.01% |
+| **Drying** | Steam 0.8–1.2 MPa, drum 120–240°C, film 0.2–0.25 mm, moisture ≤ 9% |
+| **Flaking & grinding** | 4–8 mm snowflake flakes; grinding speed 10–40 Hz; sieve 16–40 mesh |
+
+---
+
+## 4. Critical Control Points (CCPs)
+
+### 4.1 CCP-1: Magnetic Separation
+
+| Item | Detail |
+|------|--------|
+| **Hazard** | Physical (metal fragments) |
+| **Control point** | Double-layer magnetic iron remover at vibrating sieve outlet |
+| **Critical limit** | Magnetic force ≥ 8000 Gauss |
+| **Monitoring** | QC checks magnetic strength every 10 days; replace magnets below 7000 Gauss |
+| **Operator cleaning** | Every hour for first 3 hours, then every 4 hours; increase to hourly if debris > 3 mm appears |
+
+### 4.2 CCP-2: Metal Detection
+
+| Item | Detail |
+|------|--------|
+| **Hazard** | Physical (metal fragments) |
+| **Critical limits** | Fe ≤ 1.5 mm; No-Fe ≤ 2.4 mm; SUS ≤ 3.0 mm |
+| **Monitoring** | Check detector sensitivity and proper functioning every 4 hours using test pieces |
+| **Corrective action** | Alarmed products isolated for investigation and recorded |
+
+---
+
+## 5. Magnetic Iron Remover Maintenance
+
+1. Quality control checks magnetic strength every 10 days; replace magnets below 7000 Gauss.
+2. Operators clean magnets every hour for the first 3 hours of operation, then every 4 hours. If metal debris larger than 3 mm appears, increase cleaning frequency to once per hour until normal.
+
+### Cleaning Procedure
+
+1. Prepare clean cloth, alcohol spray, zipper bags, plastic tray, and 15 kg scale.
+2. Disinfect hands with alcohol spray.
+3. Zero the scale with the tray, weigh magnetic rods carefully.
+4. Clean impurities from the sleeve and rods with cloth and alcohol.
+5. After drying, reweigh and return rods.
+6. Collect debris > 3 mm in labeled zipper bags with date, time, shift, batch.
+7. Record pre- and post-cleaning weights and net weight in the magnetic rod cleaning log.
+
+---
+
+## 6. Packaging, Weighing, and Metal Detection
+
+- **Weighing:** Sterilized bags coded and placed on packaging machine clamps; 25 kg ± 20 g net per bag.
+- **Date printing:** Batch changes daily at 00:00; printing failures require on-site verification by supervisors and QC.
+- **Packaging:** Composite inner bags + kraft paper outer bags; inner bag air removed and sealed with rubber bands; outer bag folded 4–6 cm and sealed by hand-held machine.
+- **Metal detection:** Sealed products pass through a metal detector; qualified products sorted by batch, shift, and pallet number; alarmed products isolated for investigation and recorded.
+
+---
+
+*This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*

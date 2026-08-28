@@ -52,7 +52,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-# ---------- 导航结构（8 个知识域 · 47 篇文档）----------
+# ---------- 导航结构（9 个知识域 · 55 篇文档）----------
 nav:
   - Home: index.md
 
@@ -142,6 +142,10 @@ nav:
 plugins:
   - search
   - meta            # 允许每页 frontmatter 覆盖 description/title
+
+# ---------- 构建钩子（不改变页面内容，只优化 sitemap 时间戳）----------
+hooks:
+  - overrides/hooks/sitemap_lastmod.py
 
 # ---------- Markdown 扩展（技术文档必备）----------
 markdown_extensions:
