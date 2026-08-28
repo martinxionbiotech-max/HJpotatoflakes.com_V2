@@ -1,5 +1,11 @@
 ---
-description: "This domain covers global market intelligence, Chinese potato processing industry analysis, international quality standards comparison, export documentation, regulatory compliance, logistics, and a co"
+description: "This domain covers global market intelligence, Chinese potato processing industry analysis, international quality standards comparison, export documentation"
+## Explore on Hongji Agriculture Main Website
+
+- [2026 Industry Report](https://hjpotatoflakes.com/2026-global-potato-flakes-industry-report/) — global market insights
+- [What Are Potato Flakes](https://hjpotatoflakes.com/what-are-potato-flakes-the-complete-industrial-guide-to-dehydrated-mashed-potatoes/) — complete industrial guide
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Industry Knowledge & Compliance
 

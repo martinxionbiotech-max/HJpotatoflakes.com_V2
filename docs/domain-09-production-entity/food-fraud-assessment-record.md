@@ -48,3 +48,8 @@ The following materials are classified as **High** risk and require enhanced con
 ---
 
 *This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Food Fraud Vulnerability Assessment Record." Hongji Agriculture Knowledge Center.

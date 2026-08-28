@@ -1,5 +1,5 @@
 ---
-description: "> **Knowledge Center v1.0** | July 2026 | [hjpotatoflakes.com](https://hjpotatoflakes.com)"
+description: "Hongji Agriculture technical documentation center — 55 B2B documents across 9 domains: potato breeding, farming, processing, quality control, and applications."
 ---
 
 # Hongji Agriculture Technical Documentation — INDEX

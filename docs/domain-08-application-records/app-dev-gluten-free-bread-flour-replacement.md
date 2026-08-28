@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record: Gluten-Free Bread Flour Replacement with Potato Flakes — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record: Gluten-Free Bread Flour Replacement with Potato Flakes"
 ---
 
 # Application Development Record: Gluten-Free Bread Flour Replacement with Potato Flakes
@@ -353,6 +353,12 @@ The 30% replacement formulation is recommended for commercial scale-up and consu
 | Shelf life (ambient, 25°C) | 7 days (soft crumb maintained for 5 days) |
 | Shelf life (frozen, −18°C) | 6 months |
 | Recommended serving | Toast or microwave 15 s for fresh-from-oven texture |
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record: Gluten-Free Bread Flour Replacement with Potato Flakes." Hongji Agriculture Knowledge Center.
+
 
 ---
 

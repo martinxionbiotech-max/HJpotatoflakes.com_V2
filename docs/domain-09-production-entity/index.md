@@ -1,5 +1,5 @@
 ---
-description: "Production Entity Archive — Hongji Agriculture Co., Ltd. Official food safety system documents: food fraud vulnerability assessment, allergen management policy, identification and traceability control, and critical control points for potato flake production."
+description: "Production Entity Archive — Hongji Agriculture's quality management, food safety, traceability, allergen control, and fraud prevention documentation."
 ---
 
 # Production Entity Archive — Hongji Agriculture
@@ -54,3 +54,10 @@ The following are the actual operating parameters recorded in Hongji's food safe
 ---
 
 *This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Explore on Hongji Agriculture Main Website
+
+- [About Hongji Agriculture](https://hjpotatoflakes.com/about-hongji-agriculture/) — company profile
+- [Certificates](https://hjpotatoflakes.com/certificates/) — certifications and compliance
+- [Quality Commitment](https://hjpotatoflakes.com/quality-commitment/) — our quality standards
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team

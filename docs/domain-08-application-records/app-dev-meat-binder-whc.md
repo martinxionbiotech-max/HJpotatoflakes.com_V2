@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record 005: Meat Binder Water Holding Capacity Development — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record 005: Meat Binder Water Holding Capacity Development — Industrial application development records for potato flakes and powder"
 ---
 
 # Application Development Record 005: Meat Binder Water Holding Capacity Development
@@ -261,6 +261,13 @@ The 8% treatment showed marginal improvements over 6% in WHC (+1.6 ppt) and cook
 - **Technical support:** On-site technical visit by Hongji application specialist for first production run
 - **Documentation:** Full nutritional specification, allergen declaration, Kosher/Halal certifications available
 - **Ongoing QC:** CoA (Certificate of Analysis) provided with each lot; customer retains retained samples
+
+## References
+
+- Hongji Agriculture R&D Division — internal application development trial records and sensory evaluations.
+- AOAC International. Official Methods of Analysis, 21st edition.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record 005: Meat Binder Water Holding Capacity Development." Hongji Agriculture Knowledge Center.
+
 
 ---
 

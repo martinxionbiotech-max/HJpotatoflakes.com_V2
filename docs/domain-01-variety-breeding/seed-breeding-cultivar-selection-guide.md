@@ -1,5 +1,5 @@
 ---
-description: "Seed Breeding and Cultivar Selection Guide for Processing Potatoes — Potato variety breeding science for industrial processing — cultivar selection, dry matter analysis, seed breeding methodology, and processing performance comparison."
+description: "Seed Breeding and Cultivar Selection Guide for Processing Potatoes — Potato variety breeding science for industrial processing"
 ---
 
 # Seed Breeding and Cultivar Selection Guide for Processing Potatoes
@@ -515,6 +515,13 @@ Year 4:  "Decommissioned" — Removed from approved variety list; no seed sales
 
 *Document maintained by the Hongji Agriculture Breeding & Agronomy Division.*  
 *Next revision: July 2027*
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Seed Breeding and Cultivar Selection Guide for Processing Potatoes." Hongji Agriculture Knowledge Center.
+
 
 ---
 

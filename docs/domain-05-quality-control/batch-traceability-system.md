@@ -1,5 +1,5 @@
 ---
-description: "Batch Traceability System - Full-Chain from Seed to Ship — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Batch Traceability System - Full-Chain from Seed to Ship — Potato flake and powder quality control methods"
 ---
 
 # Batch Traceability System — Full-Chain from Seed to Ship
@@ -288,6 +288,15 @@ Hongji Agriculture's batch traceability system provides a robust, verified, and 
 ---
 
 *End of Document*
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- FSSC 22000. Food Safety System Certification standard.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Batch Traceability System — Full-Chain from Seed to Ship." Hongji Agriculture Knowledge Center.
+
 
 ---
 

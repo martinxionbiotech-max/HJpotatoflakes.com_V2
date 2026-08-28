@@ -1,5 +1,5 @@
 ---
-description: "Physical Specifications: Particle Size, Bulk Density, and Color Measurement — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Physical Specifications: Particle Size, Bulk Density, and Color Measurement — Potato flake and powder quality control methods"
 ---
 
 # Physical Specifications: Particle Size, Bulk Density, and Color Measurement
@@ -443,6 +443,13 @@ The standard COA for physical parameters includes:
 ---
 
 *End of Document*
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- ASTM International. Standard test methods for particle size and bulk density.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Physical Specifications: Particle Size, Bulk Density, and Color Measurement." Hongji Agriculture Knowledge Center.
+
 
 ---
 

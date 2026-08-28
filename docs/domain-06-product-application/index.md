@@ -1,5 +1,12 @@
 ---
-description: "This domain covers complete technical datasheets for potato flakes and potato powder, product grade comparisons, application-specific usage guides, custom ingredient development, and blended solutions"
+description: "This domain covers complete technical datasheets for potato flakes and potato powder, product grade comparisons, application-specific usage guides"
+## Explore on Hongji Agriculture Main Website
+
+- [Potato Flakes](https://hjpotatoflakes.com/hongji-potato-flakes/) — product overview and specifications
+- [Potato Powder](https://hjpotatoflakes.com/hongji-potato-powder/) — 60-mesh potato powder
+- [All Products](https://hjpotatoflakes.com/potato-flakes-products/) — full product catalog
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Product & Application
 

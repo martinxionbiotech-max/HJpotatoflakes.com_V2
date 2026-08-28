@@ -1,5 +1,5 @@
 ---
-description: "Sustainable Potato Farming Practices at Hongji Agriculture — Standardized potato farming and cultivation SOPs — precision agriculture, harvest timing optimization, raw material grading, and sustainable farming practices."
+description: "Sustainable Potato Farming Practices at Hongji Agriculture — Standardized potato farming and cultivation SOPs"
 ---
 
 # Sustainable Potato Farming Practices at Hongji Agriculture

@@ -1,5 +1,5 @@
 ---
-description: "Hongji Agriculture's **Potato Flakes** (also known as Potato Granules or Instant Mashed Potato Flakes) are dehydrated potato products manufactured from premium processing potato varieties grown in the"
+description: "Technical datasheet for Hongji Agriculture potato flakes — drum-dried process, full specs, rehydration, packaging, storage, and certifications for B2B buyers."
 ---
 
 # Hongji Potato Flakes — Technical Datasheet
@@ -406,6 +406,16 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 **Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- ICMSF. Microorganisms in Foods — Sampling for Microbiological Analysis.
+- FSSC 22000. Food Safety System Certification standard.
+
 
 ---
 

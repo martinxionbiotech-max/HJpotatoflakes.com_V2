@@ -1,5 +1,5 @@
 ---
-description: "Critical Control Points in Potato Flakes Production — Hongji Agriculture. Full process description with magnetic separation and metal detection CCPs, verified every 4 hours."
+description: "Critical control points in potato flake production — HACCP analysis covering magnetic separation and metal detection CCPs, monitoring, and corrective actions."
 ---
 
 # Critical Control Points in Potato Flakes Production
@@ -115,3 +115,9 @@ Storage and Dispatch
 ---
 
 *This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## References
+
+- ISO 22000:2018. Food Safety Management Systems.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969).
+- Hongji Agriculture Technology Co., Ltd. 2026. "Critical Control Points in Potato Flakes Production." Hongji Agriculture Knowledge Center.

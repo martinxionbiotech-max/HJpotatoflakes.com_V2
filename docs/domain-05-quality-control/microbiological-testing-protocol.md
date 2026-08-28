@@ -1,5 +1,5 @@
 ---
-description: "Microbiological Testing Protocol — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Microbiological Testing Protocol — Potato flake and powder quality control methods"
 ---
 
 # Microbiological Testing Protocol
@@ -252,6 +252,16 @@ When an alert limit is exceeded, an investigation is initiated. Product may stil
 ---
 
 *End of Document*
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- FSSC 22000. Food Safety System Certification standard.
+
 
 ---
 

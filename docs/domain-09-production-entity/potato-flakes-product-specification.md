@@ -1,5 +1,5 @@
 ---
-description: "Potato Flakes Product Specification — Hongji Agriculture production entity. Full sensory, physicochemical, contaminant, and microbiological specifications per SB/T 10752-2012 and GB national standards."
+description: "Potato flakes product specification — sensory, physicochemical, contaminant, and microbiological limits per SB/T 10752-2012 and GB national standards."
 ---
 
 # Potato Flakes Product Specification
@@ -139,3 +139,8 @@ description: "Potato Flakes Product Specification — Hongji Agriculture product
 ---
 
 *This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Potato Flakes Product Specification." Hongji Agriculture Knowledge Center.

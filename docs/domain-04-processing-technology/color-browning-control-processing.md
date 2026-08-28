@@ -1,5 +1,5 @@
 ---
-description: "Color and Browning Control in Potato Processing — Potato flake and powder processing technology — drum drying, 60-mesh milling, moisture control, browning prevention, and critical control points."
+description: "Color and Browning Control in Potato Processing — Potato flake and powder processing technology"
 ---
 
 # Color and Browning Control in Potato Processing
@@ -434,6 +434,12 @@ While instrumental measurement is preferred, accelerated visual assessment is us
 *Document prepared by the Technical Documentation Team, Hongji Agriculture. For B2B technical inquiries: technical@hjpotatoflakes.com.*
 
 ---
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Color and Browning Control in Potato Processing." Hongji Agriculture Knowledge Center.
+
 
 ---
 

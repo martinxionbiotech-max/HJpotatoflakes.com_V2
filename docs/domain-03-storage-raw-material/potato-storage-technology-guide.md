@@ -1,5 +1,5 @@
 ---
-description: "Potato Storage Technology Guide: Physiology, Facilities, and Quality Management — Potato storage technology and raw material quality preservation — controlled atmosphere, sprout inhibition, sugar dynamics, and year-round supply chain management."
+description: "Potato Storage Technology Guide: Physiology, Facilities, and Quality Management — Potato storage technology and raw material quality preservation"
 ---
 
 # Potato Storage Technology Guide: Physiology, Facilities, and Quality Management
@@ -414,6 +414,12 @@ Document maintained by: Raw Material Management Division
 Last revised: July 2026
 
 ---
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Potato Storage Technology Guide: Physiology, Facilities, and Quality Management." Hongji Agriculture Knowledge Center.
+
 
 ---
 

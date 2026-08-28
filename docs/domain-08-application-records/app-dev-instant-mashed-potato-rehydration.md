@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record: Instant Mashed Potato Rehydration Ratio Optimization — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record: Instant Mashed Potato Rehydration Ratio Optimization — Industrial application development records for potato flakes and powder"
 ---
 
 # Application Development Record: Instant Mashed Potato Rehydration Ratio Optimization
@@ -291,6 +291,12 @@ The 1:4.5 rehydration ratio achieves the customer's target viscosity range (8,00
 | Nitrogen flushing | Yes, residual O₂ ≤ 2% |
 | Shelf life | 12 months at ≤ 25°C |
 | Storage conditions | Cool, dry, < 60% RH |
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record: Instant Mashed Potato Rehydration Ratio Optimization." Hongji Agriculture Knowledge Center.
+
 
 ---
 

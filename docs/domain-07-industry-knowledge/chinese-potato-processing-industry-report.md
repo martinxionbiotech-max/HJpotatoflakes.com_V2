@@ -1,5 +1,5 @@
 ---
-description: "Chinese Potato Processing Industry Report: Regional Distribution, Enterprise Landscape & Policy Direction — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "Chinese Potato Processing Industry Report: Regional Distribution, Enterprise Landscape & Policy Direction — Global potato processing industry knowledge"
 ---
 
 # Chinese Potato Processing Industry Report: Regional Distribution, Enterprise Landscape & Policy Direction
@@ -369,6 +369,16 @@ China has established a comprehensive standards system governing potato processi
 *Official website: [hjpotatoflakes.com](https://hjpotatoflakes.com)*
 
 ---
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- FSSC 22000. Food Safety System Certification standard.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- BRCGS Global Standard for Food Safety.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Chinese Potato Processing Industry Report: Regional Distribution, Enterprise Landscape & Policy Direction." Hongji Agriculture Knowledge Center.
+
 
 ---
 

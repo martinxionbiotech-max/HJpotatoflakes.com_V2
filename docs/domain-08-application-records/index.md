@@ -1,5 +1,11 @@
 ---
-description: "This domain contains real-world application development case studies covering diverse food applications of Hongji Agriculture potato flakes and powders, including rehydration optimization, texture mod"
+description: "This domain contains real-world application development case studies covering diverse food applications of Hongji Agriculture potato flakes and powders"
+## Explore on Hongji Agriculture Main Website
+
+- [Product Application](https://hjpotatoflakes.com/product-application/) — application overview
+- [Customized Ingredients](https://hjpotatoflakes.com/customized-potato-flakes-potato-powder/) — custom development program
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Application Development Records
 

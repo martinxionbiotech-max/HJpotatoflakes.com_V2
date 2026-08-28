@@ -1,5 +1,11 @@
 ---
-description: "This domain covers in-depth technical coverage of potato flake and powder manufacturing processes, drying technologies, moisture control, and color/browning management."
+description: "This domain covers in-depth technical coverage of potato flake and powder manufacturing processes, drying technologies, moisture control"
+## Explore on Hongji Agriculture Main Website
+
+- [Manufacturing Process](https://hjpotatoflakes.com/manufacturing-process/) — our full production flow
+- [Potato Flakes Product Page](https://hjpotatoflakes.com/hongji-potato-flakes/) — processing specifications
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Processing Technology
 

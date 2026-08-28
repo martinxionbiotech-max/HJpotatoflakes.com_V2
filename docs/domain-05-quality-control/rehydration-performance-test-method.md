@@ -1,5 +1,5 @@
 ---
-description: "Rehydration Performance Test Method — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Rehydration Performance Test Method — Potato flake and powder quality control methods"
 ---
 
 # Rehydration Performance Test Method
@@ -457,6 +457,13 @@ Each rehydration test report contains:
 ---
 
 *End of Document*
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- ASTM International. Standard test methods for particle size and bulk density.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Rehydration Performance Test Method." Hongji Agriculture Knowledge Center.
+
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: "Hongji Agriculture's **Customized Ingredient Development (CID)** program provides global food manufacturers with tailored potato-based ingredient solutions that match exact product specifications, reg"
+description: "How Hongji Agriculture develops customized potato flakes and powder ingredients — from requirement analysis and sampling to pilot and OEM/ODM delivery."
 ---
 
 # Customized Ingredient Development Process — Hongji Agriculture
@@ -381,6 +381,13 @@ To initiate a customized ingredient development project:
 *Hongji Agriculture Co., Ltd. | Zhangjiakou, Hebei, China | hjpotatoflakes.com*
 
 ---
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Customized Ingredient Development Process — Hongji Agriculture." Hongji Agriculture Knowledge Center.
+
 
 ---
 

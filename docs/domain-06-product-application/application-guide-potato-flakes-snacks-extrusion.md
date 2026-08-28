@@ -1,5 +1,5 @@
 ---
-description: "This technical guide provides comprehensive formulation and processing parameters for using Hongji Potato Flakes and Potato Powder in snack food manufacturing, with a focus on direct-expanded (extrude"
+description: "This technical guide provides comprehensive formulation and processing parameters for using Hongji Potato Flakes and Potato Powder in snack food manufacturing"
 ---
 
 # Application Guide: Potato Flakes & Powder in Snacks & Extrusion
@@ -309,6 +309,15 @@ Potato Powder (60 Mesh) is an excellent carrier for dry seasoning blends due to 
 *For technical support, custom formulation development, or extrusion trials, contact: tech@hjpotatoflakes.com*
 
 ---
+
+## References
+
+- U.S. FDA. Code of Federal Regulations, Title 21 — Food and Drugs.
+- Codex Alimentarius. General Principles of Food Hygiene.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Instant Mashed Potato — Formulation & Processing." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Potato Flakes in Bakery Products." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Potato Flakes & Powder in Snacks & Extrusion." Hongji Agriculture Knowledge Center.
+
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record 008: Pet Food - Palatability Customization Formula — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record 008: Pet Food - Palatability Customization Formula — Industrial application development records for potato flakes and powder"
 ---
 
 # Application Development Record 008: Pet Food — Palatability Customization Formula
@@ -418,6 +418,14 @@ Both formulations offer a positive return on investment when positioned as "prem
 - **Custom-formulation services:** Adjust palatant ratio, fat type, application rate
 - **Documentation:** AAFCO ingredient definition certificates, nutritional analysis, palatability test reports, digestibility data, CoA for every lot
 - **Regulatory support:** FDA GRAS determination assistance, AAFCO label review
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- FSSC 22000. Food Safety System Certification standard.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record 008: Pet Food — Palatability Customization Formula." Hongji Agriculture Knowledge Center.
+
 
 ---
 

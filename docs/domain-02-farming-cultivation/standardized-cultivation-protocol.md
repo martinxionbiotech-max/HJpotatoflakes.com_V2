@@ -1,5 +1,5 @@
 ---
-description: "Standardized Cultivation Protocol for Industrial Potato Processing — Standardized potato farming and cultivation SOPs — precision agriculture, harvest timing optimization, raw material grading, and sustainable farming practices."
+description: "Standardized Cultivation Protocol for Industrial Potato Processing — Standardized potato farming and cultivation SOPs"
 ---
 
 # Standardized Cultivation Protocol for Industrial Potato Processing

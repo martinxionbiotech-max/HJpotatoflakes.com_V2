@@ -1,5 +1,5 @@
 ---
-description: "Raw Potato Material Quality Grading System — Standardized potato farming and cultivation SOPs — precision agriculture, harvest timing optimization, raw material grading, and sustainable farming practices."
+description: "Raw Potato Material Quality Grading System — Standardized potato farming and cultivation SOPs"
 ---
 
 # Raw Potato Material Quality Grading System

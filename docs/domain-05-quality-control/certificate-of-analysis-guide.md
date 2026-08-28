@@ -1,5 +1,5 @@
 ---
-description: "Certificate of Analysis - Guide and Interpretation — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Certificate of Analysis - Guide and Interpretation — Potato flake and powder quality control methods"
 ---
 
 # Certificate of Analysis — Guide and Interpretation
@@ -262,6 +262,15 @@ Hongji Agriculture stands behind every COA we issue. If a lot fails to meet the 
 *End of Document*
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- ASTM International. Standard test methods for particle size and bulk density.
+- FSSC 22000. Food Safety System Certification standard.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Certificate of Analysis — Guide and Interpretation." Hongji Agriculture Knowledge Center.
+
 
 ---
 

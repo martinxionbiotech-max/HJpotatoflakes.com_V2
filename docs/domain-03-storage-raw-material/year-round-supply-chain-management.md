@@ -1,5 +1,5 @@
 ---
-description: "Year-Round Supply Chain Management for Processing Potatoes — Potato storage technology and raw material quality preservation — controlled atmosphere, sprout inhibition, sugar dynamics, and year-round supply chain management."
+description: "Year-Round Supply Chain Management for Processing Potatoes — Potato storage technology and raw material quality preservation"
 ---
 
 # Year-Round Supply Chain Management for Processing Potatoes
@@ -382,6 +382,12 @@ Document maintained by: Supply Chain Management Division
 Last revised: July 2026
 
 ---
+
+## References
+
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Year-Round Supply Chain Management for Processing Potatoes." Hongji Agriculture Knowledge Center.
+
 
 ---
 

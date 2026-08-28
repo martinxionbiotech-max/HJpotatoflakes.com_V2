@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record: Extruded Snack Bulk Density Control via Twin-Screw Extrusion — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record: Extruded Snack Bulk Density Control via Twin-Screw Extrusion"
 ---
 
 # Application Development Record: Extruded Snack Bulk Density Control via Twin-Screw Extrusion
@@ -385,6 +385,12 @@ The optimal conditions — **feed moisture 18%, screw speed 350 rpm, and tempera
 | Gas flushing | Nitrogen, residual O₂ ≤ 3% |
 | Shelf life | 9 months at 25°C, 6 months at 35°C (tropical) |
 | Storage | < 65% RH, no direct sunlight |
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record: Extruded Snack Bulk Density Control via Twin-Screw Extrusion." Hongji Agriculture Knowledge Center.
+
 
 ---
 

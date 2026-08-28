@@ -1,5 +1,5 @@
 ---
-description: "Potato Varieties for Industrial Processing: Atlantic, Shepody, and Russet Burbank — Potato variety breeding science for industrial processing — cultivar selection, dry matter analysis, seed breeding methodology, and processing performance comparison."
+description: "Potato Varieties for Industrial Processing: Atlantic, Shepody, and Russet Burbank — Potato variety breeding science for industrial processing"
 ---
 
 # Potato Varieties for Industrial Processing: Atlantic, Shepody, and Russet Burbank
@@ -254,6 +254,13 @@ The recommended blending ratios for flake production at Hongji Agriculture facil
 *For technical inquiries, contact: technical@hjpotatoflakes.com*
 
 *This document is intended for professional B2B procurement and technical teams. Data represents typical values under standard agronomic conditions in the Hebei/Inner Mongolia growing region and may vary by season and location.*
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Potato Varieties for Industrial Processing: Atlantic, Shepody, and Russet Burbank." Hongji Agriculture Knowledge Center.
+
 
 ---
 

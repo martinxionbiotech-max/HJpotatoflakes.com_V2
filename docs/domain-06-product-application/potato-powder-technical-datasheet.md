@@ -1,5 +1,5 @@
 ---
-description: "Hongji Agriculture's **Potato Powder (60 Mesh)** is a finely milled dehydrated potato product produced from high-solids processing potato varieties including Atlantic, Shepody, and Russet Burbank. Unl"
+description: "Technical datasheet for Hongji Agriculture 60-mesh potato powder — physicochemical, microbiological, particle-size, and rehydration specs for B2B manufacturers."
 ---
 
 # Hongji Potato Powder (60 Mesh) — Technical Datasheet
@@ -451,6 +451,16 @@ Air Classification → Sieving (60 Mesh) → Metal Detection → Packaging
 **Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- ICMSF. Microorganisms in Foods — Sampling for Microbiological Analysis.
+- FSSC 22000. Food Safety System Certification standard.
+
 
 ---
 

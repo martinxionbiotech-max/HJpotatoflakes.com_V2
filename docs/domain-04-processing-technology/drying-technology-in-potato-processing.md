@@ -1,5 +1,5 @@
 ---
-description: "Drying Technology in Potato Processing: Drum, Spray, and Freeze Drying — Potato flake and powder processing technology — drum drying, 60-mesh milling, moisture control, browning prevention, and critical control points."
+description: "Drying Technology in Potato Processing: Drum, Spray, and Freeze Drying — Potato flake and powder processing technology"
 ---
 
 # Drying Technology in Potato Processing: Drum, Spray, and Freeze Drying
@@ -332,6 +332,13 @@ Microwave energy (915 MHz or 2450 MHz) combined with vacuum (5–20 kPa) enables
 *Document prepared by the Technical Documentation Team, Hongji Agriculture. For B2B technical inquiries: technical@hjpotatoflakes.com.*
 
 ---
+
+## References
+
+- Fellows, P. Food Processing Technology: Principles and Practice. Woodhead Publishing.
+- AOAC International. Official Methods of Analysis, 21st edition.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Drying Technology in Potato Processing: Drum, Spray, and Freeze Drying." Hongji Agriculture Knowledge Center.
+
 
 ---
 

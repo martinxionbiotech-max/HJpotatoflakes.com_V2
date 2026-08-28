@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record 007: Baby Food Ingredient - Particle Refinement Processing — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record 007: Baby Food Ingredient - Particle Refinement Processing"
 ---
 
 # Application Development Record 007: Baby Food Ingredient — Particle Refinement Processing
@@ -342,6 +342,15 @@ Microbiological levels remained well within EU infant food limits. The slight in
 - **Trial support:** On-site visit by Hongji applications engineer for first commercial production
 - **Regulatory support:** EU organic documentation, infant food compliance declarations, heavy metal test reports
 - **Customization:** Adjustable d50 target within 120–180 µm upon request
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- BRCGS Global Standard for Food Safety.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record 007: Baby Food Ingredient — Particle Refinement Processing." Hongji Agriculture Knowledge Center.
+
 
 ---
 

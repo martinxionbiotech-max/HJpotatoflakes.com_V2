@@ -1,5 +1,5 @@
 ---
-description: "Variety Comparison and Processing Performance Matrix — Potato variety breeding science for industrial processing — cultivar selection, dry matter analysis, seed breeding methodology, and processing performance comparison."
+description: "Variety Comparison and Processing Performance Matrix — Potato variety breeding science for industrial processing"
 ---
 
 # Variety Comparison and Processing Performance Matrix
@@ -470,6 +470,13 @@ Rank Order:
 *Data compiled from Hongji Agriculture internal trials (2020–2025), USDA-ARS variety database, EAPR trial records, and published literature. Values represent typical performance under Hebei/Inner Mongolia growing conditions unless otherwise noted.*
 
 *© Hongji Agriculture Technology Co., Ltd. — All rights reserved*
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Variety Comparison and Processing Performance Matrix." Hongji Agriculture Knowledge Center.
+
 
 ---
 

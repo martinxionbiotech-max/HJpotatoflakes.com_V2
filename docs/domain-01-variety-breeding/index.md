@@ -1,5 +1,11 @@
 ---
-description: "This domain covers the fundamental knowledge on potato varieties optimized for industrial potato flake and powder processing. Topics include cultivar selection, seed breeding methodologies, and compar"
+description: "This domain covers the fundamental knowledge on potato varieties optimized for industrial potato flake and powder processing"
+## Explore on Hongji Agriculture Main Website
+
+- [Potato Flakes Product Page](https://hjpotatoflakes.com/hongji-potato-flakes/) — our flagship product and variety specifications
+- [About Hongji Agriculture](https://hjpotatoflakes.com/about-hongji-agriculture/) — our breeding program and facilities
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Potato Variety & Breeding Science
 

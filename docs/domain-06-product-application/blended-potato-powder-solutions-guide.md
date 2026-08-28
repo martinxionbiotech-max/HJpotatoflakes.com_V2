@@ -1,5 +1,5 @@
 ---
-description: "This technical guide provides comprehensive formulation methodologies and application parameters for creating blended potato powder systems — formulations in which Hongji Potato Powder (and/or Potato"
+description: "This technical guide provides comprehensive formulation methodologies and application parameters for creating blended potato powder systems"
 ---
 
 # Blended Potato Powder Solutions — Technical Formulation Guide
@@ -430,6 +430,13 @@ Blends must be labeled for any of the major allergens that may be present:
 *Visit our applications lab in Zhangjiakou for collaborative blend development.*
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Blended Potato Powder Solutions — Technical Formulation Guide." Hongji Agriculture Knowledge Center.
+
 
 ---
 

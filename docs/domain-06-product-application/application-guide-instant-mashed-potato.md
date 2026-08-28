@@ -1,5 +1,5 @@
 ---
-description: "This technical guide provides detailed formulation, reconstitution parameters, and process optimization for instant mashed potato products manufactured using Hongji Potato Flakes. The guide covers foo"
+description: "This technical guide provides detailed formulation, reconstitution parameters, and process optimization for instant mashed potato products manufactured using"
 ---
 
 # Application Guide: Instant Mashed Potato — Formulation & Processing
@@ -335,6 +335,13 @@ For retail products where the consumer may use tap-temperature water, a modified
 *For formulation assistance, trials, or custom product development, contact: tech@hjpotatoflakes.com*
 
 ---
+
+## References
+
+- U.S. FDA. Code of Federal Regulations, Title 21 — Food and Drugs.
+- Codex Alimentarius. General Principles of Food Hygiene.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Instant Mashed Potato — Formulation & Processing." Hongji Agriculture Knowledge Center.
+
 
 ---
 

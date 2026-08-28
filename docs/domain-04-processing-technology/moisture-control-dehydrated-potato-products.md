@@ -1,5 +1,5 @@
 ---
-description: "Moisture Control in Dehydrated Potato Products — Potato flake and powder processing technology — drum drying, 60-mesh milling, moisture control, browning prevention, and critical control points."
+description: "Moisture Control in Dehydrated Potato Products — Potato flake and powder processing technology"
 ---
 
 # Moisture Control in Dehydrated Potato Products
@@ -348,6 +348,12 @@ For advanced moisture control, a model predictive controller (MPC) uses the dryi
 *Document prepared by the Technical Documentation Team, Hongji Agriculture. For B2B technical inquiries: technical@hjpotatoflakes.com.*
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Moisture Control in Dehydrated Potato Products." Hongji Agriculture Knowledge Center.
+
 
 ---
 

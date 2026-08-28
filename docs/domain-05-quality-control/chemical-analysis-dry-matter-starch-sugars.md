@@ -1,5 +1,5 @@
 ---
-description: "Chemical Analysis: Dry Matter, Starch, and Sugars — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Chemical Analysis: Dry Matter, Starch, and Sugars — Potato flake and powder quality control methods"
 ---
 
 # Chemical Analysis: Dry Matter, Starch, and Sugars
@@ -620,6 +620,16 @@ All results are recorded in the Laboratory Information Management System (LIMS) 
 ---
 
 *End of Document*
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- ASTM International. Standard test methods for particle size and bulk density.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+
 
 ---
 

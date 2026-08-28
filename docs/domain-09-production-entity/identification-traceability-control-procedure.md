@@ -1,5 +1,5 @@
 ---
-description: "Identification and Traceability Control Procedure — Hongji Agriculture potato flake production. Inspection status categories, product identification, and 3-year traceability record retention."
+description: "Identification and traceability control procedure for potato flake production — inspection status categories, product identification, and record retention."
 ---
 
 # Identification & Traceability Control Procedure
@@ -100,3 +100,10 @@ The production workshop uses tags, labels, and records to indicate the inspectio
 ---
 
 *This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## References
+
+- ISO 22000:2018. Food Safety Management Systems.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969).
+- Hongji Agriculture Technology Co., Ltd. 2026. "Critical Control Points in Potato Flakes Production." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Identification & Traceability Control Procedure." Hongji Agriculture Knowledge Center.

@@ -1,5 +1,5 @@
 ---
-description: "Quality & Food Safety Management Manual — Hongji Agriculture Co., Ltd. Company profile, quality policy, objectives, organizational scope, and certification framework (ISO 9001, ISO 22000, FSSC 22000)."
+description: "Quality and food safety management manual — Hongji Agriculture quality policy, ISO 9001/22000/FSSC 22000 framework, and organizational responsibilities."
 ---
 
 # Quality & Food Safety Management Manual
@@ -65,3 +65,9 @@ The management manual is the programmatic document of the company's management s
 ---
 
 *This archive is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- FSSC 22000. Food Safety System Certification standard.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Quality & Food Safety Management Manual." Hongji Agriculture Knowledge Center.

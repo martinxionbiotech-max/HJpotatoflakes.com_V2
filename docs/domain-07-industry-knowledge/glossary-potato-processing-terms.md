@@ -1,5 +1,5 @@
 ---
-description: "Glossary of Potato Processing Terms (中英对照行业术语表) — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "Glossary of Potato Processing Terms (中英对照行业术语表) — Global potato processing industry knowledge"
 ---
 
 # Glossary of Potato Processing Terms (中英对照行业术语表)
@@ -405,6 +405,15 @@ This glossary contains over 200 industry-specific terms covering potato processi
 **Contact:** [hjpotatoflakes.com](https://hjpotatoflakes.com) / International Trade Department
 
 ---
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- FSSC 22000. Food Safety System Certification standard.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- BRCGS Global Standard for Food Safety.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Glossary of Potato Processing Terms (中英对照行业术语表)." Hongji Agriculture Knowledge Center.
+
 
 ---
 

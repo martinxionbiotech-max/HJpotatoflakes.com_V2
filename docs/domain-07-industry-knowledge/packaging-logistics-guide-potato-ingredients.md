@@ -1,5 +1,5 @@
 ---
-description: "Packaging & Logistics Guide for Potato Flakes & Potato Powder — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "Packaging & Logistics Guide for Potato Flakes & Potato Powder — Global potato processing industry knowledge"
 ---
 
 # Packaging & Logistics Guide for Potato Flakes & Potato Powder
@@ -372,6 +372,15 @@ Before shipment, verify the following:
 *For logistical support and container booking inquiries, contact Hongji Agriculture Export Logistics Department.*
 
 ---
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- U.S. FDA. Code of Federal Regulations, Title 21 — Food and Drugs.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Packaging & Logistics Guide for Potato Flakes & Potato Powder." Hongji Agriculture Knowledge Center.
+
 
 ---
 

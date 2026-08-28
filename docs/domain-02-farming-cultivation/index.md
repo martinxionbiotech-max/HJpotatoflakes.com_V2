@@ -1,5 +1,11 @@
 ---
-description: "This domain covers standardized cultivation protocols, sustainable farming practices, harvest timing optimization, and raw material quality grading systems for industrial potato processing."
+description: "This domain covers standardized cultivation protocols, sustainable farming practices, harvest timing optimization"
+## Explore on Hongji Agriculture Main Website
+
+- [Sustainability](https://hjpotatoflakes.com/sustainability/) — our sustainable farming commitments
+- [About Hongji Agriculture](https://hjpotatoflakes.com/about-hongji-agriculture/) — our cultivation operations
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Farming & Cultivation Management
 

@@ -1,5 +1,5 @@
 ---
-description: "Regulatory Compliance & Food Safety Standards for Exporting Potato Flakes & Powder — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "Regulatory Compliance & Food Safety Standards for Exporting Potato Flakes & Powder — Global potato processing industry knowledge"
 ---
 
 # Regulatory Compliance & Food Safety Standards for Exporting Potato Flakes & Powder
@@ -497,6 +497,16 @@ The Codex and all major regulatory frameworks require:
 *For specific compliance inquiries, contact Hongji Agriculture Quality Assurance & Regulatory Affairs Department.*
 
 ---
+
+## References
+
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- FSSC 22000. Food Safety System Certification standard.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- BRCGS Global Standard for Food Safety.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Regulatory Compliance & Food Safety Standards for Exporting Potato Flakes & Powder." Hongji Agriculture Knowledge Center.
+
 
 ---
 

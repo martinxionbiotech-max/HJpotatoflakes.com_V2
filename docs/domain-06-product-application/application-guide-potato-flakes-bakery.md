@@ -1,5 +1,5 @@
 ---
-description: "This technical application guide provides comprehensive formulation and processing parameters for incorporating Hongji Potato Flakes into bakery products including bread, cakes, pastries, cookies, and"
+description: "This technical application guide provides comprehensive formulation and processing parameters for incorporating Hongji Potato Flakes into bakery products incl"
 ---
 
 # Application Guide: Potato Flakes in Bakery Products
@@ -296,6 +296,14 @@ Potato Flakes require significantly more water than wheat flour. Use the followi
 *For further technical support or custom formulation development, contact: tech@hjpotatoflakes.com*
 
 ---
+
+## References
+
+- U.S. FDA. Code of Federal Regulations, Title 21 — Food and Drugs.
+- Codex Alimentarius. General Principles of Food Hygiene.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Instant Mashed Potato — Formulation & Processing." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Potato Flakes in Bakery Products." Hongji Agriculture Knowledge Center.
+
 
 ---
 

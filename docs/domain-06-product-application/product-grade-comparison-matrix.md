@@ -1,5 +1,5 @@
 ---
-description: "Hongji Agriculture produces a comprehensive range of dehydrated potato products covering multiple grades and specifications to meet the diverse needs of global food manufacturers. This document provid"
+description: "Hongji Agriculture produces a comprehensive range of dehydrated potato products covering multiple grades and specifications to meet the diverse needs of globa"
 ---
 
 # Hongji Agriculture — Product Grade Comparison Matrix
@@ -246,6 +246,16 @@ START: What is your target application?
 *For specification inquiries or samples, contact: tech@hjpotatoflakes.com*
 
 ---
+
+## References
+
+- U.S. FDA. Code of Federal Regulations, Title 21 — Food and Drugs.
+- Codex Alimentarius. General Principles of Food Hygiene.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Instant Mashed Potato — Formulation & Processing." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Potato Flakes in Bakery Products." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Potato Flakes & Powder in Snacks & Extrusion." Hongji Agriculture Knowledge Center.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Guide: Potato Flakes & Powder in Soups, Sauces & Prepared Meals." Hongji Agriculture Knowledge Center.
+
 
 ---
 

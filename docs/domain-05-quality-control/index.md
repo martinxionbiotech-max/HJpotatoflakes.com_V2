@@ -1,5 +1,5 @@
 ---
-description: "This domain covers the comprehensive quality assurance framework for potato flake and powder products, including physical, chemical, and microbiological testing methods, rehydration performance evalua"
+description: "This domain covers the comprehensive quality assurance framework for potato flake and powder products, including physical, chemical"
 ---
 
 # Quality Control & Testing
@@ -23,6 +23,13 @@ This domain covers the comprehensive quality assurance framework for potato flak
 | 5 | [Rehydration Performance Test Method](rehydration-performance-test-method.md) | Standardized rehydration ratio, texture, and water absorption test protocols |
 | 6 | [Certificate of Analysis Guide](certificate-of-analysis-guide.md) | COA structure, parameter interpretation, buyer verification guide |
 | 7 | [Batch Traceability System](batch-traceability-system.md) | Full-chain traceability from seed to finished product shipment |
+
+## Explore on Hongji Agriculture Main Website
+
+- [Quality Assurance](https://hjpotatoflakes.com/quality-assurance/) — our QA systems and standards
+- [HACCP Program](https://hjpotatoflakes.com/haccp/) — hazard analysis and critical control points
+- [Certificates](https://hjpotatoflakes.com/certificates/) — our certifications
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
 
 ---
 

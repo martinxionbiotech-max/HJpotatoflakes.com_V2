@@ -1,5 +1,5 @@
 ---
-description: "Export Documentation & International Trade Guide for Potato Flakes & Powder — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "Export Documentation & International Trade Guide for Potato Flakes & Powder — Global potato processing industry knowledge"
 ---
 
 # Export Documentation & International Trade Guide for Potato Flakes & Powder
@@ -288,6 +288,12 @@ The global trade documentation landscape is modernizing rapidly:
 *This guide reflects standard practices for exporting dehydrated potato products from China as of July 2026. Import requirements may change. Exporters should verify current requirements with their local GAC office and the importing country's customs authority before each shipment.*
 
 ---
+
+## References
+
+- BRCGS Global Standard for Food Safety.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Export Documentation & International Trade Guide for Potato Flakes & Powder." Hongji Agriculture Knowledge Center.
+
 
 ---
 

@@ -1,5 +1,10 @@
 ---
-description: "This domain covers potato storage facility design and operation principles, year-round supply chain management strategies, and raw material quality preservation during storage."
+description: "This domain covers potato storage facility design and operation principles, year-round supply chain management strategies"
+## Explore on Hongji Agriculture Main Website
+
+- [Manufacturing Process](https://hjpotatoflakes.com/manufacturing-process/) — storage and raw material handling
+- [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
 ---
 # Storage & Raw Material Management
 

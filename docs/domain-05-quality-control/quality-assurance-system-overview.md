@@ -1,5 +1,5 @@
 ---
-description: "Quality Assurance System Overview — Potato flake and powder quality control methods — physical, chemical, and microbiological testing, rehydration performance evaluation, COA interpretation, and batch traceability."
+description: "Quality Assurance System Overview — Potato flake and powder quality control methods"
 ---
 
 # Quality Assurance System Overview
@@ -211,6 +211,15 @@ Tel: +86 400-633-0616
 *End of Document*
 
 ---
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- FSSC 22000. Food Safety System Certification standard.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Quality Assurance System Overview." Hongji Agriculture Knowledge Center.
+
 
 ---
 

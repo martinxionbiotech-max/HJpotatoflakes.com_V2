@@ -1,5 +1,5 @@
 ---
-description: "Potato Flake Manufacturing Process: From Whole Potato to Premium Dehydrated Flakes — Potato flake and powder processing technology — drum drying, 60-mesh milling, moisture control, browning prevention, and critical control points."
+description: "Potato Flake Manufacturing Process: From Whole Potato to Premium Dehydrated Flakes — Potato flake and powder processing technology"
 ---
 
 # Potato Flake Manufacturing Process: From Whole Potato to Premium Dehydrated Flakes
@@ -373,6 +373,14 @@ The production line is controlled via a distributed control system (DCS) with th
 *Document prepared by the Technical Documentation Team, Hongji Agriculture. For B2B technical inquiries: technical@hjpotatoflakes.com.*
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Potato Flake Manufacturing Process: From Whole Potato to Premium Dehydrated Flakes." Hongji Agriculture Knowledge Center.
+
 
 ---
 

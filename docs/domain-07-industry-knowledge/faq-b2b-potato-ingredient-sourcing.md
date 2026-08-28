@@ -1,5 +1,5 @@
 ---
-description: "FAQ: B2B Industrial Sourcing of Potato Flakes & Powder — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "FAQ: B2B Industrial Sourcing of Potato Flakes & Powder — Global potato processing industry knowledge"
 ---
 
 # FAQ: B2B Industrial Sourcing of Potato Flakes & Powder
@@ -393,6 +393,16 @@ For further inquiries, technical support, or to place an order:
 *This FAQ is updated as of July 2026. Specifications and commercial terms are subject to change. Please confirm current terms with the Commercial Department at the time of order placement.*
 
 ---
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- FSSC 22000. Food Safety System Certification standard.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- BRCGS Global Standard for Food Safety.
+- Hongji Agriculture Technology Co., Ltd. 2026. "FAQ: B2B Industrial Sourcing of Potato Flakes & Powder." Hongji Agriculture Knowledge Center.
+
 
 ---
 

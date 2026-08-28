@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record 006: Seasoned Snack Powder - Flavor Carrier Base Development — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record 006: Seasoned Snack Powder - Flavor Carrier Base Development"
 ---
 
 # Application Development Record 006: Seasoned Snack Powder — Flavor Carrier Base Development
@@ -359,6 +359,13 @@ All variants met the free-flow specification with angle of repose <42°, indicat
 - **Technical support:** Application recipe optimization (coating parameters, oil type recommendations)
 - **Customization:** Flavor intensity adjustments, alternative oil options (palm olein, coconut oil), color adjustment available
 - **Documentation:** Full nutritional specification, ingredient declarations, Halal certificate, SDS, allergen declaration (free from top-14 allergens)
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) — HACCP principles.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record 006: Seasoned Snack Powder — Flavor Carrier Base Development." Hongji Agriculture Knowledge Center.
+
 
 ---
 

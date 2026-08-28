@@ -1,5 +1,5 @@
 ---
-description: "Raw Material Quality Preservation During Storage — Potato storage technology and raw material quality preservation — controlled atmosphere, sprout inhibition, sugar dynamics, and year-round supply chain management."
+description: "Raw Material Quality Preservation During Storage — Potato storage technology and raw material quality preservation"
 ---
 
 # Raw Material Quality Preservation During Storage
@@ -430,6 +430,13 @@ Document maintained by: Quality Assurance Division
 Last revised: July 2026
 
 ---
+
+## References
+
+- USDA — Potato Storage: A Guide for Commercial Growers.
+- CIP (International Potato Center) — postharvest management of potato.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Raw Material Quality Preservation During Storage." Hongji Agriculture Knowledge Center.
+
 
 ---
 

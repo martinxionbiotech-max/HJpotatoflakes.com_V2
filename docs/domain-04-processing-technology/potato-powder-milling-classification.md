@@ -1,5 +1,5 @@
 ---
-description: "Potato Powder Milling and Classification Technology — Potato flake and powder processing technology — drum drying, 60-mesh milling, moisture control, browning prevention, and critical control points."
+description: "Potato Powder Milling and Classification Technology — Potato flake and powder processing technology"
 ---
 
 # Potato Powder Milling and Classification Technology
@@ -328,6 +328,14 @@ Milling heat (from mechanical energy dissipation) can cause protein denaturation
 *Document prepared by the Technical Documentation Team, Hongji Agriculture. For B2B technical inquiries: technical@hjpotatoflakes.com.*
 
 ---
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- ASTM International. Standard test methods for particle size and bulk density.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Potato Powder Milling and Classification Technology." Hongji Agriculture Knowledge Center.
+
 
 ---
 

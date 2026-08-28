@@ -1,5 +1,5 @@
 ---
-description: "Application Development Record: Industrial Potato Cream Soup Viscosity and Freeze-Thaw Stability — Industrial application development records for potato flakes and powder — gluten-free baking, meat binding, pet food, cream soups, and extrusion snacks."
+description: "Application Development Record: Industrial Potato Cream Soup Viscosity and Freeze-Thaw Stability"
 ---
 
 # Application Development Record: Industrial Potato Cream Soup Viscosity and Freeze-Thaw Stability
@@ -428,6 +428,12 @@ This formulation is recommended for immediate scale-up and industrial qualificat
 | Shelf life (frozen) | 12 months at −20°C |
 | Thawing instructions | Refrigerator (4°C, 16 h) or microwave (600 W, 3 min per 200 g) |
 | After thawing storage | 48 h at 4°C |
+
+## References
+
+- AOAC International. Official Methods of Analysis, 21st edition. Gaithersburg, MD.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Application Development Record: Industrial Potato Cream Soup Viscosity and Freeze-Thaw Stability." Hongji Agriculture Knowledge Center.
+
 
 ---
 

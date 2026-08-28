@@ -1,5 +1,5 @@
 ---
-description: "China vs. Global Quality Standards: Comparative Analysis for Potato Flakes & Powder — Global potato processing industry knowledge — market reports, regulatory compliance (GB/FDA/EU), export trade documentation, packaging logistics, and technical FAQ."
+description: "China vs. Global Quality Standards: Comparative Analysis for Potato Flakes & Powder — Global potato processing industry knowledge"
 ---
 
 # China vs. Global Quality Standards: Comparative Analysis for Potato Flakes & Powder
@@ -210,6 +210,16 @@ International harmonization of potato product standards is progressing through s
 *This document provides a technical comparison of standards across jurisdictions. It is not a substitute for legal regulatory advice. Product specifications and compliance requirements should be verified with the buyer's regulatory team and applicable local regulations at the time of shipment.*
 
 ---
+
+## References
+
+- ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- U.S. FDA. Code of Federal Regulations, Title 21 — Food and Drugs.
+- European Commission. Regulation (EC) No 1881/2006 — setting maximum levels for certain contaminants in foodstuffs.
+- Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969) and commodity standards.
+- FSSC 22000. Food Safety System Certification standard.
+
 
 ---
 

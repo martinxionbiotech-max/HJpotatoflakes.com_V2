@@ -1,5 +1,5 @@
 ---
-description: "Atlantic Potato: The Gold Standard for Potato Flake Manufacturing — Potato variety breeding science for industrial processing — cultivar selection, dry matter analysis, seed breeding methodology, and processing performance comparison."
+description: "Atlantic Potato: The Gold Standard for Potato Flake Manufacturing — Potato variety breeding science for industrial processing"
 ---
 
 # Atlantic Potato: The Gold Standard for Potato Flake Manufacturing
@@ -482,6 +482,13 @@ Hongji Agriculture's integrated seed-to-flake value chain ensures that Atlantic 
 *This white paper is prepared for professional B2B audiences. Data reflects typical performance under Hebei/Inner Mongolia agronomic conditions. Actual results may vary by season and location.*
 
 *© Hongji Agriculture Technology Co., Ltd. — All rights reserved*
+
+## References
+
+- USDA Agricultural Research Service — potato breeding and variety evaluation programs.
+- CIP (International Potato Center) — potato variety and agronomy research.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Atlantic Potato: The Gold Standard for Potato Flake Manufacturing." Hongji Agriculture Knowledge Center.
+
 
 ---
 

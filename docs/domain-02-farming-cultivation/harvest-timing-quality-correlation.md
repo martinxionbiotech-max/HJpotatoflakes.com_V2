@@ -1,5 +1,5 @@
 ---
-description: "Harvest Timing and Raw Material Quality Correlation for Processing Potatoes — Standardized potato farming and cultivation SOPs — precision agriculture, harvest timing optimization, raw material grading, and sustainable farming practices."
+description: "Harvest Timing and Raw Material Quality Correlation for Processing Potatoes — Standardized potato farming and cultivation SOPs"
 ---
 
 # Harvest Timing and Raw Material Quality Correlation for Processing Potatoes

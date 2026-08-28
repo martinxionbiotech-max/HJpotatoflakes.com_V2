@@ -1,5 +1,5 @@
 ---
-description: "Allergen Management Policy — Potato flake production allergen identification and control measures per China's GB 23779-2009 and GB 7718-2011 eight major food allergen categories."
+description: "Hongji Agriculture allergen management policy — control of China's eight major food allergen categories in potato flake and powder production, per GB 23779."
 ---
 
 # Allergen Management Policy
@@ -95,6 +95,12 @@ This policy applies to all departments within the company and takes effect from 
 ---
 
 *End of Document*
+
+## References
+
+- National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
+- Hongji Agriculture Technology Co., Ltd. 2026. "Allergen Management Policy." Hongji Agriculture Knowledge Center.
+
 
 ---
 
