@@ -110,7 +110,7 @@ Air Classification → Sieving (60 Mesh) → Metal Detection → Packaging
 | Ash | % (w/w) | ≤ 4.5 (dwb) | AOAC 923.03 |
 | Fat (crude) | % (w/w) | ≤ 0.5 (dwb) | AOAC 922.06 (Soxhlet, petroleum ether) |
 | Crude Fiber | % (w/w) | ≤ 2.0 (dwb) | AOAC 962.09 |
-| Reducing Sugars | % (w/w) | ≤ 1.5 (dwb) | DNS colorimetric method |
+| Reducing Sugars | % (w/w) | ≤ 3.0 (dwb) | DNS colorimetric method |
 | Total Sugars | % (w/w) | ≤ 3.0 (dwb) | DNS colorimetric method |
 | pH (10% w/w slurry in distilled H₂O) | — | 5.0 – 6.5 | AOAC 981.12 |
 | SO₂ (residual, naturally occurring) | mg/kg | ≤ 10 | Monier-Williams distillation |
