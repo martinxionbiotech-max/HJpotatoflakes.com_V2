@@ -3,6 +3,24 @@ description: "Rehydration Performance Test Method — Potato flake and powder qu
 ---
 
 # Rehydration Performance Test Method
+## Short Answer
+
+Rehydration performance is measured on the **standard reference method** — a 2.50 ± 0.01 g sample rehydrated at **70 °C for 5 minutes**, then centrifuged at **1000 × g for 45 seconds** — and reported as a **rehydration ratio (g water per g dry product)** together with a texture assessment. The guaranteed product specification is **7.5:1 for potato flakes** and **6.0:1 for potato powder**. A cold-rehydration variant (25 °C, 15 minutes, 1000 × g for 60 seconds) applies to cold-mix applications such as salad dressings, and a sensory variant without centrifugation is used for panel texture testing.
+
+## Procurement Considerations
+
+- **Agree the test conditions before agreeing the number.** The same flakes give different ratios at 70 °C and at 25 °C, and with or without centrifugation.
+- **Specify the ratio your process needs,** not the highest available: very high ratios usually mean finer particles and faster hydration — which can also mean more fines and dusting in your plant.
+- **Test in your own equipment.** A ratio predicts behaviour; mixing geometry, water temperature and agitation in your line decide the result.
+- **Ask how the water absorption index (WAI)** is reported if your application measures water uptake inside a formulated system.
+- **Treat a ratio below the guaranteed figure as a specification deviation,** not an inconvenience — it is a contractual parameter.
+
+## Related documents
+
+- [Physical Specifications](physical-specifications-particle-size-bulk-density.md)
+- [Chemical Analysis: Dry Matter, Starch and Sugars](chemical-analysis-dry-matter-starch-sugars.md)
+- [Potato Flakes Technical Datasheet](../domain-06-product-application/potato-flakes-technical-datasheet.md)
+
 
 **Document Code:** HJ-QA-025  
 **Version:** 3.0  

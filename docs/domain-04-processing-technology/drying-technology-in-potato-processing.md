@@ -3,6 +3,24 @@ description: "Drying Technology in Potato Processing: Drum, Spray, and Freeze Dr
 ---
 
 # Drying Technology in Potato Processing: Drum, Spray, and Freeze Drying
+## Short Answer
+
+Three drying routes are used for potato ingredients, and they produce different products rather than substitutes. **Drum drying** (conductive, thin film on a heated rotating drum) is the route HONGJI uses for standard potato flakes and, after milling, potato powder — typical 6–8% moisture against a guaranteed **≤ 9.0%**, loose bulk density 350–500 g/L, rehydration ratio **7.5:1**, colour L* 85–92. **Spray drying** produces a finer, denser powder from a slurry and is used for specialised powder grades. **Freeze drying** gives a very light, porous product (2–4% moisture, 0.15–0.30 g/cm³) at 3–5× the energy of drum drying, and is chosen when near-instant rehydration or premium sensory quality justifies the cost.
+
+## Procurement Considerations
+
+- **Buy the drying route you actually need, not "the best one".** Freeze-dried material rehydrates in seconds but costs multiple times more per tonne and is far bulkier to ship; drum-dried flakes are the industrial default for mash, bakery and extrusion.
+- **Bulk density is a freight decision.** Light, porous product means you pay for air: check loose density against your container and silo assumptions.
+- **Ask which route a quoted grade comes from** — the same nominal powder can come from milling drum-dried flakes or from spray drying, with different dispersion behaviour.
+- **For freeze-dried grades, confirm packaging:** porous product picks up moisture quickly and needs a high-barrier or N₂-flushed pack.
+- **Energy and carbon:** if you report scope-3 emissions, drying route is one of the largest contributors and worth a documented figure from the supplier.
+
+## Related documents
+
+- [Potato Flake Manufacturing Process](potato-flake-manufacturing-process.md)
+- [Moisture Control in Dehydrated Potato Products](moisture-control-dehydrated-potato-products.md)
+- [Potato Powder Milling & Classification](potato-powder-milling-classification.md)
+
 
 **Document Code:** HJ-TD-PT-003  
 **Version:** 1.0  

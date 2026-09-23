@@ -3,6 +3,24 @@ description: "Physical Specifications: Particle Size, Bulk Density, and Color Me
 ---
 
 # Physical Specifications: Particle Size, Bulk Density, and Color Measurement
+## Short Answer
+
+Physical specifications for potato flakes and powder are established by **sieve analysis** (ASTM E11 / ISO 3310-1 designations — No. 60 = **250 µm**), expressed as a particle-size distribution (D10/D50/D90) or as a percentage passing a named sieve; by **bulk density**, measured loose and after tapping (Scott volumeter or tapped-density method), which governs packaging, freight and volumetric dosing; and by **instrumental colour** in CIELAB (`L*`, `a*`, `b*`, D65/10°). Flakes are additionally described by their as-produced size (3–5 mm) and their delivered sieve distribution (0.25–3.35 mm). Black-spec counts and SPC limits keep all three parameters inside the agreed grade.
+
+## Procurement Considerations
+
+- **Specify the method with the number.** "60 mesh" means nothing unless the sieve standard and aperture are named; write `≥ 95% passing 250 µm (No. 60, ASTM E11)` instead.
+- **State whether bulk density is loose or tapped** — they differ substantially, and volumetric dosing equipment follows one or the other.
+- **Ask for the distribution, not a single figure.** D50 alone hides an oversize tail that shows up as gritty texture; D90 is what drives mouthfeel.
+- **Tie colour to a measurable limit.** "Cream" is not measurable; `L* ≥ 85` is.
+- **Agree the sampling plan** (sample size, frequency, acceptance logic) so a dispute is settled by the plan rather than by opinion.
+
+## Related documents
+
+- [Chemical Analysis: Dry Matter, Starch and Sugars](chemical-analysis-dry-matter-starch-sugars.md)
+- [Technical Data Governance](../technical-data-governance.md) — mesh vs micron
+- [Certificate of Analysis Guide](certificate-of-analysis-guide.md)
+
 
 **Document Code:** HJ-QA-010  
 **Version:** 3.0  

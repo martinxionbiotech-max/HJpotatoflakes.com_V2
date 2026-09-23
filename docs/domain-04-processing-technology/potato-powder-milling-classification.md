@@ -3,6 +3,24 @@ description: "Potato Powder Milling and Classification Technology — Potato fla
 ---
 
 # Potato Powder Milling and Classification Technology
+## Short Answer
+
+Potato powder is made by milling drum-dried flakes and classifying the result into grades: a **hammer mill** produces the standard **60-mesh** powder, a **pin mill** reaches 100 mesh, and a **jet mill** can reach D₉₀ below 50 µm. The standard 60-mesh grade is specified at **moisture ≤ 6.0%**, **D₅₀ 180–250 µm**, **≥ 95% passing 60 mesh**, packed bulk density **0.50–0.65 g/cm³** and starch damage ≤ 8%; the 100-mesh fine grade reaches **D₉₀ ≤ 180 µm**, ≥ 97% passing, packed density 0.55–0.70 g/cm³ and starch damage ≤ 12%. Fineness raises hydration speed and dispersion but also raises free starch, dusting and caking risk.
+
+## Procurement Considerations
+
+- **Choose the grade from the application, then the mesh:** 60 mesh for dry mixes, batters and seasoning blends; 80–100 mesh where lump-free thickening or cold-water dispersion matters; ultra-fine only where your dust handling and hopper design can take it.
+- **Specify the distribution, not just the mesh.** Two 60-mesh powders can differ in D90, and the coarse tail is what a customer notices.
+- **Ask about starch damage.** Higher damage improves cold-water dispersion but increases stickiness and caking in storage.
+- **Check the classification yield logic.** Grades are cut from the same mill stream; sudden price differences between grades usually reflect yield, not quality.
+- **Match packaging to fineness:** finer powder needs a better moisture barrier and, often, a bigger bag-to-pallet ratio because of lower bulk density.
+
+## Related documents
+
+- [Physical Specifications](../domain-05-quality-control/physical-specifications-particle-size-bulk-density.md)
+- [Potato Powder Technical Datasheet](../domain-06-product-application/potato-powder-technical-datasheet.md)
+- [Technical Data Governance](../technical-data-governance.md)
+
 
 **Document Code:** HJ-TD-PT-002  
 **Version:** 1.0  

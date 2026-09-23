@@ -3,6 +3,25 @@ description: "Certificate of Analysis - Guide and Interpretation — Potato flak
 ---
 
 # Certificate of Analysis — Guide and Interpretation
+## Short Answer
+
+A HONGJI **certificate of analysis (COA)** is a **lot-specific** document issued for each shipment. It reports the measured result for that batch against the specification in force for the order — moisture (AOAC 934.06), ash (AOAC 923.03), reducing sugars (DNS colorimetric), bulk density, particle-size D50/D90 and the rehydration ratio under HJ-QA-025 (70 °C, 5 minutes) — together with microbiological results and the release statement. A COA is evidence about **one delivered lot**; it is not a universal product specification, and a single passing COA does not replace the specification.
+
+## Procurement Considerations
+
+- **Match the COA to the order before accepting it:** product and grade, lot number, the specification version it was tested against, and the method named for each parameter.
+- **Watch method drift.** A moisture figure obtained by a different method is not automatically comparable with your incoming-goods limit; ask for the method statement when the number matters.
+- **Use trend, not one certificate, for supplier qualification.** Ask for several consecutive lots to see variance — a single result says nothing about consistency.
+- **File certificates against the traceability record** (lot → shipment → invoice) so a claim raised months later is answerable.
+- **Where a result sits close to the limit,** agree in advance what happens: re-test, credit, or rejection option.
+
+## Related documents
+
+- [Batch Traceability System](batch-traceability-system.md)
+- [Physical Specifications](physical-specifications-particle-size-bulk-density.md)
+- [Rehydration Performance Test Method](rehydration-performance-test-method.md)
+- [Technical Data Governance](../technical-data-governance.md)
+
 
 **Document Code:** HJ-QA-030  
 **Version:** 2.1  
