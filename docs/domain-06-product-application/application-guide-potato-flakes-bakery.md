@@ -3,6 +3,18 @@ description: "This technical application guide provides comprehensive formulatio
 ---
 
 # Application Guide: Potato Flakes in Bakery Products
+## Short Answer
+
+Potato flakes are used in bread, buns, cakes and gluten-free bakery for three functional effects: **water absorption** (pre-gelatinised potato starch absorbs about **5.5–7.5× its own weight** of water, raising dough yield and softening the crumb), **humectancy** (potato fibre holds moisture and slows staling) and **starch behaviour on baking** — native potato starch swells at roughly **62–68 °C**, later than wheat starch at 52–58 °C, which delays gelatinisation and changes the crumb structure. Inclusion rates are formulation-specific, and additional water must be added to the dough in step with the flakes. For buyers, the parameters that decide bakery performance are particle size, water absorption index, colour (L*) and the absence of off-notes.
+
+## Procurement Considerations
+
+- **Specify particle size against your mixer, not against a habit.** Coarse flakes need longer hydration and can leave flecks in the crumb; fine powder disperses faster but dusts.
+- **Ask for the water absorption index (WAI)** and test it in your own dough — flour quality, salt and mixing time shift the effective absorption.
+- **Fix colour as a number.** For light crumb structures, `L* ≥ 85` (flakes) is the practical floor; higher-value products need more.
+- **Check the reducing-sugar limit if the product is baked dark or fried.** Reducing sugars drive Maillard browning, so `≤ 3.0%` matters more in bakery than in mash.
+- **Request a bakery application sample** and run it in the real line before qualifying: bench-scale absorption rarely matches production mixing.
+
 
 ## Scope & Objective
 

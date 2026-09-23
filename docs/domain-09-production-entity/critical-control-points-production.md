@@ -3,6 +3,18 @@ description: "Critical control points in potato flake production — HACCP analy
 ---
 
 # Critical Control Points in Potato Flakes Production
+## Short Answer
+
+The HONGJI potato flake line is controlled at the steps where a hazard can be prevented, eliminated or reduced to an acceptable level, with **magnetic separation and metal detection as the physical-hazard CCPs** verified per batch, and **drum drying** controlled as a biological CCP (surface temperature **≥ 140 °C**, product exit ≥ 100 °C). Process parameters are recorded against the batch: steam-peeling, 8–12 mm hydraulic slicing, blanching at 65–83 °C for 15–35 minutes, counterflow cooling to ≤ 30 °C, drum drying to **≤ 9% moisture**, then milling, sieving, magnetic separation, weighing, packaging and metal detection.
+
+## What an auditor should look for
+
+- **A CCP list with limits, monitoring frequency, corrective action and a named responsible person** for each point — a flow chart alone is not a control.
+- **Records that match shipments:** batch number on the process record ↔ COA ↔ traceability record ↔ container.
+- **Metal detection and magnet checks** with documented test-piece verification at the stated frequency (including the reject mechanism test, not just "detector on").
+- **Deviation handling:** at least one worked example of a deviation, the product decision taken, and the CAPA closed out.
+- **Drum-drying control evidence:** surface and product temperature records against the ≥ 140 °C requirement, and moisture results against the ≤ 9% limit.
+
 
 **Company:** Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
@@ -31,7 +43,7 @@ Cooking/Steaming (Steam 0.3–0.4 MPa, 92–99°C, 15–45 min)
         ↓
 Mashing (Additives: mono/diglycerides <0.5%, citric acid ≤0.01%)
         ↓
-Drying (Steam 0.8–1.2 MPa, drum 120–240°C, moisture ≤9%)
+Drying (Steam 0.8–1.2 MPa, drum surface 140–160°C typical (CCP limit ≥ 140°C), moisture ≤9%)
         ↓
 Flaking & Grinding → Sieving (16–40 mesh)
         ↓
@@ -60,7 +72,7 @@ Storage and Dispatch
 | **Cooking** | Steam 0.3–0.4 MPa + atmospheric pressure, 92–99°C, 15–45 minutes |
 | **Mashing** | Spiral feeder through mash screen (slow speed to prevent cell breakage) |
 | **Additives** | Mono- and diglycerides < 0.5%; citric acid ≤ 0.01% |
-| **Drying** | Steam 0.8–1.2 MPa, drum 120–240°C, film 0.2–0.25 mm, moisture ≤ 9% |
+| **Drying** | Steam 0.8–1.2 MPa, drum surface 140–160°C typical (CCP limit ≥ 140°C), film 0.2–0.25 mm, moisture ≤ 9% |
 | **Flaking & grinding** | 4–8 mm snowflake flakes; grinding speed 10–40 Hz; sieve 16–40 mesh |
 
 ---

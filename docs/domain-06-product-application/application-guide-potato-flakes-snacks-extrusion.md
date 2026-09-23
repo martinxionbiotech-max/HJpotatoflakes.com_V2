@@ -3,6 +3,18 @@ description: "This technical guide provides comprehensive formulation and proces
 ---
 
 # Application Guide: Potato Flakes & Powder in Snacks & Extrusion
+## Short Answer
+
+In snacks, potato powder (60 mesh) and potato flakes are used as the starch base for direct-expanded collets and puffs (**15–40% inclusion**), for fabricated/baked pellets at **20–50%**, and as a seasoning-mix carrier at **5–25%**. The controlling variables are **bulk density** (which sets expansion and pack fill), **particle size** (dispersion in the pre-mix and dusting behaviour) and **starch damage** (water uptake and stickiness). Potato inclusion raises bulk density and hardness while reducing expansion ratio, so formulation and extruder parameters are tuned together — not by changing the ingredient alone.
+
+## Procurement Considerations
+
+- **Buy against a bulk-density window, not a single number.** Volumetric feeders and expansion targets follow loose density; a supplier quoting only a "typical" figure cannot be held to it.
+- **State the mesh and the sieve standard.** "60 mesh" without an aperture means different powders from different suppliers.
+- **Ask about fines and starch damage.** Both change hydration speed; fines also increase dusting and caking in storage.
+- **Run a linear-regression or DOE trial through your extruder** before committing to a container: the potato fraction interacts with screw speed, moisture and die geometry.
+- **Watch seasoning applications separately:** as a carrier, the powder must disperse without clumping in oil-based coatings.
+
 
 ## Scope & Objective
 

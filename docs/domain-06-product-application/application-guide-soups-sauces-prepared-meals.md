@@ -3,6 +3,18 @@ description: "This technical guide provides comprehensive formulation and proces
 ---
 
 # Application Guide: Potato Flakes & Powder in Soups, Sauces & Prepared Meals
+## Short Answer
+
+In soups, sauces and prepared meals, potato flakes act as a **thickener and texture builder** and potato powder (60 mesh) as a **dispersible thickener for dry mixes**. Cold-water hydration differs by form — roughly **15–25% for flakes versus 20–40% for powder** — while hot-water peak viscosity runs about **2,000–3,500 cP for flakes** and **1,500–2,800 cP for powder**. Flakes give a more "cooked potato" body; powder gives a smoother, lump-free base and is the better choice for instant dry soup mixes, gravies and sauce bases. Freeze-thaw stability and shear tolerance decide which one survives your process.
+
+## Procurement Considerations
+
+- **Choose the form by hydration route:** powder for cold-mix and dry-blend applications, flakes where a fuller body is wanted.
+- **Specify viscosity at stated conditions** (concentration, temperature, shear) — viscosity figures are meaningless without them.
+- **Ask for freeze-thaw and retort behaviour** if the product is chilled, frozen or sterilised; potato starch retrogrades and can release water.
+- **Check pH and salt tolerance** in your formulation: both shift the thickening curve of potato starch.
+- **Request a samples-to-spec quote** for the grade you intend to run, and confirm the declared shelf life under your storage conditions.
+
 
 ## Scope & Objective
 

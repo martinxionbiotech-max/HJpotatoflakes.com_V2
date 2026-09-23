@@ -3,6 +3,18 @@ description: "This technical guide provides detailed formulation, reconstitution
 ---
 
 # Application Guide: Instant Mashed Potato — Formulation & Processing
+## Short Answer
+
+For instant mashed potato, the grade decision is driven by **water absorption index (WAI)**, particle size and colour: standard flake and 60-mesh powder grades run approximately **5.5–7.5 g water per g of product** under the reference test (70 °C, 5 minutes). The **flakes-to-water ratio** sets the final consistency, **water temperature** controls hydration rate and serve temperature, and a short **rest time** lets moisture equilibrate before the product is judged. Reconstitution quality is ultimately the guarantee that matters: our declared **rehydration ratio is 7.5:1 for flakes and 6.0:1 for powder**.
+
+## Procurement Considerations
+
+- **Buy against a reconstitution test you both accept** (ratio, temperature, time, agitation) — that single agreement prevents most texture disputes.
+- **Match granulation to your filling line:** fine powder flows and disperses well but dusts; coarser flakes give a more "homemade" texture and slower hydration.
+- **Set a colour floor for premium retail** (`L* ≥ 88` for flakes) and check it against your panel, not against a photograph.
+- **Confirm packaging for the shelf life you sell:** 24 months in standard PE-lined bags, 36 months vacuum or N₂-flushed.
+- **Ask for the moisture limit in writing** — for flakes the guaranteed limit is `≤ 9.0%`, with 6–8% as the typical production band; product sold as "instant mash" is often quoted at a tighter typical figure that is not the contractual limit.
+
 
 ## Scope & Objective
 
@@ -19,7 +31,7 @@ Instant mashed potato is one of the largest volume applications for dehydrated p
 | Attribute | Minimum Requirement | Recommended for Premium Product |
 |-----------|-------------------|-------------------------------|
 | Variety | Atlantic / Shepody / Russet Burbank | Shepody (best mouthfeel) |
-| Moisture | ≤ 6.0% | ≤ 5.5% |
+| Moisture | ≤ 9.0% (guaranteed; 6–8% typical) | ≤ 6.0% (guaranteed) |
 | L* color | ≥ 88 | ≥ 90 |
 | b* color | 8 – 18 | 10 – 16 |
 | Reducing sugars | ≤ 1.5% | ≤ 1.0% |
