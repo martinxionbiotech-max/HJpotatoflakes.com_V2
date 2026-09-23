@@ -4,6 +4,31 @@ description: "Technical datasheet for Hongji Agriculture potato flakes — drum-
 
 # Hongji Potato Flakes — Technical Datasheet
 
+## Short Answer
+
+HONGJI **Potato Flakes** are drum-dried, dehydrated potato flakes produced from Atlantic, Shepody and Russet Burbank potatoes grown in Zhangjiakou, Hebei. The guaranteed specification is **moisture ≤ 9.0%**, **ash ≤ 4.0%** (dry basis), **reducing sugar ≤ 3.0%**, **blue value ≤ 500** and **rehydration ratio 7.5:1**; flakes leave the line at **3–5 mm** and the delivered sieve distribution runs **0.25–3.35 mm** as handling breaks a proportion into finer material. They are packed at 20 kg / 25 kg net with a **24-month** shelf life in standard packaging (36 months vacuum or N₂-flushed).
+
+## Procurement Considerations
+
+**What buyers should specify.** Product form and grade, moisture limit, particle size expressed as both mesh and aperture, bulk density range, reducing-sugar limit, packaging (net weight per bag and pallet configuration), and the test method your own specification cites.
+
+**What to ask a supplier.** Which value is the guaranteed specification and which is a typical value; the current version of the controlling product specification; the last COA for the grade you are qualifying; and what happens to the specification if raw-material season changes.
+
+**Parameters that matter most.** Moisture (shelf life and caking), particle size (mixing, hydration and mouthfeel in your line), reducing sugars (colour after frying or baking), and microbiological limits — evaluated together. Moisture alone is not a quality indicator.
+
+**Commonly misunderstood.** That mesh and µm are interchangeable; that a COA result is a universal product specification; that a typical value is a guarantee; and that colour after baking can be judged without a reducing-sugar figure.
+
+**What to check on the COA.** Product and grade, lot number, test method, result against the limit in force for your order, and the release approval.
+
+**What can be customised.** Particle size (60 / 80 / 100 mesh and customer sieve curves), moisture, bulk density, packaging and pallet format, and blended or private-label formulations — against an agreed specification, not as a substitute for one.
+
+## Related documents
+
+- [Potato Powder Technical Datasheet](potato-powder-technical-datasheet.md) — the 60-mesh alternative
+- [Product Specification](../domain-09-production-entity/potato-flakes-product-specification.md) — the controlling document
+- [Technical Data Governance](../technical-data-governance.md)
+- [Potato Flake Manufacturing Process](../domain-04-processing-technology/potato-flake-manufacturing-process.md)
+
 ## Product Overview
 
 Hongji Agriculture's **Potato Flakes** (also known as Potato Granules or Instant Mashed Potato Flakes) are dehydrated potato products manufactured from premium processing potato varieties grown in the Zhangjiakou region of Hebei Province, China. The product is produced through a fully integrated supply chain spanning from proprietary seed breeding to controlled field cultivation and advanced processing, ensuring traceability, consistency, and food safety from farm to finished ingredient.

@@ -4,6 +4,38 @@ description: "Potato Flake Manufacturing Process: From Whole Potato to Premium D
 
 # Potato Flake Manufacturing Process: From Whole Potato to Premium Dehydrated Flakes
 
+## Short Answer
+
+Potato flakes are made by washing and steam-peeling whole potatoes, slicing and blanching them, cooking and mashing the tissue while keeping the cells intact, drying the mash as a thin sheet on a rotating drum at a surface temperature of roughly **140–160 °C** (this line's operating band, consistent with CCP-3's ≥ 140 °C) with a residence of about **15–25 seconds**, then breaking the sheet into flakes and screening out oversize. At HONGJI the line processes about **50,000 t of fresh potatoes a year**, producing up to **10,000 t of finished flakes and powder**; the drying target is **6–8% moisture at the doctor blade** against a guaranteed specification of **moisture ≤ 9.0%**.
+
+**Key facts**
+
+- Sequence: acceptance → destoning → washing → steam peeling → secondary washing → visual inspection → hydraulic slicing → blanching → cooling → cooking → mashing → drying → flaking & milling → sieving → magnetic separation → weighing → packaging → metal detection
+- Line throughput: 8–15 MT/hr fresh basis; 5–12 MT/hr cooked basis
+- Critical control points: magnetic separation and metal detection, verified per batch
+- Cell integrity is maintained deliberately: it is what allows the flake to rehydrate to a mash rather than a paste
+
+## Procurement Considerations
+
+**What buyers should specify.** Product form and grade, moisture limit, particle size expressed as both mesh and aperture, bulk density range, reducing-sugar limit, packaging (net weight per bag and pallet configuration), and the test method your own specification cites.
+
+**What to ask a supplier.** Which value is the guaranteed specification and which is a typical value; the current version of the controlling product specification; the last COA for the grade you are qualifying; and what happens to the specification if raw-material season changes.
+
+**Parameters that matter most.** Moisture (shelf life and caking), particle size (mixing, hydration and mouthfeel in your line), reducing sugars (colour after frying or baking), and microbiological limits — evaluated together. Moisture alone is not a quality indicator.
+
+**Commonly misunderstood.** That mesh and µm are interchangeable; that a COA result is a universal product specification; that a typical value is a guarantee; and that colour after baking can be judged without a reducing-sugar figure.
+
+**What to check on the COA.** Product and grade, lot number, test method, result against the limit in force for your order, and the release approval.
+
+**What can be customised.** Particle size (60 / 80 / 100 mesh and customer sieve curves), moisture, bulk density, packaging and pallet format, and blended or private-label formulations — against an agreed specification, not as a substitute for one.
+
+## Related documents
+
+- [Product Specification](../domain-09-production-entity/potato-flakes-product-specification.md) — the guaranteed values
+- [Drying Technology in Potato Processing](drying-technology-in-potato-processing.md)
+- [Critical Control Points in Production](../domain-09-production-entity/critical-control-points-production.md)
+- [Technical Data Governance](../technical-data-governance.md)
+
 **Document Code:** HJ-TD-PT-001  
 **Version:** 1.0  
 **Applicable Plant:** Hongji Agriculture, Zhangjiakou, Hebei, China  
@@ -204,7 +236,7 @@ This is the central drying operation that transforms mashed potato into thin she
 |-----------|-------|
 | Drum diameter | 1,200–2,000 mm |
 | Drum width | 2,000–3,000 mm |
-| Drum surface temperature | 140–160°C |
+| Drum surface temperature | 140–160°C (typical operating band on this line) |
 | Steam pressure inside drum | 6–10 bar |
 | Drum rotation speed | 4–12 RPM (adjustable) |
 | Product sheet thickness | 0.1–0.4 mm (wet film) |

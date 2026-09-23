@@ -4,6 +4,31 @@ description: "Technical datasheet for Hongji Agriculture 60-mesh potato powder �
 
 # Hongji Potato Powder (60 Mesh) — Technical Datasheet
 
+## Short Answer
+
+HONGJI **Potato Powder** is potato flakes precision-milled and screened to a **60-mesh (250 µm)** powder — the standard grade passes **≥ 95% through 250 µm** — with **moisture ≤ 6.0%**, **ash ≤ 4.5%** (dry basis), **reducing sugar ≤ 3.0%**, loose bulk density **480–620 g/L** and shelf life **24 months** in standard packaging (36 months vacuum-packed). It disperses faster and more evenly than flakes and is the grade used for dry mixes, seasoning blends, batters and coatings. 80-mesh fine and 100-mesh ultra-fine grades are available; standard packaging is 25 kg kraft bags.
+
+## Procurement Considerations
+
+**What buyers should specify.** Product form and grade, moisture limit, particle size expressed as both mesh and aperture, bulk density range, reducing-sugar limit, packaging (net weight per bag and pallet configuration), and the test method your own specification cites.
+
+**What to ask a supplier.** Which value is the guaranteed specification and which is a typical value; the current version of the controlling product specification; the last COA for the grade you are qualifying; and what happens to the specification if raw-material season changes.
+
+**Parameters that matter most.** Moisture (shelf life and caking), particle size (mixing, hydration and mouthfeel in your line), reducing sugars (colour after frying or baking), and microbiological limits — evaluated together. Moisture alone is not a quality indicator.
+
+**Commonly misunderstood.** That mesh and µm are interchangeable; that a COA result is a universal product specification; that a typical value is a guarantee; and that colour after baking can be judged without a reducing-sugar figure.
+
+**What to check on the COA.** Product and grade, lot number, test method, result against the limit in force for your order, and the release approval.
+
+**What can be customised.** Particle size (60 / 80 / 100 mesh and customer sieve curves), moisture, bulk density, packaging and pallet format, and blended or private-label formulations — against an agreed specification, not as a substitute for one.
+
+## Related documents
+
+- [Potato Flakes Technical Datasheet](potato-flakes-technical-datasheet.md) — the flake form
+- [Potato Powder Milling & Classification](../domain-04-processing-technology/potato-powder-milling-classification.md) — how the grades are produced
+- [Product Grade Comparison Matrix](product-grade-comparison-matrix.md)
+- [Technical Data Governance](../technical-data-governance.md)
+
 ## Product Overview
 
 Hongji Agriculture's **Potato Powder (60 Mesh)** is a finely milled dehydrated potato product produced from high-solids processing potato varieties including Atlantic, Shepody, and Russet Burbank. Unlike Potato Flakes (which retain a flake-like physical structure), Potato Powder is milled through a 60-mesh (250 μm) screen, resulting in a free-flowing fine powder with rapid hydration, uniform particle size distribution, and excellent blending properties.

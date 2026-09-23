@@ -11,6 +11,39 @@ description: "Potato flakes product specification — sensory, physicochemical, 
 **Date:** 2025.01.01  
 **Company:** 张家口弘基农业科技开发有限责任公司 (Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.)
 
+## Short Answer
+
+HONGJI **Potato Flakes** are specified in controlled document **HJ-TD-PE-03-PK/1-01-D-2025**: moisture **≤ 9.0%** (GB 5009.3), ash **≤ 4.0%** dry basis (GB 5009.4), reducing sugar **≤ 3.0%** (GB 5009.7), blue value **≤ 500** (SB/T 10752 Annex A), rehydration ratio **7.5:1**, net weight **20 kg or 25 kg**. The controlling standard is **SB/T 10752-2012** plus customer requirements, and every shipment is released against a lot-specific COA. Production targets inside these limits — for example 6–8% moisture at the doctor blade — are process values, not the guaranteed limit.
+
+**Key facts**
+
+- Varieties processed: Atlantic, Shepody, Russet Burbank
+- Ingredients: potato 99.5%; mono- and diglycerides (INS 471) ≤ 0.5%; citric acid (INS 330) ≤ 100 ppm
+- Allergens: none used in the factory
+- Release: annual verification plus per-batch COA
+- Method basis: Chinese national standards (GB) with SB/T 10752-2012 for the product
+
+## Procurement Considerations
+
+**What buyers should specify.** Product form and grade, moisture limit, particle size expressed as both mesh and aperture, bulk density range, reducing-sugar limit, packaging (net weight per bag and pallet configuration), and the test method your own specification cites.
+
+**What to ask a supplier.** Which value is the guaranteed specification and which is a typical value; the current version of the controlling product specification; the last COA for the grade you are qualifying; and what happens to the specification if raw-material season changes.
+
+**Parameters that matter most.** Moisture (shelf life and caking), particle size (mixing, hydration and mouthfeel in your line), reducing sugars (colour after frying or baking), and microbiological limits — evaluated together. Moisture alone is not a quality indicator.
+
+**Commonly misunderstood.** That mesh and µm are interchangeable; that a COA result is a universal product specification; that a typical value is a guarantee; and that colour after baking can be judged without a reducing-sugar figure.
+
+**What to check on the COA.** Product and grade, lot number, test method, result against the limit in force for your order, and the release approval.
+
+**What can be customised.** Particle size (60 / 80 / 100 mesh and customer sieve curves), moisture, bulk density, packaging and pallet format, and blended or private-label formulations — against an agreed specification, not as a substitute for one.
+
+## Related documents
+
+- [Potato Flakes Technical Datasheet](../domain-06-product-application/potato-flakes-technical-datasheet.md)
+- [Technical Data Governance](../technical-data-governance.md) — how these values are classified
+- [Document Control & Technical Team](document-control-and-technical-team.md) — version control and controlled copies
+- [Certificate of Analysis Guide](../domain-05-quality-control/certificate-of-analysis-guide.md)
+
 ---
 
 ## 1. Product Information
