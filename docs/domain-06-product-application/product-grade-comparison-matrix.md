@@ -19,7 +19,7 @@ Each tier reflects increasing quality control stringency, tighter specification 
 
 ## 1. Product Grade Overview
 
-| Grade Tier | Production Emphasis | Quality Control Level | Price Index | Applications |
+| Grade Tier | Production Emphasis | Quality Control Level | Commercial basis | Applications |
 |-----------|-------------------|---------------------|-------------|-------------|
 | **Standard Grade** | Cost-efficient bulk production | Standard in-process & final QC | Baseline (100) | Bakery, snacks, soups, sauces, meat fillers |
 | **Premium Grade** | Consistent color, finer particle control | Enhanced QC, additional color & particle tests | +15–25% | Instant mash, premium snacks, baby food, exports to EU/NA |
@@ -233,7 +233,7 @@ START: What is your target application?
 |---------|--------------|--------------|--------------|
 | Consistency | Good | Excellent | Good |
 | Color stability | Good | Excellent | Good |
-| Price | $$ | $$$ | $$$$ |
+| Commercial basis | Standard list | Premium grade terms | Specialty grade — quoted per order |
 | Regulatory support | Basic | Full EU/NA documentation | Full organic compliance |
 | Lead time | Stock (2-3 weeks) | Stock (2-3 weeks) | Made-to-order (4-6 weeks) |
 | Minimum order | 10 MT | 5 MT | Negotiable (specialty grade) |

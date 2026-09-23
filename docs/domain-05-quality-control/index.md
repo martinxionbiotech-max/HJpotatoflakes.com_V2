@@ -4,6 +4,8 @@ description: "This domain covers the comprehensive quality assurance framework f
 
 # Quality Control & Testing
 
+## Short Answer
+
 **Domain:** HJ-TD-QC  
 **Documents:** 7  
 **Last Updated:** July 2026

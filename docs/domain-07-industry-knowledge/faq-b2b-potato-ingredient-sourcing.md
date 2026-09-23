@@ -537,3 +537,11 @@ For further inquiries, technical support, or to place an order:
   ]
 }
 </script>
+
+## Related documents
+
+- [Domain index — Industry Knowledge](index.md)
+- [Product Specification (controlling document)](../domain-09-production-entity/potato-flakes-product-specification.md)
+- [Potato Flakes Technical Datasheet](../domain-06-product-application/potato-flakes-technical-datasheet.md)
+- [Certificate of Analysis Guide](../domain-05-quality-control/certificate-of-analysis-guide.md)
+- [Technical Data Governance](../technical-data-governance.md)

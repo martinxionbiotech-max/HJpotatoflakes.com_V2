@@ -320,3 +320,10 @@ Potato Flakes require significantly more water than wheat flour. Use the followi
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [Domain index — Product & Application](index.md)
+- [Application Guide: Snacks & Extrusion](application-guide-potato-flakes-snacks-extrusion.md)
+- [Potato Flakes Technical Datasheet](potato-flakes-technical-datasheet.md)
+- [Application Development Records (domain 08)](../domain-08-application-records/index.md)

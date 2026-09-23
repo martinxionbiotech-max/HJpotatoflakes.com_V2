@@ -334,3 +334,10 @@ Potato Powder (60 Mesh) is an excellent carrier for dry seasoning blends due to 
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [Domain index — Product & Application](index.md)
+- [Application Guide: Bakery](application-guide-potato-flakes-bakery.md)
+- [Potato Powder Technical Datasheet](potato-powder-technical-datasheet.md)
+- [Product Grade Comparison Matrix](product-grade-comparison-matrix.md)

@@ -358,3 +358,10 @@ For retail products where the consumer may use tap-temperature water, a modified
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [Domain index — Product & Application](index.md)
+- [Application Guide: Soups, Sauces & Meals](application-guide-soups-sauces-prepared-meals.md)
+- [Potato Flakes Technical Datasheet](potato-flakes-technical-datasheet.md)
+- [Rehydration Performance Test Method](../domain-05-quality-control/rehydration-performance-test-method.md)
