@@ -37,12 +37,12 @@ Additionally, potato powder (milled from whole flakes or directly processed) is 
 
 | Parameter | Potato Flakes | Potato Powder |
 |-----------|:-------------:|:-------------:|
-| **Particle form** | Thin, irregular flakes (typically 1–5 mm) | Fine, granular powder (80–200 mesh) |
-| **Typical particle size** | ≥95% through 850 μm (20 mesh) | ≥90% through 150 μm (100 mesh) |
+| **Particle form** | Thin, irregular flakes (3–5 mm as produced) | Fine, granular powder (60 mesh standard; 80–100 mesh optional) |
+| **Typical particle size** | 0.25–3.35 mm delivered sieve distribution (100% through 6 mesh / 3,350 μm) | 60 mesh standard: ≥95% through 250 μm |
 | **Reconstitution behavior** | Quick rehydration, fluffy mash | Requires mixing, can be lumpy if not agglomerated |
 | **Best application** | Mashed potatoes, dough conditioning | Dry mixes, soups, batters, coatings |
-| **Bulk density** | 350–450 g/L | 500–700 g/L |
-| **Shelf life** | 12–24 months (standard packaging) | 18–24 months (standard packaging) |
+| **Bulk density** | 350–500 g/L (loose) | 480–620 g/L (loose) |
+| **Shelf life** | 24 months (standard packaging); 36 months vacuum/N₂-flushed | 24 months (standard packaging); 36 months vacuum-packed |
 
 > **Tip:** Hongji Agriculture offers both product forms from the same integrated production line, ensuring consistent raw material quality between flake and powder products.
 

@@ -344,8 +344,8 @@ The production line is controlled via a distributed control system (DCS) with th
 
 | Parameter | Specification | Test Method |
 |-----------|--------------|-------------|
-| Moisture | ≤ 8% (w/w) | AOAC 925.45 |
-| Bulk density | 0.32–0.48 g/cm³ (loose) | Scott volumeter |
+| Moisture | ≤ 9.0% (w/w, guaranteed); 6–8% typical | GB 5009.3 / AOAC 925.45 |
+| Bulk density | 350–500 g/L (0.35–0.50 g/cm³, loose) | Scott volumeter |
 | Particle size | 80% between 8–30 mesh | Ro-tap sieve analysis |
 | Color (L*) | ≥ 85 (Hunter scale) | Colorimeter |
 | Reducing sugars | ≤ 1.5% (dwb) | DNS method |
