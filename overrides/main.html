@@ -74,16 +74,19 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "{{ main_url }}#organization",
-  "name": "Hongji Agriculture Technology Co., Ltd.",
-  "alternateName": "Hongji Agriculture",
+  "@id": "{{ main_url }}/#organization",
+  "name": "Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.",
+  "alternateName": ["Hongji Agriculture", "弘基农业"],
   "url": "{{ main_url }}",
   "logo": "https://hjpotatoflakes.com/wp-content/uploads/2026/07/cropped-LOGO-1.png",
-  "sameAs": [
-    "https://hjpotatoflakes.com",
-    "https://github.com/martinxionbiotech-max"
-  ],
-  "description": "China's leading vertically integrated potato flake and powder manufacturer — from seed breeding and cultivation to processing and global export.",
+  "description": "Vertically integrated potato flake and powder manufacturer in Zhangjiakou, Hebei, China — seed breeding and contract cultivation through drum drying, milling, packaging and export.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "No. 93, Xibagang, Qiaoxi District",
+    "addressLocality": "Zhangjiakou",
+    "addressRegion": "Hebei",
+    "addressCountry": "CN"
+  },
   "brand": {
     "@type": "Brand",
     "name": "Hongji Agriculture"
@@ -101,14 +104,13 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "{{ main_url }}#author",
+  "@type": "Organization",
+  "@id": "{{ main_url }}/#documentation-team",
   "name": "Hongji Agriculture Technical Documentation Team",
   "url": "{{ main_url }}",
-  "worksFor": {
-    "@id": "{{ main_url }}#organization"
-  },
-  "jobTitle": "Technical Documentation Team"
+  "parentOrganization": {
+    "@id": "{{ main_url }}/#organization"
+  }
 }
 </script>
 
@@ -117,17 +119,33 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "{{ site_url }}#website",
+  "@id": "{{ site_url }}/#website",
   "url": "{{ site_url }}",
   "name": "Hongji Agriculture — Technical Documentation Knowledge Center",
   "description": "Technical documentation knowledge base for Hongji Agriculture's vertically integrated potato flake and powder products.",
   "publisher": {
-    "@id": "{{ main_url }}#organization"
+    "@id": "{{ main_url }}/#organization"
   },
   "inLanguage": "en-US"
 }
 </script>
 
+{%- if page and page.file.src_uri.endswith('index.md') %}
+<!-- ===== CollectionPage Schema (home & domain hubs) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": {{ page_url | tojson }},
+  "url": {{ page_url | tojson }},
+  "name": {{ page_title_plain | tojson }},
+  "description": {{ page_desc | tojson }},
+  "isPartOf": { "@id": "{{ site_url }}/#website" },
+  "publisher": { "@id": "{{ main_url }}/#organization" },
+  "inLanguage": "en-US"
+}
+</script>
+{%- else %}
 <!-- ===== TechArticle Schema ===== -->
 <script type="application/ld+json">
 {
@@ -152,7 +170,7 @@
   {%- if page_keywords %}
   "keywords": {{ page_keywords | tojson }},
   {%- endif %}
-  "proficiencyLevel": "Beginner",
+  "proficiencyLevel": "Expert",
   "about": {
     "@type": "Thing",
     "name": "Potato Processing & Agricultural Technology"
@@ -168,10 +186,10 @@
     ]
   },
   "publisher": {
-    "@id": "{{ main_url }}#organization"
+    "@id": "{{ main_url }}/#organization"
   },
   "author": {
-    "@id": "{{ main_url }}#organization"
+    "@id": "{{ main_url }}/#organization"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -179,6 +197,7 @@
   }
 }
 </script>
+{%- endif %}
 
 <!-- ===== BreadcrumbList Schema ===== -->
 <script type="application/ld+json">
@@ -223,83 +242,8 @@
 }
 </script>
 
-<!-- ===== FAQPage Schema (for FAQ page) ===== -->
-{%- set faq_url = site_url ~ '/domain-07-industry-knowledge/faq-b2b-potato-ingredient-sourcing/' %}
-{%- if page_url == faq_url or page_url == faq_url.rstrip('/') %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "@id": "{{ faq_url }}#faqpage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the key product grades available for potato flakes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Potato flakes are classified into three grades: Premium Food Grade (moisture ≤6.5%, starch damage ≤8%, for baby food and premium bakery), Standard Food Grade (moisture ≤7.5%, starch damage ≤12%, for industrial baking and snacks), and Economy/Animal Feed (moisture ≤8.5%, starch damage ≤18%, for pet food)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between potato flakes and potato powder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Potato flakes are dehydrated mashed potato particles (0.25-2.0 mm) with a fluffy, porous structure used in instant mash, bakery, and snacks. Potato powder (60 mesh) is finely ground flakes (≤250 μm) with higher rehydration ratio (≥7.5 vs ≥7.0), used in seasoning blends, fine bakery, and instant mixes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which potato varieties do you process, and why does variety matter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We primarily process Atlantic, Shepody, and Russet Burbank varieties. Variety selection directly impacts dry matter content, reducing sugar levels, starch quality, and color stability in finished products. Atlantic is our gold standard for flake manufacturing due to its high dry matter content and consistent processing performance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What quality testing do you perform on each production batch?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Each batch undergoes physical testing (moisture, particle size, bulk density, color CIELAB), chemical analysis (dry matter, starch content, reducing sugars, total sugars), microbiological testing (TPC, coliforms, E. coli, Salmonella, yeast & mold), and rehydration performance evaluation. Results are documented in a Certificate of Analysis provided with each shipment."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What certifications do you hold?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We are certified under ISO 22000:2018, FSSC 22000, HACCP, Halal, and Kosher. We can also supply organic-certified product (EU/USDA organic standards) upon request."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is your Minimum Order Quantity (MOQ)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard MOQ is one 20-foot container (approximately 18-20 metric tons depending on product). Sample orders (5-25 kg) are available for qualification testing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What makes Hongji Agriculture different from other Chinese suppliers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hongji Agriculture is a fully vertically integrated producer controlling seed breeding, large-scale cultivation, modern storage, industrial processing, and global export in-house. This ensures consistent quality, traceability from seed to shipment, year-round supply stability, and direct manufacturer pricing without intermediary markup."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the typical shelf life of potato flakes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard shelf life is 12 months from production date when stored under recommended conditions (temperature below 25°C, relative humidity below 65%, away from direct sunlight and strong odors). Properly sealed packaging is critical for maintaining product quality throughout storage."
-      }
-    }
-  ]
-}
-</script>
-{%- endif %}
+<!-- FAQPage schema is generated per page (see faq-b2b-potato-ingredient-sourcing.md) -->
+
 
 {% endblock %}
 
@@ -308,7 +252,7 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-footer-copyright">
-        &copy; 2026 <a href="https://hjpotatoflakes.com">Hongji Agriculture Technology Co., Ltd.</a>
+        &copy; 2026 <a href="https://hjpotatoflakes.com">Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.</a>
         — Official Technical Documentation Center
       </div>
       <div class="md-footer-links">
