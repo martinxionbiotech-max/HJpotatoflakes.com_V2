@@ -236,7 +236,7 @@ START: What is your target application?
 | Price | $$ | $$$ | $$$$ |
 | Regulatory support | Basic | Full EU/NA documentation | Full organic compliance |
 | Lead time | Stock (2-3 weeks) | Stock (2-3 weeks) | Made-to-order (4-6 weeks) |
-| Minimum order | 16 MT (1×20'FCL) | 16 MT (1×20'FCL) | 8 MT (MOQ) |
+| Minimum order | 10 MT | 5 MT | Negotiable (specialty grade) |
 | Custom formulation | No | Limited | No |
 
 ---

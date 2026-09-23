@@ -21,7 +21,7 @@ Every technical document published in this knowledge center is a controlled docu
 | **Production / technical functions** | Provide the process parameters and product data recorded in process and datasheet documents |
 | **Sales and technical service** | Issue controlled copies to customers and auditors on request; handle change requests |
 
-Document-level signatories are printed on each controlled document (for example the product specification is signed *Prepared by / Reviewed by: Li Fangfang, Quality Control Department*, dated 2025.01.01). Named signatories are stated exactly as they appear on the controlled document; where a document carries only a departmental signature, the department is named rather than an individual.
+Document-level signatories are printed on each controlled document (for example the product specification is signed *Prepared by / Reviewed by: Mrs Wang, Quality Control Department*, dated 2025.01.01). Named signatories are stated exactly as they appear on the controlled document; where a document carries only a departmental signature, the department is named rather than an individual.
 
 ## 2. Document code system
 

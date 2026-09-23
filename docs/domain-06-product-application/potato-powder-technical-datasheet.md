@@ -442,14 +442,14 @@ Air Classification → Sieving (60 Mesh) → Metal Detection → Packaging
 
 | Item Code | Product Description | Standard Packaging | MOQ |
 |-----------|-------------------|-------------------|-----|
-| HJ-PP-60-01 | Potato Powder, 60 Mesh, Standard Grade | 25 kg kraft bag | 20 MT (1 × 20' FCL) |
-| HJ-PP-60-02 | Potato Powder, 60 Mesh, Premium Grade | 25 kg kraft bag | 20 MT |
-| HJ-PP-60-03 | Potato Powder, 60 Mesh, Organic Certified | 20 kg kraft bag | 10 MT |
-| HJ-PP-80 | Potato Powder, 80 Mesh (Fine Grade) | 25 kg kraft bag | 16 MT |
-| HJ-PP-100 | Potato Powder, 100 Mesh (Ultra-Fine) | 20 kg kraft bag | 16 MT |
-| HJ-PP-VP | Potato Powder, Vacuum-Packed Block | 20 kg carton | 16 MT |
+| HJ-PP-60-01 | Potato Powder, 60 Mesh, Standard Grade | 25 kg kraft bag | 10 MT|
+| HJ-PP-60-02 | Potato Powder, 60 Mesh, Premium Grade | 25 kg kraft bag | 5 MT|
+| HJ-PP-60-03 | Potato Powder, 60 Mesh, Organic Certified | 20 kg kraft bag | Negotiable (specialty grade)|
+| HJ-PP-80 | Potato Powder, 80 Mesh (Fine Grade) | 25 kg kraft bag | 5 MT|
+| HJ-PP-100 | Potato Powder, 100 Mesh (Ultra-Fine) | 20 kg kraft bag | 5 MT|
+| HJ-PP-VP | Potato Powder, Vacuum-Packed Block | 20 kg carton | 10 MT|
 | HJ-PP-SP | Sample Pack | 1 kg × 2 sealed pouches | Contact sales |
-| HJ-PP-PL | Private Label / Retail Pack | Customer-specified | 20 MT |
+| HJ-PP-PL | Private Label / Retail Pack | Customer-specified | 10 MT|
 | *Contact sales for lead times, pricing, and custom specifications.* | | | |
 
 ---

@@ -223,7 +223,7 @@ The finalized specification includes:
 
 | Parameter | Typical Range |
 |-----------|-------------|
-| MOQ (Minimum Order Quantity) | 8 – 16 MT (negotiable) |
+| MOQ (Minimum Order Quantity) | 10 MT (standard grades); 5 MT (premium or 100-mesh fine grades); custom blends negotiable |
 | Price structure | FOB Tianjin / CIF destination port |
 | Lead time | 21 – 45 days from PO confirmation |
 | Payment terms | T/T (30% deposit + 70% against BL) or L/C |

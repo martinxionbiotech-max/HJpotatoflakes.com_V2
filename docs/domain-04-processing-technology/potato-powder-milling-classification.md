@@ -311,7 +311,7 @@ Milling heat (from mechanical energy dissipation) can cause protein denaturation
 | Parameter | Specification | Method |
 |-----------|--------------|--------|
 | Moisture | ≤ 6.0% | AOAC 925.45 |
-| Bulk density (packed) | 0.50–0.65 g/cm³ | ASTM B527 |
+| Bulk density (packed) | 0.50–0.65 g/cm³ | HJ-QA-010-SOP-03 (tapped) |
 | Particle size (D₅₀) | 180–250 µm | Laser diffraction |
 | Passing 60 mesh | ≥ 95% | Sieve (ASTM E11) |
 | Retention on 40 mesh | ≤ 5% | Sieve |

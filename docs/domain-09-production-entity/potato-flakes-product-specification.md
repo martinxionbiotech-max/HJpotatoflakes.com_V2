@@ -5,8 +5,8 @@ description: "Potato flakes product specification — sensory, physicochemical, 
 # Potato Flakes Product Specification
 
 **Code:** HJ-TD-PE-03-PK/1-01-D-2025  
-**Prepared by:** Li Fangfang  
-**Reviewed by:** Li Fangfang  
+**Prepared by:** Mrs Wang  
+**Reviewed by:** Mrs Wang  
 **Department in Charge:** Quality Control Department  
 **Date:** 2025.01.01  
 **Company:** 张家口弘基农业科技开发有限责任公司 (Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.)

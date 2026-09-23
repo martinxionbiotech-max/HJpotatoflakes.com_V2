@@ -398,13 +398,13 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 
 | Item Code | Product Description | Standard Packaging | MOQ |
 |-----------|-------------------|-------------------|-----|
-| HJ-PF-01 | Potato Flakes, Standard Grade | 20 kg kraft bag | 16 MT (1 × 20' FCL) |
-| HJ-PF-02 | Potato Flakes, Fine Milled (< 500 μm) | 25 kg kraft bag | 16 MT |
-| HJ-PF-03 | Potato Flakes, Organic Grade | 20 kg kraft bag | 10 MT |
-| HJ-PF-11 | Potato Flakes, Kosher Certified | 20 kg kraft bag | 16 MT |
-| HJ-PF-12 | Potato Flakes, Halal Certified | 20 kg kraft bag | 16 MT |
+| HJ-PF-01 | Potato Flakes, Standard Grade | 20 kg kraft bag | 10 MT|
+| HJ-PF-02 | Potato Flakes, Fine Milled (< 500 μm) | 25 kg kraft bag | 5 MT|
+| HJ-PF-03 | Potato Flakes, Organic Grade | 20 kg kraft bag | Negotiable (specialty grade)|
+| HJ-PF-11 | Potato Flakes, Kosher Certified | 20 kg kraft bag | 10 MT|
+| HJ-PF-12 | Potato Flakes, Halal Certified | 20 kg kraft bag | 10 MT|
 | HJ-PF-SP | Potato Flakes, Sample Pack | 1 kg × 2 (sealed pouch) | Contact sales |
-| HJ-PF-PL | Potato Flakes, Private Label | Customer-specified | 20 MT |
+| HJ-PF-PL | Potato Flakes, Private Label | Customer-specified | 10 MT|
 | *Contact sales for lead times, pricing, and custom specifications.* | | | |
 
 ---
