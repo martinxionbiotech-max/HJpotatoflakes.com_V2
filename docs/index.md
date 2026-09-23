@@ -210,6 +210,18 @@ Each document is prefixed with a domain code for AI indexing:
 | 55 | [Critical Control Points in Production](domain-09-production-entity/critical-control-points-production.md) | Process flow, magnetic separation + metal detection CCPs, monitoring and corrective actions | CCP, HACCP, metal detection, magnetic separation |
 
 **Total: 7 documents** | *Domain prefix: HJ-TD-PE*
+
+---
+
+## Technical reference pages
+
+| Page | What it covers |
+|------|----------------|
+| [Technical Data Governance](technical-data-governance.md) | Value classification (typical / guaranteed / target / range / batch-specific / customer-specific), terminology and units, mesh vs micron, COA interpretation, method conventions |
+| [Document Control & Technical Team](domain-09-production-entity/document-control-and-technical-team.md) | Document code system (HJ-TD / HJ-QA / HJ-TD-PE), version control and review, responsibility, how to obtain controlled copies |
+
+*These two pages are cross-cutting references and are additional to the 55 domain documents.*
+
 *Index generated: July 2026 | Total: 55 documents | 9 knowledge domains*  
-*Hongji Agriculture Technology Co., Ltd.*  
-*Visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official online portal of Hongji Agriculture Technology Co., Ltd.*
+*Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.*  
+*Visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official online portal of Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.*

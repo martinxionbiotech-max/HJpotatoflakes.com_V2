@@ -56,6 +56,8 @@ theme:
 nav:
   - Home: index.md
 
+  - Technical Data Governance: technical-data-governance.md
+
   - "Domain 01 · Variety & Breeding Science":
       - domain-01-variety-breeding/index.md
       - Potato Varieties for Industrial Processing: domain-01-variety-breeding/potato-varieties-for-industrial-processing.md
@@ -137,6 +139,7 @@ nav:
       - Allergen Management Policy: domain-09-production-entity/allergen-management-policy.md
       - Product Specification: domain-09-production-entity/potato-flakes-product-specification.md
       - Critical Control Points: domain-09-production-entity/critical-control-points-production.md
+      - Document Control & Technical Team: domain-09-production-entity/document-control-and-technical-team.md
 
 # ---------- 插件 ----------
 plugins:
