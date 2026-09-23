@@ -7,7 +7,7 @@ description: "Chemical Analysis: Dry Matter, Starch, and Sugars — Potato flake
 **Document Code:** HJ-QA-015  
 **Version:** 3.0  
 **Effective Date:** 2026-07-01  
-**Prepared by:** Chemical Laboratory, Hongji Agriculture Co., Ltd.
+**Prepared by:** Chemical Laboratory, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

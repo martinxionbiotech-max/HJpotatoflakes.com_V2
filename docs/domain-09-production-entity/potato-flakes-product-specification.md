@@ -9,7 +9,7 @@ description: "Potato flakes product specification — sensory, physicochemical, 
 **Reviewed by:** Li Fangfang  
 **Department in Charge:** Quality Control Department  
 **Date:** 2025.01.01  
-**Company:** Hongji Agriculture Co., Ltd.
+**Company:** 张家口弘基农业科技开发有限责任公司 (Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.)
 
 ---
 
@@ -18,7 +18,7 @@ description: "Potato flakes product specification — sensory, physicochemical, 
 | Item | Detail |
 |------|--------|
 | **Product Name** | Potato Flakes |
-| **Varieties** | Atlantic / Shepody / McCain |
+| **Varieties** | Atlantic / Shepody / Russet Burbank |
 | **Reference Standard** | SB/T 10752-2012 Potato Flakes and customer requirements |
 
 **Material Description:** Produced under clean and hygienic conditions, potato flakes are made from fresh potatoes that undergo acceptance, destoning, washing, steam peeling, secondary washing, visual inspection, hydraulic slicing, blanching, cooling, cooking, mashing, drying, flaking & milling, sieving, magnetic separation, weighing, packaging, and metal detection. During processing, the potato cells are kept as intact as possible to retain nutrients, color, aroma, and flavor.
@@ -143,4 +143,4 @@ description: "Potato flakes product specification — sensory, physicochemical, 
 ## References
 
 - National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
-- Hongji Agriculture Technology Co., Ltd. 2026. "Potato Flakes Product Specification." Hongji Agriculture Knowledge Center.
+- 张家口弘基农业科技开发有限责任公司 (Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.) 2026. "Potato Flakes Product Specification." Hongji Agriculture Knowledge Center.

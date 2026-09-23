@@ -7,13 +7,13 @@ description: "Quality Assurance System Overview — Potato flake and powder qual
 **Document Code:** HJ-QA-001  
 **Version:** 2.1  
 **Effective Date:** 2026-01-15  
-**Prepared by:** Quality Management Center, Hongji Agriculture Co., Ltd.
+**Prepared by:** Quality Management Center, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 
 ## 1. Introduction
 
-Hongji Agriculture Co., Ltd. (hereinafter "Hongji") operates a fully integrated potato processing value chain spanning from variety breeding and seed multiplication through field production, raw material procurement, processing, warehousing, and global distribution. The Quality Assurance (QA) system described herein governs every link of this chain, ensuring that all finished products — Potato Flakes and Potato Powder — consistently meet or exceed the technical requirements of B2B customers worldwide, including multinational food manufacturers, snack producers, ingredient distributors, and industrial processors.
+Zhangjiakou Hongji Agriculture Technology Development Co., Ltd. (hereinafter "Hongji") operates a fully integrated potato processing value chain spanning from variety breeding and seed multiplication through field production, raw material procurement, processing, warehousing, and global distribution. The Quality Assurance (QA) system described herein governs every link of this chain, ensuring that all finished products — Potato Flakes and Potato Powder — consistently meet or exceed the technical requirements of B2B customers worldwide, including multinational food manufacturers, snack producers, ingredient distributors, and industrial processors.
 
 This document provides a comprehensive overview of the QA organizational structure, the full-chain quality management model, accredited certifications, audit regimes, and annual quality performance KPIs. It serves as the foundational quality policy reference for all downstream technical specifications, testing protocols, and customer-facing documentation.
 
@@ -201,7 +201,7 @@ Hongji Agriculture's Quality Assurance system is a comprehensive, independently 
 For inquiries regarding Hongji's quality system, certification documentation, or customer-specific quality agreements, please contact:
 
 **Quality Management Center**  
-Hongji Agriculture Co., Ltd.  
+Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.  
 Zhangjiakou, Hebei, China  
 Email: quality@hjpotatoflakes.com  
 Tel: +86 400-633-0616

@@ -4,7 +4,7 @@ description: "Critical control points in potato flake production — HACCP analy
 
 # Critical Control Points in Potato Flakes Production
 
-**Company:** Hongji Agriculture Co., Ltd.
+**Company:** Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

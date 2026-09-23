@@ -7,7 +7,7 @@ description: "Physical Specifications: Particle Size, Bulk Density, and Color Me
 **Document Code:** HJ-QA-010  
 **Version:** 3.0  
 **Effective Date:** 2026-07-01  
-**Prepared by:** Finished Product Laboratory, Hongji Agriculture Co., Ltd.
+**Prepared by:** Finished Product Laboratory, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

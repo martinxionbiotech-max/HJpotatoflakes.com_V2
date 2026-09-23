@@ -13,7 +13,7 @@ description: "Potato Flake Manufacturing Process: From Whole Potato to Premium D
 
 ## 1. Introduction
 
-Hongji Agriculture operates a fully integrated potato flake production line in Zhangjiakou, Hebei Province, with a processing capacity exceeding 50,000 metric tons of fresh potatoes annually. The facility produces high-quality potato flakes (also known as instant mashed potato granules/flakes) and potato powder for global B2B food manufacturing customers across segments including snack seasonings, bakery blends, soup bases, extruded snacks, and industrial thickeners.
+Hongji Agriculture operates a fully integrated potato flake production line in Zhangjiakou, Hebei Province, with a processing capacity of approximately 50,000 metric tons of fresh potatoes per year, producing up to 10,000 metric tons of finished potato flakes and powder annually. The facility produces high-quality potato flakes (also known as instant mashed potato granules/flakes) and potato powder for global B2B food manufacturing customers across segments including snack seasonings, bakery blends, soup bases, extruded snacks, and industrial thickeners.
 
 This document describes the complete manufacturing process for potato flakes, detailing each unit operation with engineering parameters, critical control points, equipment specifications, and energy consumption benchmarks.
 
@@ -208,7 +208,7 @@ This is the central drying operation that transforms mashed potato into thin she
 | Steam pressure inside drum | 6–10 bar |
 | Drum rotation speed | 4–12 RPM (adjustable) |
 | Product sheet thickness | 0.1–0.4 mm (wet film) |
-| Final moisture drying | 5–8% down to 6–8% |
+| Final moisture drying | 5–8% down to 6–8% typical process target (buyer-facing guaranteed specification: ≤ 9.0%) |
 | Residence time on drum | 15–30 seconds |
 
 #### 3.12.2 Drying Mechanism
@@ -353,7 +353,7 @@ The production line is controlled via a distributed control system (DCS) with th
 | pH (10% slurry) | 5.5–6.8 | pH meter |
 | Viscosity (10% soln, 70°C) | ≤ 500 cP | Brookfield viscometer |
 | Free starch | ≤ 3% | Iodine blue method |
-| Rehydration ratio | ≥ 4.5:1 (water:flakes, w/w) | Settling test |
+| Rehydration ratio | 7.5:1 (guaranteed product specification, water:flakes w/w) | HJ-QA-025 / settling test |
 | Micro: TPC | ≤ 10,000 CFU/g | AOAC 990.12 |
 | Micro: Yeast & Mold | ≤ 100 CFU/g | AOAC 997.02 |
 | Micro: Salmonella | Negative / 25 g | FDA BAM |

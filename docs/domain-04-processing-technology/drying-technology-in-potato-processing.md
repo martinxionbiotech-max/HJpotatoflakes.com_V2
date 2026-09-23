@@ -85,10 +85,10 @@ The drying process on the drum surface follows a characteristic curve:
 
 | Attribute | Drum-Dried Potato Flakes |
 |-----------|--------------------------|
-| Moisture | 6–8% |
+| Moisture | 6–8% typical (guaranteed specification ≤ 9.0%) |
 | Bulk density | 0.32–0.48 g/cm³ (loose) |
 | Rehydration time | 2–5 minutes (hot water) |
-| Rehydration ratio | 4.5–5.5:1 |
+| Rehydration ratio | 7.5:1 (guaranteed product specification) |
 | Particle shape | Irregular flakes, 0.2–3 mm |
 | Starch gelatinization | > 95% (fully cooked) |
 | Cell wall integrity | 70–85% intact |

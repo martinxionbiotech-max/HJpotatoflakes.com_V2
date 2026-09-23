@@ -6,13 +6,13 @@ description: "Quality and food safety management manual — Hongji Agriculture q
 
 **Document No.:** HJ-TD-PE-01-B-2024  
 **Supervising Department:** Food Safety Team  
-**Company:** Hongji Agriculture Co., Ltd.
+**Company:** Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 
 ## 0.1 Company Profile
 
-Hongji Agriculture Co., Ltd. is an agricultural high-tech enterprise engaged in the processing of potato flakes and potato powder, operating an integrated seed-to-flake value chain spanning Hebei and Inner Mongolia.
+Zhangjiakou Hongji Agriculture Technology Development Co., Ltd. is an agricultural high-tech enterprise engaged in the processing of potato flakes and potato powder, operating an integrated seed-to-flake value chain spanning Hebei and Inner Mongolia.
 
 **Production Lines:** 1 potato flake production line and 4 packaging lines, including destoning/washing machines, steam peelers, post-washing machines, visual inspection machines, blanchers, coolers, cookers, drum dryers, flake breakers, grinders, packaging machines, and metal detectors — supported by raw material and finished product warehouses, a steam supply station, water supply/drainage systems, wastewater treatment, power supply, and heating systems.
 
@@ -49,7 +49,7 @@ together with applicable laws, regulations, and other requirements.
 
 ### Management System Scope
 
-The system covers all departments and processing sites of Hongji Agriculture Co., Ltd. related to the management system, and the product scope covers **the production of potato flakes**.
+The system covers all departments and processing sites of Zhangjiakou Hongji Agriculture Technology Development Co., Ltd. related to the management system, and the product scope covers **the production of potato flakes**.
 
 ---
 

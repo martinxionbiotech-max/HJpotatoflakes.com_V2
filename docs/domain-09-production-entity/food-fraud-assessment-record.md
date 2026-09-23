@@ -4,7 +4,7 @@ description: "Food Fraud Vulnerability Assessment Record — Hongji Agriculture 
 
 # Food Fraud Vulnerability Assessment Record
 
-**Company:** Hongji Agriculture Co., Ltd.
+**Company:** Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

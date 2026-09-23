@@ -7,7 +7,7 @@ description: "Rehydration Performance Test Method — Potato flake and powder qu
 **Document Code:** HJ-QA-025  
 **Version:** 3.0  
 **Effective Date:** 2026-07-01  
-**Prepared by:** Application Laboratory, Hongji Agriculture Co., Ltd.
+**Prepared by:** Application Laboratory, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

@@ -7,7 +7,7 @@ description: "Microbiological Testing Protocol — Potato flake and powder quali
 **Document Code:** HJ-QA-020  
 **Version:** 2.2  
 **Effective Date:** 2026-03-15  
-**Prepared by:** Microbiological Laboratory, Hongji Agriculture Co., Ltd.
+**Prepared by:** Microbiological Laboratory, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

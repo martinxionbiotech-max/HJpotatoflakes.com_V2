@@ -434,7 +434,7 @@ Air Classification → Sieving (60 Mesh) → Metal Detection → Packaging
 | Parameter | Detail |
 |-----------|--------|
 | **Country of Origin** | People's Republic of China |
-| **Production Facility** | Hongji Agriculture Co., Ltd., Zhangjiakou, Hebei Province |
+| **Production Facility** | Zhangjiakou Hongji Agriculture Technology Development Co., Ltd., Zhangjiakou, Hebei Province |
 | **Traceability System** | Full batch traceability: seed lot → field block → harvest date → production batch → packaging SKU → shipping container → customer |
 | **Lot Number Format** | HJ-PP-YYYYMMDD-BATCH### (example: HJ-PP-20260719-001) |
 | **COA** | Certificate of Analysis accompanies every shipment — complete physicochemical, microbiological, heavy metal, and contaminant data for the specific lot |

@@ -7,7 +7,7 @@ description: "Certificate of Analysis - Guide and Interpretation — Potato flak
 **Document Code:** HJ-QA-030  
 **Version:** 2.1  
 **Effective Date:** 2026-03-10  
-**Prepared by:** Finished Product Laboratory & Customer Technical Support, Hongji Agriculture Co., Ltd.
+**Prepared by:** Finished Product Laboratory & Customer Technical Support, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

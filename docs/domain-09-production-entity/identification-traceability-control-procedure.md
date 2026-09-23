@@ -8,7 +8,7 @@ description: "Identification and traceability control procedure for potato flake
 **Date of Issue:** February 28, 2022  
 **Date of Implementation:** February 28, 2022  
 **Supervising Department:** Production and Power Department  
-**Company:** Hongji Agriculture Co., Ltd.
+**Company:** Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

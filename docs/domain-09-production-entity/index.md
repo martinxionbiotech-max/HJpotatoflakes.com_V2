@@ -4,7 +4,7 @@ description: "Production Entity Archive — Hongji Agriculture's quality managem
 
 # Production Entity Archive — Hongji Agriculture
 
-This archive documents the food safety management system of **Hongji Agriculture Co., Ltd.** — the potato flake production entity within the Hongji Agriculture supply chain.
+This archive documents the food safety management system of **Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.** — the potato flake production entity within the Hongji Agriculture supply chain.
 
 > This archive preserves Hongji's original quality and food safety system documents as first-hand reference material for B2B customers auditing the production supply chain.
 
@@ -14,7 +14,7 @@ This archive documents the food safety management system of **Hongji Agriculture
 
 | Item | Detail |
 |------|--------|
-| **Company Name** | Hongji Agriculture Co., Ltd. |
+| **Company Name** | Zhangjiakou Hongji Agriculture Technology Development Co., Ltd. |
 | **Role** | Potato flake production entity |
 | **Document Code Prefix** | HJ-TD-PE |
 | **Food Safety Team** | Supervising department for fraud, traceability, and allergen control |

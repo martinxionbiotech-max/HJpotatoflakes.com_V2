@@ -6,7 +6,7 @@ description: "Hongji Agriculture allergen management policy — control of China
 
 **Document No.:** HJ-TD-PE-03-PK/3-42-A-2022  
 **Supervising Department:** Quality Control Department  
-**Company:** Hongji Agriculture Co., Ltd.
+**Company:** Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

@@ -88,7 +88,7 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 | Feed method | Applicator roll or dip feed |
 | Dried film thickness | 0.15–0.35 mm |
 | Residence time | 15–25 seconds |
-| Final moisture | ≤ 6.0% |
+| Final moisture (drum-drying process target at the doctor blade) | ≤ 6.0% typical — the buyer-facing guaranteed limit is ≤ 9.0% |
 
 ---
 
@@ -98,13 +98,13 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 
 | Parameter | Unit | Specification | Test Method |
 |-----------|------|-------------|------------|
-| Moisture | % (w/w) | ≤ 6.0 | AOAC 925.10 |
+| Moisture | % (w/w) | ≤ 9.0 (guaranteed specification); 6–8 typical | GB 5009.3 / AOAC 925.10 |
 | Starch | % (w/w) | ≥ 75.0 (dwb) | AOAC 996.11 (enzyme assay) |
 | Protein | % (w/w) | 6.0 – 9.0 (dwb) | AOAC 984.13 (N×6.25) |
 | Ash | % (w/w) | ≤ 4.0 (dwb) | AOAC 923.03 |
 | Fat (crude) | % (w/w) | ≤ 0.5 (dwb) | AOAC 922.06 (Soxhlet) |
 | Crude Fiber | % (w/w) | ≤ 1.5 (dwb) | AOAC 962.09 |
-| Reducing Sugars | % (w/w) | ≤ 1.5 (dwb) | DNS colorimetric method |
+| Reducing Sugars | % (w/w) | ≤ 3.0 (dwb) | DNS colorimetric method |
 | Total Sugars | % (w/w) | ≤ 3.0 (dwb) | DNS colorimetric method |
 | pH (10% w/w slurry in distilled H₂O) | — | 5.3 – 6.3 | AOAC 981.12 |
 | SO₂ (residual, naturally occurring) | mg/kg | ≤ 10 | Monier-Williams distillation |
@@ -389,7 +389,7 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 | Parameter | Detail |
 |-----------|--------|
 | **Country of Origin** | People's Republic of China |
-| **Production Facility** | Hongji Agriculture Co., Ltd., Zhangjiakou, Hebei Province |
+| **Production Facility** | Zhangjiakou Hongji Agriculture Technology Development Co., Ltd., Zhangjiakou, Hebei Province |
 | **Traceability System** | Full batch traceability: seed lot → field block → harvest date → production batch → packaging SKU → shipping container → customer |
 | **Lot Number Format** | HJ-YYYYMMDD-BATCH### (example: HJ-20260719-001) |
 | **COA** | Certificate of Analysis accompanies every shipment — includes complete physicochemical, microbiological, and contaminant data for the specific lot |

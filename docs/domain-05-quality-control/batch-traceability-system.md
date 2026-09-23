@@ -7,7 +7,7 @@ description: "Batch Traceability System - Full-Chain from Seed to Ship — Potat
 **Document Code:** HJ-QA-035  
 **Version:** 2.0  
 **Effective Date:** 2026-04-01  
-**Prepared by:** Traceability & Compliance Team, Hongji Agriculture Co., Ltd.
+**Prepared by:** Traceability & Compliance Team, Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.
 
 ---
 

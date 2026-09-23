@@ -284,7 +284,7 @@ Hongji's standard procurement agreement (Framework Contract No. HJ-PROC-2026) in
 
 | Clause | Details |
 |--------|---------|
-| **Parties** | Buyer: Hongji Agriculture Co., Ltd.; Seller: [Registered Farm/Cooperative] |
+| **Parties** | Buyer: Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.; Seller: [Registered Farm/Cooperative] |
 | **Product** | Processing-grade Solanum tuberosum, specific cultivar |
 | **Volume** | Minimum __ tons, Maximum __ tons (typically ±15% flexibility) |
 | **Delivery Window** | [Date range], with weekly delivery schedule attached as Schedule A |

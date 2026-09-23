@@ -17,9 +17,9 @@ The transformation of raw potatoes into premium flakes and powder requires preci
 |:---------|:------------:|:-----------------------:|
 | Raw Material Dry Matter | ≥20% | ≥20% |
 | Drum Drying Temperature | 140-160°C | N/A (milling) |
-| Final Moisture | ≤6% | ≤6% |
-| Particle Size | 0.25-2.0 mm | ≤250 μm |
-| Rehydration Ratio | ≥7.0 | ≥7.5 |
+| Moisture (guaranteed) | ≤ 9.0% | ≤ 6.0% |
+| Particle Size | 3–5 mm as produced; 0.25–3.35 mm delivered sieve distribution | ≤ 250 μm (60 mesh, ≥95% passing) |
+| Rehydration Ratio | 7.5 : 1 | 6.0 : 1 |
 | Color (L*) | ≥85 | ≥87 |
 
 ## Documents
