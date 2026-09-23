@@ -10,6 +10,18 @@ description: "Hongji Agriculture allergen management policy — control of China
 
 ---
 
+
+## Short Answer
+
+This policy (**HJ-TD-PE-03-PK/3-42-A-2022**, supervised by the Quality Control Department) defines how allergens are identified and controlled at the Zhangjiakou potato flake plant. The product-level conclusion is short: **the factory does not use allergenic substances**, so HONGJI potato flakes and powder contain none of the eight allergens listed in China's national list (cereals containing gluten, crustaceans, fish, eggs, peanuts, soybeans, milk and dairy, tree nuts; GB 23779-2009 / GB 7718-2011). The policy exists to keep that statement true — through raw-material and additive screening, supplier declarations, segregation and cleaning practice, label review and change control when a new material is introduced.
+
+## What a buyer's auditor typically asks for
+
+- **The allergen matrix** for the site and for each product, cross-checked against the ingredient declarations in the product specification.
+- **Supplier declarations** for every additive and processing aid (the specification permits only INS 471 ≤ 0.5% and INS 330 ≤ 100 ppm).
+- **Cleaning and changeover records** — what is validated when a line is switched between products.
+- **Label review evidence** for customer-specific or private-label artwork.
+- **A documented re-assessment trigger** — what happens before a new ingredient or supplier is introduced.
 ## 1. Purpose and Scope
 
 This policy ensures that all allergenic factors related to product safety are properly identified and effectively managed, guaranteeing the normal and effective operation of the quality and food safety management system.

@@ -10,6 +10,18 @@ description: "Quality and food safety management manual — Hongji Agriculture q
 
 ---
 
+
+## Short Answer
+
+The **Quality & Food Safety Management Manual (HJ-TD-PE-01-B-2024**, supervised by the Food Safety Team) is the top-level document of the HONGJI food-safety system: it states the company profile, the scope of the system, the policy and objectives, the organisational responsibilities, and the framework that the other documents in this archive (traceability, allergen control, food fraud, critical control points) sit under.
+
+## What a buyer's auditor typically asks for
+
+- **Scope and exclusions** — which products and sites the system actually covers.
+- **The policy signed at the top of the organisation**, and how objectives are measured and reviewed.
+- **The document register**: which procedures exist, their versions, and who approves them (see [Document Control & Technical Team](document-control-and-technical-team.md)).
+- **Management review records** — the system is only "living" if it is reviewed and acted on.
+- **Links down the chain** — that the manual's promises appear as procedures, records and CCP monitoring with named owners.
 ## 0.1 Company Profile
 
 Zhangjiakou Hongji Agriculture Technology Development Co., Ltd. is an agricultural high-tech enterprise engaged in the processing of potato flakes and potato powder, operating an integrated seed-to-flake value chain spanning Hebei and Inner Mongolia.

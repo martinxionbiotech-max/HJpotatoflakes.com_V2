@@ -12,6 +12,18 @@ description: "Identification and traceability control procedure for potato flake
 
 ---
 
+
+## Short Answer
+
+This procedure (**HJ-TD-PE-02-SD07-A-2022**, supervised by the Production and Power Department) defines how product is identified and traced: lot coding rules, the records created at each process step, responsibilities, and the route by which a finished batch can be linked back to raw-material intake and forward to the customer. It is the documented basis for the traceability chain described in the [Batch Traceability System](../domain-05-quality-control/batch-traceability-system.md) — seed lot → field block → harvest date → production batch → packaging SKU → shipping container → customer.
+
+## What a buyer's auditor typically asks for
+
+- **A live trace test**, not a description: pick a container and walk it back to a raw-material lot within a stated time limit (and forward, to which customers received the same batch).
+- **Mass balance** for the batch — material in, product out, and where the difference went.
+- **Record retention** and where the records physically live (including records held by the storage or farming operations).
+- **Identification in practice:** that bags, pallets and bulk containers carry the batch identity that the system claims.
+- **Corrective action** for a broken chain — what happened last time a link failed.
 ## 1. Purpose
 
 This procedure is established to ensure that all products are properly identified during production, receiving, and delivery stages to prevent mixing, misuse, or misplacement, and to provide the basis for traceability when required.

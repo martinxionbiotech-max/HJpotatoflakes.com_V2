@@ -8,6 +8,17 @@ description: "Food Fraud Vulnerability Assessment Record — Hongji Agriculture 
 
 ---
 
+
+## Short Answer
+
+This record (**HJ-TD-PE-02-GL02-A-2022 series**) is the working output of the food-fraud vulnerability assessment: an **RPN risk matrix** covering potato flake raw materials, additives and packaging suppliers, with risk levels determined from likelihood and severity scores. It is the evidence that the procedure has been applied, and the basis for deciding which materials need additional controls.
+
+## What a buyer's auditor typically asks for
+
+- **The scoring scale and how likelihood/severity were assigned**, so the numbers can be reproduced rather than accepted.
+- **Which items were rated high**, and what control was attached to each.
+- **Consistency with the supplier approval file** — a high-risk supplier should not be approved without the corresponding mitigation.
+- **Evidence of use:** that the record has a date, an owner, and a review history, and is not a document produced once for an audit.
 ## 1. Food Fraud Vulnerability Assessment Form
 
 The following RPN (Risk Priority Number) matrix evaluates raw material characteristics, supplier control level, substitution complexity, geographical origin, physical form/accessibility, detectability, and risk index for each material in the potato flake supply chain.
