@@ -146,7 +146,8 @@ nav:
 # ---------- 插件 ----------
 plugins:
   - search
-  - meta            # 允许每页 frontmatter 覆盖 description/title
+  # 注意：不要使用 `meta` 插件 —— MkDocs 1.6+ 已移除该内置插件，会导致构建失败；
+  # YAML frontmatter（description / title）由 MkDocs 核心直接解析，模板中 page.meta 依然可用。
 
 # ---------- 构建钩子（不改变页面内容，只优化 sitemap 时间戳）----------
 hooks:
