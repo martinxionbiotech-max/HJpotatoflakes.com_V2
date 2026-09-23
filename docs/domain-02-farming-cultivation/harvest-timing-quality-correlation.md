@@ -333,3 +333,10 @@ The following decision matrix integrates all maturity indicators into a harvest-
 
 *Document maintained by the Hongji Agriculture Agronomy & Raw Material Division.*  
 *Next revision: July 2027*
+
+## Related documents
+
+- [02 — domain index](index.md)
+- [Previous in this domain: sustainable farming practices](sustainable-farming-practices.md)
+- [Next in this domain: raw material quality grading system](raw-material-quality-grading-system.md)
+- [Technical Data Governance](../technical-data-governance.md)

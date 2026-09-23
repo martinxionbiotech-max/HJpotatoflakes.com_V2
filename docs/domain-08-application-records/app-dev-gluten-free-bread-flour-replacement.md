@@ -363,3 +363,10 @@ The 30% replacement formulation is recommended for commercial scale-up and consu
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [08 — domain index](index.md)
+- [Previous in this domain: app dev instant mashed potato rehydration](app-dev-instant-mashed-potato-rehydration.md)
+- [Next in this domain: app dev extruded snack density control](app-dev-extruded-snack-density-control.md)
+- [Technical Data Governance](../technical-data-governance.md)

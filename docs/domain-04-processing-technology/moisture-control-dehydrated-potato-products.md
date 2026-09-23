@@ -358,3 +358,10 @@ For advanced moisture control, a model predictive controller (MPC) uses the dryi
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [04 — domain index](index.md)
+- [Previous in this domain: drying technology in potato processing](drying-technology-in-potato-processing.md)
+- [Next in this domain: color browning control processing](color-browning-control-processing.md)
+- [Technical Data Governance](../technical-data-governance.md)

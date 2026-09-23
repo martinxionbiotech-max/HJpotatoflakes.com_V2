@@ -266,3 +266,10 @@ When an alert limit is exceeded, an investigation is initiated. Product may stil
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [05 — domain index](index.md)
+- [Previous in this domain: chemical analysis dry matter starch sugars](chemical-analysis-dry-matter-starch-sugars.md)
+- [Next in this domain: rehydration performance test method](rehydration-performance-test-method.md)
+- [Technical Data Governance](../technical-data-governance.md)

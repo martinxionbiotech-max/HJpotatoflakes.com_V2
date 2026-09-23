@@ -105,3 +105,10 @@ This policy applies to all departments within the company and takes effect from 
 ---
 
 *This document is part of the Hongji Agriculture Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [09 — domain index](index.md)
+- [Previous in this domain: identification traceability control procedure](identification-traceability-control-procedure.md)
+- [Next in this domain: potato flakes product specification](potato-flakes-product-specification.md)
+- [Technical Data Governance](../technical-data-governance.md)

@@ -430,3 +430,9 @@ Both formulations offer a positive return on investment when positioned as "prem
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [08 — domain index](index.md)
+- [Previous in this domain: app dev baby food particle refinement](app-dev-baby-food-particle-refinement.md)
+- [Technical Data Governance](../technical-data-governance.md)

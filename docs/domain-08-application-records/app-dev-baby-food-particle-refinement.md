@@ -355,3 +355,10 @@ Microbiological levels remained well within EU infant food limits. The slight in
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [08 — domain index](index.md)
+- [Previous in this domain: app dev seasoned snack powder flavor carrier](app-dev-seasoned-snack-powder-flavor-carrier.md)
+- [Next in this domain: app dev pet food palatable formula](app-dev-pet-food-palatable-formula.md)
+- [Technical Data Governance](../technical-data-governance.md)

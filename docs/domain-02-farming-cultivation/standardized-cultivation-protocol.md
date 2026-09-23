@@ -387,3 +387,9 @@ All records must be submitted to Hongji Agriculture's Raw Material Department wi
 
 *Document maintained by the Hongji Agriculture Cultivation Division.*  
 *Next revision: July 2027*
+
+## Related documents
+
+- [02 — domain index](index.md)
+- [Next in this domain: sustainable farming practices](sustainable-farming-practices.md)
+- [Technical Data Governance](../technical-data-governance.md)

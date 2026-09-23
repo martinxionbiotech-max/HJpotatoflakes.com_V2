@@ -438,3 +438,10 @@ This formulation is recommended for immediate scale-up and industrial qualificat
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [08 — domain index](index.md)
+- [Previous in this domain: app dev extruded snack density control](app-dev-extruded-snack-density-control.md)
+- [Next in this domain: app dev meat binder whc](app-dev-meat-binder-whc.md)
+- [Technical Data Governance](../technical-data-governance.md)

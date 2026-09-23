@@ -417,3 +417,9 @@ Hongji Agriculture reserves the right to:
 
 *Document maintained by the Hongji Agriculture Quality Assurance Division.*  
 *Next revision: July 2027*
+
+## Related documents
+
+- [02 — domain index](index.md)
+- [Previous in this domain: harvest timing quality correlation](harvest-timing-quality-correlation.md)
+- [Technical Data Governance](../technical-data-governance.md)

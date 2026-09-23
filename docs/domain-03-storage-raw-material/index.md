@@ -34,6 +34,6 @@ Potato storage is a critical link in the year-round supply chain for potato flak
 
 ---
 
-**Related domains:** [01 Variety Breeding](../domain-01-variety-breeding/index.md) · [02 Farming Cultivation](../domain-02-farming-cultivation/index.md) · [04 Processing Technology](../domain-04-processing-technology/index.md) · [06 Product Application](../domain-06-product-application/index.md) · [07 Industry Knowledge](../domain-07-industry-knowledge/index.md) · [08 Application Records](../domain-08-application-records/index.md)
+**Related domains:** [01 Variety Breeding](index.md) · [02 Farming Cultivation](index.md) · [04 Processing Technology](index.md) · [06 Product Application](index.md) · [07 Industry Knowledge](index.md) · [08 Application Records](index.md)
 
 *Part of the Hongji Agriculture (弘基农业) Technical Documentation Series — [hjpotatoflakes.com](https://hjpotatoflakes.com)*

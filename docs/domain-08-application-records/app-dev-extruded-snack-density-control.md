@@ -395,3 +395,10 @@ The optimal conditions — **feed moisture 18%, screw speed 350 rpm, and tempera
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [08 — domain index](index.md)
+- [Previous in this domain: app dev gluten free bread flour replacement](app-dev-gluten-free-bread-flour-replacement.md)
+- [Next in this domain: app dev cream soup viscosity stability](app-dev-cream-soup-viscosity-stability.md)
+- [Technical Data Governance](../technical-data-governance.md)

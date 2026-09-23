@@ -107,3 +107,10 @@ The production workshop uses tags, labels, and records to indicate the inspectio
 - Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969).
 - Hongji Agriculture Technology Co., Ltd. 2026. "Critical Control Points in Potato Flakes Production." Hongji Agriculture Knowledge Center.
 - Hongji Agriculture Technology Co., Ltd. 2026. "Identification & Traceability Control Procedure." Hongji Agriculture Knowledge Center.
+
+## Related documents
+
+- [09 — domain index](index.md)
+- [Previous in this domain: food fraud assessment record](food-fraud-assessment-record.md)
+- [Next in this domain: allergen management policy](allergen-management-policy.md)
+- [Technical Data Governance](../technical-data-governance.md)

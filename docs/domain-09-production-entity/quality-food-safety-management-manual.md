@@ -71,3 +71,9 @@ The management manual is the programmatic document of the company's management s
 - ISO (International Organization for Standardization). Horizontal methods for food microbiology and physicochemical analysis.
 - FSSC 22000. Food Safety System Certification standard.
 - Hongji Agriculture Technology Co., Ltd. 2026. "Quality & Food Safety Management Manual." Hongji Agriculture Knowledge Center.
+
+## Related documents
+
+- [09 — domain index](index.md)
+- [Next in this domain: food fraud vulnerability assessment](food-fraud-vulnerability-assessment.md)
+- [Technical Data Governance](../technical-data-governance.md)

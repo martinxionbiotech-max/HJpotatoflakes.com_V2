@@ -265,3 +265,9 @@ The recommended blending ratios for flake production at Hongji Agriculture facil
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [01 — domain index](index.md)
+- [Next in this domain: seed breeding cultivar selection guide](seed-breeding-cultivar-selection-guide.md)
+- [Technical Data Governance](../technical-data-governance.md)

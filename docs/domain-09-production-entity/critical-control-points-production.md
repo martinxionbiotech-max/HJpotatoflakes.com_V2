@@ -121,3 +121,10 @@ Storage and Dispatch
 - ISO 22000:2018. Food Safety Management Systems.
 - Codex Alimentarius. General Principles of Food Hygiene (CXC 1-1969).
 - Hongji Agriculture Technology Co., Ltd. 2026. "Critical Control Points in Potato Flakes Production." Hongji Agriculture Knowledge Center.
+
+## Related documents
+
+- [09 — domain index](index.md)
+- [Previous in this domain: potato flakes product specification](potato-flakes-product-specification.md)
+- [Next in this domain: document control and technical team](document-control-and-technical-team.md)
+- [Technical Data Governance](../technical-data-governance.md)

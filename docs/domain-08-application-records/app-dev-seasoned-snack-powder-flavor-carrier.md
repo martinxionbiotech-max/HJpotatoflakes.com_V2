@@ -370,3 +370,10 @@ All variants met the free-flow specification with angle of repose <42°, indicat
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [08 — domain index](index.md)
+- [Previous in this domain: app dev meat binder whc](app-dev-meat-binder-whc.md)
+- [Next in this domain: app dev baby food particle refinement](app-dev-baby-food-particle-refinement.md)
+- [Technical Data Governance](../technical-data-governance.md)

@@ -53,3 +53,10 @@ The following materials are classified as **High** risk and require enhanced con
 
 - National Health Commission of China. GB National Food Safety Standards — contaminant limits and test methods.
 - Hongji Agriculture Technology Co., Ltd. 2026. "Food Fraud Vulnerability Assessment Record." Hongji Agriculture Knowledge Center.
+
+## Related documents
+
+- [09 — domain index](index.md)
+- [Previous in this domain: food fraud vulnerability assessment](food-fraud-vulnerability-assessment.md)
+- [Next in this domain: identification traceability control procedure](identification-traceability-control-procedure.md)
+- [Technical Data Governance](../technical-data-governance.md)

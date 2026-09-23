@@ -526,3 +526,10 @@ Year 4:  "Decommissioned" — Removed from approved variety list; no seed sales
 ---
 
 *This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+## Related documents
+
+- [01 — domain index](index.md)
+- [Previous in this domain: potato varieties for industrial processing](potato-varieties-for-industrial-processing.md)
+- [Next in this domain: atlantic potato gold standard for flakes](atlantic-potato-gold-standard-for-flakes.md)
+- [Technical Data Governance](../technical-data-governance.md)
