@@ -1,2 +1,6 @@
 # Resolve duplicate content: redirect old /docs/ paths to clean URLs
 /docs/* https://docs.hjpotatoflakes.com/:splat 301!
+
+# 旧内部草案页（dataset-schema-draft）并入公开数据集页
+/dataset-schema-draft/ /machine-readable-data/ 301
+/dataset-schema-draft/index.html /machine-readable-data/ 301

@@ -58,6 +58,8 @@ nav:
 
   - Technical Data Governance: technical-data-governance.md
 
+  - Machine-Readable Data (JSON): machine-readable-data.md
+
   - "Domain 01 · Variety & Breeding Science":
       - domain-01-variety-breeding/index.md
       - Potato Varieties for Industrial Processing: domain-01-variety-breeding/potato-varieties-for-industrial-processing.md

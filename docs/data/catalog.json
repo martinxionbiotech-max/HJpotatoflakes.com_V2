@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Hongji Agriculture — Potato Flakes & Powder Technical Specifications",
+  "alternateName": "弘基农业土豆雪花粉与土豆粉技术规格数据集",
+  "description": "Machine-readable technical specifications for Hongji potato flakes and potato powder (60 mesh): moisture, ash, reducing sugars, starch, protein, bulk density, particle size, rehydration ratio, colour, contaminant and microbiological limits, packaging and MOQ.",
+  "url": "https://docs.hjpotatoflakes.com/data/catalog.json",
+  "sameAs": [
+    "https://docs.hjpotatoflakes.com/domain-09-production-entity/potato-flakes-product-specification/",
+    "https://docs.hjpotatoflakes.com/domain-06-product-application/potato-flakes-technical-datasheet/",
+    "https://docs.hjpotatoflakes.com/domain-06-product-application/potato-powder-technical-datasheet/"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.",
+    "alternateName": [
+      "Hongji Agriculture",
+      "弘基农业"
+    ],
+    "url": "https://hjpotatoflakes.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zhangjiakou Hongji Agriculture Technology Development Co., Ltd.",
+    "alternateName": [
+      "Hongji Agriculture",
+      "弘基农业"
+    ],
+    "url": "https://hjpotatoflakes.com"
+  },
+  "license": "https://docs.hjpotatoflakes.com/terms-of-use/",
+  "isAccessibleForFree": true,
+  "inLanguage": "en",
+  "version": "1.0",
+  "dateModified": "2026-09-23",
+  "keywords": [
+    "potato flakes specification",
+    "potato powder specification",
+    "moisture",
+    "particle size",
+    "bulk density",
+    "rehydration ratio",
+    "reducing sugars",
+    "COA",
+    "60 mesh",
+    "drum dried potato flakes"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Technical specifications (flakes and powder)",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://docs.hjpotatoflakes.com/data/specs.json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Processing potato varieties",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://docs.hjpotatoflakes.com/data/varieties.json"
+    }
+  ],
+  "variableMeasured": [
+    "Moisture",
+    "Ash",
+    "Reducing sugars",
+    "Starch",
+    "Protein",
+    "Bulk density",
+    "Particle size",
+    "Rehydration ratio",
+    "Colour (L* a* b*)",
+    "Total plate count",
+    "Coliforms"
+  ],
+  "notes": "Values are the guaranteed specifications declared in the controlling product specification (HJ-TD-PE-03-PK/1-01-D-2025) and the technical datasheets. Typical and process-target values are labelled with \"value_type\". Microbiological limits for individual orders may be agreed more strictly; confirm against the specification version in force for your order."
+}

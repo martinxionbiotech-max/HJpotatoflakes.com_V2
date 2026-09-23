@@ -1,3 +1,6 @@
 mkdocs-material
 mkdocs-glightbox
 mkdocs-minify-plugin
+
+# 锁定 MkDocs 版本：1.6+ 已移除内置 meta 插件（mkdocs.yml 在使用），不锁定会导致构建失败
+mkdocs==1.5.3
