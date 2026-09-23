@@ -319,8 +319,8 @@ Milling heat (from mechanical energy dissipation) can cause protein denaturation
 | Cold water solubility | ≥ 25% | Centrifugation |
 | Color (L*) | ≥ 82 | HunterLab |
 | SO₂ residue | ≤ 10 ppm | Monier-Williams |
-| Microbial: TPC | ≤ 10,000 CFU/g | AOAC 990.12 |
-| Microbial: Salmonella | Negative/25 g | FDA BAM |
+| Microbial: TPC | ≤ 10,000 CFU/g | ISO 4833-1 |
+| Microbial: Salmonella | Negative/25 g | ISO 6579-1 |
 
 ### 9.2 Fine Powder (100-Mesh Grade)
 

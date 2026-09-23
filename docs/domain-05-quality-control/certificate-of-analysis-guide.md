@@ -142,7 +142,7 @@ Digitally Signed: [SHA-256 Hash]
 |-----------|-------------------|------------------------|-----------|
 | **APC (CFU/g)** | ISO 4833-1 | General hygiene indicator. Low count = good process sanitation | >1 × 10⁵ CFU/g: marginal shelf life; investigate process hygiene |
 | ***Salmonella* (/25g)** | ISO 6579-1 | Critical pathogen. Zero tolerance in most markets | Detection triggers immediate recall evaluation |
-| **Yeasts & Molds** | ISO 21527-1 | Storage stability indicator. >500 CFU/g may signal moisture ingress or packaging failure | >1 × 10³ CFU/g: increased spoilage risk during transport/storage |
+| **Yeasts & Molds** | ISO 21527-2 | Storage stability indicator. >500 CFU/g may signal moisture ingress or packaging failure | >1 × 10³ CFU/g: increased spoilage risk during transport/storage |
 
 ### 3.4 Functional Properties
 

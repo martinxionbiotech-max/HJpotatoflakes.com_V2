@@ -126,13 +126,13 @@ Spore-forming bacteria survive the drum drying process and can cause spoilage in
 
 | Parameter | Method Reference | n | c | m | M | Interpretation |
 |-----------|-----------------|---|---|----|----|----------------|
-| **Aerobic Plate Count (APC)** | ISO 4833-1 | 5 | 2 | 1.0 × 10⁴ | 5.0 × 10⁴ | m = limit; >m but ≤M: marginal (investigate); >M: reject |
-| **Coliforms** | ISO 4832 | 5 | 2 | 1.0 × 10² | 5.0 × 10² | Same 3-class scheme |
+| **Aerobic Plate Count (APC)** | ISO 4833-1 | 5 | 2 | 1.0 × 10⁴ (specification limit) | — | Single declared limit ≤ 10,000 CFU/g per the technical datasheetect |
+| **Coliforms** | ISO 4832 | 5 | 2 | 10 (specification limit) | — | Single declared limit ≤ 10 CFU/g per the technical datasheet |
 | ***Escherichia coli*** | ISO 16649-3 | 5 | 1 | 10 | 1.0 × 10² | ≤m = acceptable; >M = reject |
 | ***Salmonella*** | ISO 6579-1 | 10 | 0 | 0/25g | — | 2-class: 0 positive in 10 samples of 25 g each |
-| ***Staphylococcus aureus*** | ISO 6888-1 | 5 | 1 | 10² | 10³ | Same 3-class scheme |
-| **Yeasts** | ISO 21527-1 | 5 | 2 | 1.0 × 10² | 5.0 × 10² | Same 3-class scheme |
-| **Molds** | ISO 21527-1 | 5 | 2 | 1.0 × 10² | 5.0 × 10² | Same 3-class scheme |
+| ***Staphylococcus aureus*** | ISO 6888-1 | 5 | 1 | 10 (specification limit) | — | Single declared limit ≤ 10 CFU/g per the technical datasheet |
+| **Yeasts** | ISO 21527-2 | 5 | 2 | 100 (specification limit, combined with moulds) | — | Declared limit: yeast & mould ≤ 100 CFU/g combined |
+| **Molds** | ISO 21527-2 | 5 | 2 | 100 (specification limit, combined with yeasts) | — | Declared limit: yeast & mould ≤ 100 CFU/g combined |
 | ***Bacillus cereus*** | ISO 7932 | 5 | 1 | 10² | 10³ | Same 3-class scheme |
 | **Total Spore-Formers (Mesophilic)** | ISO 13720 | 5 | 2 | 1.0 × 10³ | 5.0 × 10³ | Same 3-class scheme |
 
@@ -204,9 +204,9 @@ Hongji operates a two-tier system with internal alert limits stricter than the o
 | Parameter | Alert Limit (Internal) | Action Limit (Release) |
 |-----------|----------------------|------------------------|
 | APC | 5.0 × 10³ CFU/g | 5.0 × 10⁴ CFU/g |
-| Coliforms | 50 CFU/g | 5.0 × 10² CFU/g |
-| Yeasts | 50 CFU/g | 5.0 × 10² CFU/g |
-| Molds | 50 CFU/g | 5.0 × 10² CFU/g |
+| Coliforms | set by QA below the specification limit | 10 CFU/g (specification limit) |
+| Yeasts | set by QA below the specification limit | 100 CFU/g (combined yeast & mould limit) |
+| Molds | set by QA below the specification limit | 100 CFU/g (combined yeast & mould limit) |
 
 When an alert limit is exceeded, an investigation is initiated. Product may still be released but with quality flagging and continued monitoring.
 

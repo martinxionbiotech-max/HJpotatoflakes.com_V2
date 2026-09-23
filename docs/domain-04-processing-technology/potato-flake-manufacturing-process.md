@@ -386,10 +386,10 @@ The production line is controlled via a distributed control system (DCS) with th
 | Viscosity (10% soln, 70°C) | ≤ 500 cP | Brookfield viscometer |
 | Free starch | ≤ 3% | Iodine blue method |
 | Rehydration ratio | 7.5:1 (guaranteed product specification, water:flakes w/w) | HJ-QA-025 / settling test |
-| Micro: TPC | ≤ 10,000 CFU/g | AOAC 990.12 |
-| Micro: Yeast & Mold | ≤ 100 CFU/g | AOAC 997.02 |
-| Micro: Salmonella | Negative / 25 g | FDA BAM |
-| Micro: E. coli | Negative / 1 g | FDA BAM |
+| Micro: TPC | ≤ 10,000 CFU/g | ISO 4833-1 |
+| Micro: Yeast & Mold | ≤ 100 CFU/g | ISO 21527-2 |
+| Micro: Salmonella | Negative / 25 g | ISO 6579-1 |
+| Micro: E. coli | Negative / 1 g | ISO 16649 |
 
 ---
 

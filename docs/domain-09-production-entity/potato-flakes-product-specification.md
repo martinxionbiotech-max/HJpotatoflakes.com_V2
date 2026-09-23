@@ -117,18 +117,25 @@ HONGJI **Potato Flakes** are specified in controlled document **HJ-TD-PE-03-PK/1
 
 ### 4.4 Microbiological Indicators
 
-| Item | n | c | m | M | Method |
-|------|---|---|---|---|--------|
-| Total Plate Count (CFU/g) | 5 | 2 | 1×10⁴ | 1×10⁵ | GB 4789.2 |
-| Coliforms (CFU/g) | 5 | 2 | 1×10² | 1×10³ | GB 4789.3 |
+| Item | Limit | Method |
+|------|-------|--------|
+| Total Plate Count (TPC) | ≤ 10,000 CFU/g | ISO 4833-1:2013 |
+| Coliforms | ≤ 10 CFU/g | ISO 4832:2006 |
+| Yeast & Mould | ≤ 100 CFU/g | ISO 21527-2:2008 |
+| *Staphylococcus aureus* | ≤ 10 CFU/g | ISO 6888-1:2021 |
+| *Salmonella* | Negative / 25 g | ISO 6579-1:2017 |
+| *Listeria monocytogenes* | Negative / 25 g | ISO 11290-1:2017 |
+| Aerobic spore formers | ≤ 500 CFU/g | ISO 7933:2004 |
+
+The declared microbiological limits are those of the technical datasheets (ISO methods). Test frequency: every batch, with third-party verification twice per year.
 
 ---
 
 ## 5. Testing Frequency
 
 ### 5.1 Microbiological Tests
-- **Total Plate Count:** GB 4789.2 — Each batch (third-party twice per year)
-- **Coliforms:** GB 4789.3 — Each batch (third-party twice per year)
+- **Total Plate Count:** ISO 4833-1 — Each batch (third-party twice per year)
+- **Coliforms:** ISO 4832 — Each batch (third-party twice per year)
 
 ### 5.2 Food Safety Indicators
 - Lead (Pb): GB 5009.12 — Annual

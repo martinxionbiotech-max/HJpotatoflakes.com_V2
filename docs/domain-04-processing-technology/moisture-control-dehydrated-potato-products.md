@@ -107,10 +107,10 @@ Based on the above thresholds, Hongji's dehydrated potato products target:
 | Parameter | Flakes Standard | Powder Standard | Test Method |
 |-----------|:--------------:|:---------------:|-------------|
 | Standard plate count | ≤ 10,000 CFU/g | ≤ 5,000 CFU/g | AOAC 990.12 |
-| Yeast & mold | ≤ 100 CFU/g | ≤ 50 CFU/g | AOAC 997.02 |
-| Coliforms | ≤ 10 CFU/g | ≤ 10 CFU/g | AOAC 991.14 |
+| Yeast & mold | ≤ 100 CFU/g | ≤ 50 CFU/g | ISO 21527-2 |
+| Coliforms | ≤ 10 CFU/g | ≤ 10 CFU/g | ISO 4832 |
 | *E. coli* | Negative / 1 g | Negative / 1 g | FDA BAM Ch. 4 |
-| *Salmonella* | Negative / 25 g | Negative / 25 g | FDA BAM Ch. 5 |
+| *Salmonella* | Negative / 25 g | Negative / 25 g | ISO 6579-1 |
 | *B. cereus* | ≤ 100 CFU/g | ≤ 100 CFU/g | FDA BAM Ch. 14 |
 | *S. aureus* | ≤ 10 CFU/g | ≤ 10 CFU/g | AOAC 2003.07 |
 
