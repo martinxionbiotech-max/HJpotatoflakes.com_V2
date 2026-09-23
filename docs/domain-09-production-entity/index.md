@@ -61,3 +61,7 @@ The following are the actual operating parameters recorded in Hongji's food safe
 - [Certificates](https://hjpotatoflakes.com/certificates/) — certifications and compliance
 - [Quality Commitment](https://hjpotatoflakes.com/quality-commitment/) — our quality standards
 - [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
+
+---
+
+**Related domains:** [01 Variety Breeding](../domain-01-variety-breeding/index.md) · [02 Farming Cultivation](../domain-02-farming-cultivation/index.md) · [03 Storage Raw Material](../domain-03-storage-raw-material/index.md) · [04 Processing Technology](../domain-04-processing-technology/index.md) · [05 Quality Control](../domain-05-quality-control/index.md) · [06 Product Application](../domain-06-product-application/index.md) · [07 Industry Knowledge](../domain-07-industry-knowledge/index.md) · [08 Application Records](../domain-08-application-records/index.md)
