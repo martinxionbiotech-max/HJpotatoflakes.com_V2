@@ -1,13 +1,16 @@
 ---
 description: "This domain covers in-depth technical coverage of potato flake and powder manufacturing processes, drying technologies, moisture control"
-## Explore on Hongji Agriculture Main Website
+---
+
+# Processing Technology
+
+## Explore on the Main Website
 
 - [Manufacturing Process](https://hjpotatoflakes.com/manufacturing-process/) — our full production flow
 - [Potato Flakes Product Page](https://hjpotatoflakes.com/hongji-potato-flakes/) — processing specifications
 - [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
 
 ---
-# Processing Technology
 
 The transformation of raw potatoes into premium flakes and powder requires precise control across multiple unit operations: washing, peeling, slicing, cooking, mashing, drum drying (for flakes), milling (for powder), and packaging. Each step must be optimized for the specific potato variety being processed, with critical control points for moisture content, starch gelatinization, color development, and particle size distribution. Hongji Agriculture's processing facilities are designed for vertical integration, handling the complete process from raw material intake to finished product packaging under a single quality management system.
 
@@ -32,4 +35,9 @@ The transformation of raw potatoes into premium flakes and powder requires preci
 | 4 | [Moisture Control in Dehydrated Potato Products](moisture-control-dehydrated-potato-products.md) | Water activity, sorption isotherms, shelf life prediction, packaging strategies |
 | 5 | [Color & Browning Control in Potato Processing](color-browning-control-processing.md) | Enzymatic and non-enzymatic browning mechanisms, PPO inhibition, processing strategies |
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+---
+
+**Related domains:** [01 Variety Breeding](/domain-01-variety-breeding/) · [02 Farming Cultivation](/domain-02-farming-cultivation/) · [03 Storage Raw Material](/domain-03-storage-raw-material/) · [06 Product Application](/domain-06-product-application/) · [07 Industry Knowledge](/domain-07-industry-knowledge/) · [08 Application Records](/domain-08-application-records/)
+
+*Part of the Hongji Agriculture (弘基农业) Technical Documentation Series — [hjpotatoflakes.com](https://hjpotatoflakes.com)*

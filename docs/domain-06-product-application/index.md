@@ -1,6 +1,10 @@
 ---
 description: "This domain covers complete technical datasheets for potato flakes and potato powder, product grade comparisons, application-specific usage guides"
-## Explore on Hongji Agriculture Main Website
+---
+
+# Product & Application
+
+## Explore on the Main Website
 
 - [Potato Flakes](https://hjpotatoflakes.com/hongji-potato-flakes/) — product overview and specifications
 - [Potato Powder](https://hjpotatoflakes.com/hongji-potato-powder/) — 60-mesh potato powder
@@ -8,7 +12,6 @@ description: "This domain covers complete technical datasheets for potato flakes
 - [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
 
 ---
-# Product & Application
 
 Hongji Agriculture's potato flakes and potato powder are versatile ingredients used across multiple food manufacturing sectors. Each product grade is engineered with specific processing properties — water absorption, starch gelling behavior, texture contribution, and flavor profile — matched to target applications. Our technical datasheets provide comprehensive specifications, while application-specific formulation guides help product developers optimize usage levels, mixing procedures, and processing parameters.
 
@@ -37,4 +40,9 @@ Hongji Agriculture's potato flakes and potato powder are versatile ingredients u
 | 8 | [Customized Ingredient Development Process](customized-ingredient-development-process.md) | R&D process for custom potato ingredient development |
 | 9 | [Blended Potato Powder Solutions Guide](blended-potato-powder-solutions-guide.md) | Technical formulation guide for blended powder solutions |
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+---
+
+**Related domains:** [01 Variety Breeding](/domain-01-variety-breeding/) · [02 Farming Cultivation](/domain-02-farming-cultivation/) · [03 Storage Raw Material](/domain-03-storage-raw-material/) · [04 Processing Technology](/domain-04-processing-technology/) · [07 Industry Knowledge](/domain-07-industry-knowledge/) · [08 Application Records](/domain-08-application-records/)
+
+*Part of the Hongji Agriculture (弘基农业) Technical Documentation Series — [hjpotatoflakes.com](https://hjpotatoflakes.com)*

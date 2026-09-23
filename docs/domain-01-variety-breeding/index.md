@@ -1,13 +1,16 @@
 ---
 description: "This domain covers the fundamental knowledge on potato varieties optimized for industrial potato flake and powder processing"
-## Explore on Hongji Agriculture Main Website
+---
+
+# Potato Variety & Breeding Science
+
+## Explore on the Main Website
 
 - [Potato Flakes Product Page](https://hjpotatoflakes.com/hongji-potato-flakes/) — our flagship product and variety specifications
 - [About Hongji Agriculture](https://hjpotatoflakes.com/about-hongji-agriculture/) — our breeding program and facilities
 - [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
 
 ---
-# Potato Variety & Breeding Science
 
 The foundation of premium potato flake and powder manufacturing begins with the right potato variety. Cultivar selection directly determines dry matter content, reducing sugar levels, starch quality, and finished product color — all critical parameters that differentiate high-quality ingredients from commodity-grade materials. For industrial processors, choosing between varieties such as Atlantic, Shepody, and Russet Burbank is a strategic decision with direct impact on processing yields, product consistency, and manufacturing costs.
 
@@ -30,4 +33,9 @@ The foundation of premium potato flake and powder manufacturing begins with the 
 | 3 | [Seed Breeding & Cultivar Selection Guide](seed-breeding-cultivar-selection-guide.md) | Breeding objectives for processing potatoes, molecular marker-assisted breeding, variety trial protocols |
 | 4 | [Variety Comparison Processing Matrix](variety-comparison-processing-matrix.md) | Multi-variety performance matrix: dry matter, reducing sugars, starch, specific gravity, fry color |
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+---
+
+**Related domains:** [02 Farming Cultivation](/domain-02-farming-cultivation/) · [03 Storage Raw Material](/domain-03-storage-raw-material/) · [04 Processing Technology](/domain-04-processing-technology/) · [06 Product Application](/domain-06-product-application/) · [07 Industry Knowledge](/domain-07-industry-knowledge/) · [08 Application Records](/domain-08-application-records/)
+
+*Part of the Hongji Agriculture (弘基农业) Technical Documentation Series — [hjpotatoflakes.com](https://hjpotatoflakes.com)*

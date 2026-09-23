@@ -1,12 +1,15 @@
 ---
 description: "This domain covers potato storage facility design and operation principles, year-round supply chain management strategies"
-## Explore on Hongji Agriculture Main Website
+---
+
+# Storage & Raw Material Management
+
+## Explore on the Main Website
 
 - [Manufacturing Process](https://hjpotatoflakes.com/manufacturing-process/) — storage and raw material handling
 - [Request a Quote](https://hjpotatoflakes.com/contact-us/) — contact our sales team
 
 ---
-# Storage & Raw Material Management
 
 Potato storage is a critical link in the year-round supply chain for potato flake and powder manufacturing. Properly managed storage facilities maintain raw material quality for 8-10 months post-harvest, enabling consistent production regardless of growing season. Key storage challenges include sprout inhibition, reducing sugar accumulation (low-temperature sweetening), humidity control, and disease prevention. Hongji Agriculture's storage infrastructure combines controlled atmosphere technology, real-time monitoring systems, and evidence-based reconditioning protocols to ensure stable raw material quality throughout the storage season.
 
@@ -28,4 +31,9 @@ Potato storage is a critical link in the year-round supply chain for potato flak
 | 2 | [Year-Round Supply Chain Management](year-round-supply-chain-management.md) | Growing region calendar, inventory model, quality decay curves, emergency supply, procurement contracts |
 | 3 | [Raw Material Quality Preservation](raw-material-quality-preservation.md) | Reducing sugar dynamics, low-temperature sweetening, dry matter loss, reconditioning protocols |
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+
+---
+
+**Related domains:** [01 Variety Breeding](/domain-01-variety-breeding/) · [02 Farming Cultivation](/domain-02-farming-cultivation/) · [04 Processing Technology](/domain-04-processing-technology/) · [06 Product Application](/domain-06-product-application/) · [07 Industry Knowledge](/domain-07-industry-knowledge/) · [08 Application Records](/domain-08-application-records/)
+
+*Part of the Hongji Agriculture (弘基农业) Technical Documentation Series — [hjpotatoflakes.com](https://hjpotatoflakes.com)*
